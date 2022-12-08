@@ -1,0 +1,23 @@
+body
+{
+	color: #FFFFFF;
+	background-color: #C8102E;
+	font-size: 32px;
+}
+
+.correctBackground
+{
+	color: #FFFFFF;
+	background-color: #012169;
+}
+
+div
+{
+	padding-bottom: 10px;
+}
+
+#wrongAnswerExplainer
+{
+	font-size: 10px;
+	padding-top: 15px;
+}

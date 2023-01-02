@@ -1,6 +1,6 @@
-var deitschController = angular.module('deitschController', ['ngCookies']);
+var deitschController = angular.module('deitschController', ['ngCookies', 'ngAnimate']);
 
-deitschController.controller('MainController', ['Question', '$scope', '$routeParams', '$window', '$cookies', function(Question, $scope, $routeParams, $window, $cookies)
+deitschController.controller('MainController', ['Question', '$scope', '$routeParams', '$window', '$cookies', '$animate', function(Question, $scope, $routeParams, $window, $cookies, $animate)
 {
 	var thetta = this;
 	thetta.questionCollection = [];
@@ -16,6 +16,7 @@ deitschController.controller('MainController', ['Question', '$scope', '$routePar
 	thetta.blankString = "";
 	thetta.isPreviousWrongQuestion = false;
 	thetta.questionArrayIndex = 0;
+	thetta.fade = false;
 
 	Question.success(function(data)
 	{
@@ -47,7 +48,7 @@ deitschController.controller('MainController', ['Question', '$scope', '$routePar
 		}
 		else
 		{
-			if(thetta.previousWrongAnswers.length > 0 && Math.random() < 1)
+			if(thetta.previousWrongAnswers.length > 0 && Math.random() < .1)
 			{
 				thetta.questionArrayIndex = parseInt(thetta.previousWrongAnswers[Math.floor(Math.random() * thetta.previousWrongAnswers.length)]);
 				thetta.isPreviousWrongQuestion = true;
@@ -90,6 +91,7 @@ deitschController.controller('MainController', ['Question', '$scope', '$routePar
 		if(thetta.answerToCurrentQuestion.toUpperCase() === thetta.currentUserAnswer.toUpperCase())
 		{
 			thetta.correct++;
+			thetta.fade = true;
 			thetta.displayCorrect = true;
 			thetta.shouldShowAnswer = false;
 			if(thetta.isPreviousWrongQuestion)
@@ -233,4 +235,18 @@ deitschController.controller('MainController', ['Question', '$scope', '$routePar
 			return 'F';
 		}
 	};
+}])
+.animation('.fade', [function()
+{
+	return
+	{
+		enter: function(element, doneFn)
+		{
+			jQuery(element).fadeOut(500, doneFn);
+		},
+		leave: function(element, doneFn)
+		{
+			jQuery(element).fadeIn(500, doneFn);
+		}
+	}
 }]);

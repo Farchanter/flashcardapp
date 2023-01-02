@@ -1,0 +1,21 @@
+<div>
+
+	<h1>{{category}}</h1>
+	<p>{{currentQuestion}}</p>
+	<div>
+		<span></span>
+		<span></span>
+	</div>
+	<form #userAnswer = "ngForm" (ngSubmit) = "onClickSubmit(userAnswer.value)">
+		Answer:
+		<input type="text" name="text" ngModel/>
+		<input type="submit" id="submit" value="Submit"/>
+	</form>
+	<span></span>
+	<button>Show answer</button>
+	<button>Clear</button>
+	<span></span>
+	<span></span>
+	<div id="wrongAnswerExplainer" *ngIf="isPreviousWrongQuestion === true">*You are being shown this question because you made a mistake on it previously</div>
+</div>
+

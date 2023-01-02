@@ -1,1 +1,1 @@
-angular.module('Deitsch', ['questionFactory', 'deitschController', 'ngRoute', 'ngCookies']);
+angular.module('Deitsch', ['questionFactory', 'deitschController', 'ngRoute', 'ngCookies', 'ngAnimate']);

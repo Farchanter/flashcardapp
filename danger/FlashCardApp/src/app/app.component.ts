@@ -27,10 +27,13 @@ export class AppComponent {
 	answerToCurrentQuestion = atcq;
 	category = cat;
 	isPreviousWrongQuestion = false;
+    numberGuesses = 0;
+    numberRight = 0;
 	json:any = questions;
 	
 	onClickSubmit(data:any)
 	{
+        this.numberGuesses++;
 		if(this.answerToCurrentQuestion.toUpperCase() === data.text.toUpperCase())
 		{
 			popRandomQuestion();
@@ -38,6 +41,33 @@ export class AppComponent {
 			this.answerToCurrentQuestion = atcq;
 			this.category = cat;
 			this.isPreviousWrongQuestion = false;
+            this.numberRight++;
 		}
 	}
+
+    letterGrade()
+    {
+        if(0 === this.numberGuesses)
+        {
+            return "A";
+        }
+        let ratio = this.numberRight/this.numberGuesses;
+        if(ratio > .9)
+        {
+            return "A";
+        }
+        else if(ratio > .8)
+        {
+            return "B";
+        }
+        else if(ratio > .7)
+        {
+            return "C";
+        }
+        else if(ratio > .6)
+        {
+            return "D";
+        }
+        return "F";
+    }
 }

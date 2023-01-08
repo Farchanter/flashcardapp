@@ -14,8 +14,8 @@
 	<span></span>
 	<button>Show answer</button>
 	<button>Clear</button>
-	<span></span>
-	<span></span>
+	<span>{{numberRight}}/{{numberGuesses}}</span>
+	<span>{{letterGrade()}}</span>
 	<div id="wrongAnswerExplainer" *ngIf="isPreviousWrongQuestion === true">*You are being shown this question because you made a mistake on it previously</div>
 </div>
 

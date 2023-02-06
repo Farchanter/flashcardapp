@@ -14,6 +14,24 @@ let popRandomQuestion = function()
 	cat = randomQuestion.category;
 	console.log(atcq);
 };
+
+let assembleBlankString = function()
+{
+    let resultString = '';
+    for (let char of atcq)
+    {
+        if(' ' === char)
+        {
+            resultString += ' ';
+        }
+        else
+        {
+            resultString += '_';
+        }
+    }
+
+    return resultString;
+}
 popRandomQuestion();
 
 @Component({
@@ -22,7 +40,7 @@ popRandomQuestion();
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'English';
+    title = 'English';
 	currentQuestion = cq;
 	answerToCurrentQuestion = atcq;
 	category = cat;
@@ -30,18 +48,24 @@ export class AppComponent {
     numberGuesses = 0;
     numberRight = 0;
 	json:any = questions;
-	
-	onClickSubmit(data:any)
+    showAnswer = false;
+    guess = '';
+    blankString = assembleBlankString();
+    
+	onClickSubmit()
 	{
         this.numberGuesses++;
-		if(this.answerToCurrentQuestion.toUpperCase() === data.text.toUpperCase())
+        console.log(this.guess);
+		if(this.answerToCurrentQuestion.toUpperCase() === this.guess.toUpperCase())
 		{
 			popRandomQuestion();
+            this.blankString = assembleBlankString();
 			this.currentQuestion = cq;
 			this.answerToCurrentQuestion = atcq;
 			this.category = cat;
 			this.isPreviousWrongQuestion = false;
             this.numberRight++;
+            this.showAnswer = false;
 		}
 	}
 

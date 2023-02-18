@@ -67,6 +67,55 @@ export class AppComponent {
             this.numberRight++;
             this.showAnswer = false;
 		}
+        else
+        {
+            let hasReplacedLetter = false;
+            let count = 0;
+            for(let i = 0; i < this.guess.length; i++)
+			{
+				let charFromAnswer = this.guess[i];
+				if(this.replaceLetter(charFromAnswer))
+				{
+					hasReplacedLetter = true;
+				}
+			}
+			if(!hasReplacedLetter)
+			{
+				while(!hasReplacedLetter)
+				{
+					let randomCharFromAnswer = this.answerToCurrentQuestion[Math.floor(Math.random() * this.answerToCurrentQuestion.length)];
+					hasReplacedLetter = this.replaceLetter(randomCharFromAnswer);
+					count++;
+					if(count >= 100)
+					{
+						hasReplacedLetter = true;
+					}
+				}
+			}
+        }
+	}
+
+    replaceLetter(char:string)
+	{
+		let hasReplacedLetter = false;
+		if(!this.blankString.includes(char))
+		{
+			hasReplacedLetter = true;
+			for(let i = 0; i < this.answerToCurrentQuestion.length; i++)
+			{
+				if(this.answerToCurrentQuestion[i].toUpperCase() === char.toUpperCase())
+				{
+					this.blankString = this.setCharAt(this.blankString, i, char.toUpperCase());
+				}
+			}
+		}
+		
+		return hasReplacedLetter;
+	}
+	
+	setCharAt(string:string, index:number, char:string)
+	{
+		return string.substring(0,index) + char + string.substring(index+1);
 	}
 
     letterGrade()

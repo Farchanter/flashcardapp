@@ -48,6 +48,7 @@ export class AppComponent {
     numberGuesses = 0;
     numberRight = 0;
 	json:any = questions;
+    showCorrect = true;
     showAnswer = false;
     guess = '';
     blankString = assembleBlankString();
@@ -66,10 +67,12 @@ export class AppComponent {
 			this.isPreviousWrongQuestion = false;
             this.numberRight++;
             this.showAnswer = false;
+            this.showCorrect = true;
 		}
         else
         {
             let hasReplacedLetter = false;
+            this.showCorrect = false;
             let count = 0;
             for(let i = 0; i < this.guess.length; i++)
 			{

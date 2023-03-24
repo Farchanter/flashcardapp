@@ -55,26 +55,26 @@ export class AppComponent {
     
 	onClickSubmit()
 	{
-        this.numberGuesses++;
-        console.log(this.guess);
+    this.numberGuesses++;
+    console.log(this.guess);
 		if(this.answerToCurrentQuestion.toUpperCase() === this.guess.toUpperCase())
 		{
 			popRandomQuestion();
-            this.blankString = assembleBlankString();
+      this.blankString = assembleBlankString();
 			this.currentQuestion = cq;
 			this.answerToCurrentQuestion = atcq;
 			this.category = cat;
 			this.isPreviousWrongQuestion = false;
-            this.numberRight++;
-            this.showAnswer = false;
-            this.showCorrect = true;
+      this.numberRight++;
+      this.showAnswer = false;
+      this.showCorrect = true;
 		}
-        else
-        {
-            let hasReplacedLetter = false;
-            this.showCorrect = false;
-            let count = 0;
-            for(let i = 0; i < this.guess.length; i++)
+    else
+    {
+			let hasReplacedLetter = false;
+			this.showCorrect = false;
+			let count = 0;
+			for(let i = 0; i < this.guess.length; i++)
 			{
 				let charFromAnswer = this.guess[i];
 				if(this.replaceLetter(charFromAnswer))
@@ -89,19 +89,19 @@ export class AppComponent {
 					let randomCharFromAnswer = this.answerToCurrentQuestion[Math.floor(Math.random() * this.answerToCurrentQuestion.length)];
 					hasReplacedLetter = this.replaceLetter(randomCharFromAnswer);
 					count++;
-					if(count >= 100)
+					if(count >= 1000)
 					{
 						hasReplacedLetter = true;
 					}
 				}
 			}
-        }
+    }
 	}
 
-    replaceLetter(char:string)
+  replaceLetter(char:string)
 	{
 		let hasReplacedLetter = false;
-		if(!this.blankString.includes(char))
+		if((!this.blankString.includes(char)) && this.answerToCurrentQuestion.toUpperCase().includes(char.toUpperCase()))
 		{
 			hasReplacedLetter = true;
 			for(let i = 0; i < this.answerToCurrentQuestion.length; i++)

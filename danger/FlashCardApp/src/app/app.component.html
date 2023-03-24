@@ -8,7 +8,7 @@
 	</div>
 	<form #userAnswer = "ngForm" (ngSubmit) = "onClickSubmit()" [(ngModel)]="guess" name="guess" ngDefaultControl>
 		Answer:
-		<input type="text" name="text" ngModel/>
+		<input type="text" name="text" autocomplete="off" ngModel/>
 		<input type="submit" id="submit" value="Submit"/>
 	</form>
 	<span></span>

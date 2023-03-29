@@ -103,11 +103,14 @@ export class AppComponent {
 		let hasReplacedLetter = false;
 		if((!this.blankString.includes(char)) && this.answerToCurrentQuestion.toUpperCase().includes(char.toUpperCase()))
 		{
-			hasReplacedLetter = true;
 			for(let i = 0; i < this.answerToCurrentQuestion.length; i++)
 			{
 				if(this.answerToCurrentQuestion[i].toUpperCase() === char.toUpperCase())
 				{
+					if(this.blankString[i] === '_')
+					{
+						hasReplacedLetter = true;
+					}
 					this.blankString = this.setCharAt(this.blankString, i, char.toUpperCase());
 				}
 			}
@@ -121,29 +124,29 @@ export class AppComponent {
 		return string.substring(0,index) + char + string.substring(index+1);
 	}
 
-    letterGrade()
-    {
-        if(0 === this.numberGuesses)
-        {
-            return "A";
-        }
-        let ratio = this.numberRight/this.numberGuesses;
-        if(ratio > .9)
-        {
-            return "A";
-        }
-        else if(ratio > .8)
-        {
-            return "B";
-        }
-        else if(ratio > .7)
-        {
-            return "C";
-        }
-        else if(ratio > .6)
-        {
-            return "D";
-        }
-        return "F";
-    }
+	letterGrade()
+	{
+			if(0 === this.numberGuesses)
+			{
+					return "A";
+			}
+			let ratio = this.numberRight/this.numberGuesses;
+			if(ratio >= .9)
+			{
+					return "A";
+			}
+			else if(ratio >= .8)
+			{
+					return "B";
+			}
+			else if(ratio >= .7)
+			{
+					return "C";
+			}
+			else if(ratio >= .6)
+			{
+					return "D";
+			}
+			return "F";
+	}
 }

@@ -1,49 +1,19 @@
 import { Component } from '@angular/core';
 import questions from './questions.json';
-
-let atcq = "";
-let cq = "";
-let cat = "";
-
-let popRandomQuestion = function()
-{
-	let randomQuestion = questions.questions[Math.floor(Math.random() * questions.questions.length)];
-	console.log(randomQuestion);
-	atcq = randomQuestion.answer;
-	cq = randomQuestion.question;
-	cat = randomQuestion.category;
-	console.log(atcq);
-};
-
-let assembleBlankString = function()
-{
-    let resultString = '';
-    for (let char of atcq)
-    {
-        if(' ' === char)
-        {
-            resultString += ' ';
-        }
-        else
-        {
-            resultString += '_';
-        }
-    }
-
-    return resultString;
-}
-popRandomQuestion();
+import {CookieService} from 'ngx-cookie-service';
 
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  styleUrls: ['./app.component.css'],
+  providers: [CookieService]
 })
+
 export class AppComponent {
     title = 'English';
-	currentQuestion = cq;
-	answerToCurrentQuestion = atcq;
-	category = cat;
+	currentQuestion = '';
+	answerToCurrentQuestion = '';
+	category = '';
 	isPreviousWrongQuestion = false;
     numberGuesses = 0;
     numberRight = 0;
@@ -51,26 +21,29 @@ export class AppComponent {
     showCorrect = true;
     showAnswer = false;
     guess = '';
-    blankString = assembleBlankString();
+    blankString = this.assembleBlankString();
+    previousWrongAnswers = this.getPreviousWrongAnswerArray();
+
+    constructor(private cookieService: CookieService)
+    {
+    	this.popRandomQuestion();
+    }
     
 	onClickSubmit()
 	{
-    this.numberGuesses++;
-    console.log(this.guess);
+        this.numberGuesses++;
+        console.log(this.guess);
 		if(this.answerToCurrentQuestion.toUpperCase() === this.guess.toUpperCase())
 		{
-			popRandomQuestion();
-      this.blankString = assembleBlankString();
-			this.currentQuestion = cq;
-			this.answerToCurrentQuestion = atcq;
-			this.category = cat;
+			this.popRandomQuestion();
+            this.blankString = this.assembleBlankString();
 			this.isPreviousWrongQuestion = false;
-      this.numberRight++;
-      this.showAnswer = false;
-      this.showCorrect = true;
+            this.numberRight++;
+            this.showAnswer = false;
+            this.showCorrect = true;
 		}
-    else
-    {
+        else
+        {
 			let hasReplacedLetter = false;
 			this.showCorrect = false;
 			let count = 0;
@@ -95,7 +68,7 @@ export class AppComponent {
 					}
 				}
 			}
-    }
+        }
 	}
 
   replaceLetter(char:string)
@@ -148,5 +121,39 @@ export class AppComponent {
 					return "D";
 			}
 			return "F";
+	}
+
+    getPreviousWrongAnswerArray()
+    {
+        let cookie = this.cookieService.get('englishIncorrectQuestion');
+        return (undefined === cookie || "" === cookie) ? [] : cookie.split("|");
+    }
+
+    popRandomQuestion()
+    {
+	    let randomQuestion = questions.questions[Math.floor(Math.random() * questions.questions.length)];
+	    console.log(randomQuestion);
+	    this.answerToCurrentQuestion = randomQuestion.answer;
+	    this.currentQuestion = randomQuestion.question;
+	    this.category = randomQuestion.category;
+	    console.log(this.answerToCurrentQuestion);
+    }
+    
+    assembleBlankString()
+	{
+		let resultString = '';
+		for (let char of this.answerToCurrentQuestion)
+		{
+		    if(' ' === char)
+		    {
+		        resultString += ' ';
+		    }
+		    else
+		    {
+		        resultString += '_';
+		    }
+		}
+
+		return resultString;
 	}
 }

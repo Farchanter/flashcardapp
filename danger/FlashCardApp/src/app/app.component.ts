@@ -131,13 +131,26 @@ export class AppComponent {
 
     popRandomQuestion()
     {
-	    let randomQuestion = questions.questions[Math.floor(Math.random() * questions.questions.length)];
+			let randomQuestionIndex = (0 === this.previousWrongAnswers.length) ? this.getAnyQuestionIndex() : (this.previousWrongAnswers.length > 0 && Math.random() < .1) ? this.getWrongQuestionIndex() : this.getAnyQuestionIndex();
+	    let randomQuestion = questions.questions[randomQuestionIndex];
 	    console.log(randomQuestion);
 	    this.answerToCurrentQuestion = randomQuestion.answer;
 	    this.currentQuestion = randomQuestion.question;
 	    this.category = randomQuestion.category;
 	    console.log(this.answerToCurrentQuestion);
     }
+		
+		getAnyQuestionIndex()
+		{
+			this.isPreviousWrongQuestion = false;
+			return Math.floor(Math.random() * questions.questions.length);
+		}
+		
+		getWrongQuestionIndex()
+		{
+			this.isPreviousWrongQuestion = true;
+			return parseInt(this.previousWrongAnswers[Math.floor(Math.random() * this.previousWrongAnswers.length)]);
+		}
     
     assembleBlankString()
 	{

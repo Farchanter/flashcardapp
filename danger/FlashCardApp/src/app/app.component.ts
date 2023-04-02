@@ -10,43 +10,50 @@ import {CookieService} from 'ngx-cookie-service';
 })
 
 export class AppComponent {
-    title = 'English';
+  title = 'English';
 	currentQuestion = '';
 	answerToCurrentQuestion = '';
 	category = '';
 	isPreviousWrongQuestion = false;
-    numberGuesses = 0;
-    numberRight = 0;
+  numberGuesses = 0;
+  numberRight = 0;
 	json:any = questions;
-    showCorrect = true;
-    showAnswer = false;
-    guess = '';
-    blankString = this.assembleBlankString();
-    previousWrongAnswers = this.getPreviousWrongAnswerArray();
+  showCorrect = true;
+  showAnswer = false;
+  guess = '';
+  blankString = '';
+	questionArrayIndex = 0;
+  previousWrongAnswers = this.getPreviousWrongAnswerArray();
 
-    constructor(private cookieService: CookieService)
-    {
-    	this.popRandomQuestion();
-    }
+	constructor(private cookieService: CookieService)
+	{
+		this.popRandomQuestion();
+		this.blankString = this.assembleBlankString();
+	}
     
 	onClickSubmit()
 	{
-        this.numberGuesses++;
-        console.log(this.guess);
+    this.numberGuesses++;
+    console.log(this.guess);
 		if(this.answerToCurrentQuestion.toUpperCase() === this.guess.toUpperCase())
 		{
 			this.popRandomQuestion();
-            this.blankString = this.assembleBlankString();
+      this.blankString = this.assembleBlankString();
 			this.isPreviousWrongQuestion = false;
-            this.numberRight++;
-            this.showAnswer = false;
-            this.showCorrect = true;
+			this.numberRight++;
+			this.showAnswer = false;
+			this.showCorrect = true;
 		}
-        else
-        {
+    else
+		{
 			let hasReplacedLetter = false;
 			this.showCorrect = false;
 			let count = 0;
+			if(!this.isPreviousWrongQuestion)
+			{
+				this.previousWrongAnswers.push(this.questionArrayIndex+'');
+				this.cookieService.set('englishIncorrectQuestions', this.previousWrongAnswers.join('|'));
+			}
 			for(let i = 0; i < this.guess.length; i++)
 			{
 				let charFromAnswer = this.guess[i];
@@ -68,7 +75,7 @@ export class AppComponent {
 					}
 				}
 			}
-        }
+    }
 	}
 
   replaceLetter(char:string)
@@ -99,72 +106,72 @@ export class AppComponent {
 
 	letterGrade()
 	{
-			if(0 === this.numberGuesses)
-			{
-					return "A";
-			}
-			let ratio = this.numberRight/this.numberGuesses;
-			if(ratio >= .9)
-			{
-					return "A";
-			}
-			else if(ratio >= .8)
-			{
-					return "B";
-			}
-			else if(ratio >= .7)
-			{
-					return "C";
-			}
-			else if(ratio >= .6)
-			{
-					return "D";
-			}
-			return "F";
+		if(0 === this.numberGuesses)
+		{
+				return "A";
+		}
+		let ratio = this.numberRight/this.numberGuesses;
+		if(ratio >= .9)
+		{
+				return "A";
+		}
+		else if(ratio >= .8)
+		{
+				return "B";
+		}
+		else if(ratio >= .7)
+		{
+				return "C";
+		}
+		else if(ratio >= .6)
+		{
+				return "D";
+		}
+		return "F";
 	}
 
-    getPreviousWrongAnswerArray()
-    {
-        let cookie = this.cookieService.get('englishIncorrectQuestion');
-        return (undefined === cookie || "" === cookie) ? [] : cookie.split("|");
-    }
+	getPreviousWrongAnswerArray()
+	{
+		let cookie = this.cookieService.get('englishIncorrectQuestions');
+		return (undefined === cookie || "" === cookie) ? [] : cookie.split("|");
+	}
 
-    popRandomQuestion()
-    {
-			let randomQuestionIndex = (0 === this.previousWrongAnswers.length) ? this.getAnyQuestionIndex() : (this.previousWrongAnswers.length > 0 && Math.random() < .1) ? this.getWrongQuestionIndex() : this.getAnyQuestionIndex();
-	    let randomQuestion = questions.questions[randomQuestionIndex];
-	    console.log(randomQuestion);
-	    this.answerToCurrentQuestion = randomQuestion.answer;
-	    this.currentQuestion = randomQuestion.question;
-	    this.category = randomQuestion.category;
-	    console.log(this.answerToCurrentQuestion);
-    }
-		
-		getAnyQuestionIndex()
-		{
-			this.isPreviousWrongQuestion = false;
-			return Math.floor(Math.random() * questions.questions.length);
-		}
-		
-		getWrongQuestionIndex()
-		{
-			this.isPreviousWrongQuestion = true;
-			return parseInt(this.previousWrongAnswers[Math.floor(Math.random() * this.previousWrongAnswers.length)]);
-		}
-    
-    assembleBlankString()
+	popRandomQuestion()
+	{
+		this.questionArrayIndex = (0 === this.previousWrongAnswers.length) ? this.getAnyQuestionIndex() : (this.previousWrongAnswers.length > 0 && Math.random() < 1) ? this.getWrongQuestionIndex() : this.getAnyQuestionIndex();
+		let randomQuestion = questions.questions[this.questionArrayIndex];
+		console.log(randomQuestion);
+		this.answerToCurrentQuestion = randomQuestion.answer;
+		this.currentQuestion = randomQuestion.question;
+		this.category = randomQuestion.category;
+		console.log(this.answerToCurrentQuestion);
+	}
+	
+	getAnyQuestionIndex()
+	{
+		this.isPreviousWrongQuestion = false;
+		return Math.floor(Math.random() * questions.questions.length);
+	}
+	
+	getWrongQuestionIndex()
+	{
+		this.isPreviousWrongQuestion = true;
+		return parseInt(this.previousWrongAnswers[Math.floor(Math.random() * this.previousWrongAnswers.length)]);
+	}
+	
+	assembleBlankString()
 	{
 		let resultString = '';
 		for (let char of this.answerToCurrentQuestion)
 		{
-		    if(' ' === char)
-		    {
-		        resultString += ' ';
-		    }
-		    else
-		    {
-		        resultString += '_';
-		    }
+			if(' ' === char)
+			{
+				resultString += ' ';
+			}
+			else
+			{
+				resultString += '_';
+			}
 		}
 
 		return resultString;

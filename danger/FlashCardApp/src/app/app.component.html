@@ -1,7 +1,7 @@
 <div class="flash" [ngClass]="{'correctBackground' : showCorrect}">
 
 	<h1>{{category}}</h1>
-	<p>{{currentQuestion}}</p>
+	<p>{{currentQuestion}}<span *ngIf="isPreviousWrongQuestion === true">*</span></p>
 	<div>
 		<span></span>
 		<span></span>

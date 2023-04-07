@@ -18,16 +18,16 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have as title 'FlashCardApp'`, () => {
+  it(`should have as title 'English'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    expect(app.title).toEqual('FlashCardApp');
+    expect(app.title).toEqual('English');
   });
 
-  it('should render title', () => {
-    const fixture = TestBed.createComponent(AppComponent);
-    fixture.detectChanges();
-    const compiled = fixture.nativeElement as HTMLElement;
-    expect(compiled.querySelector('.content span')?.textContent).toContain('FlashCardApp app is running!');
-  });
+    it('should have a default grade of "A"', () => {
+        const fixture = TestBed.createComponent(AppComponent);
+        const app = fixture.componentInstance;
+        app.numberGuesses = 0;
+        expect(app.letterGrade()).toEqual('A');
+    });
 });

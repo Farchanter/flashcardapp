@@ -79,7 +79,7 @@ export class AppComponent
 					}
 				}
 			}
-    }	
+    	}	
 	}
 
   	replaceLetter(char:string)

@@ -2,28 +2,32 @@ import { Component } from '@angular/core';
 import questions from './questions.json';
 import {CookieService} from 'ngx-cookie-service';
 
-@Component({
-  selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css'],
-  providers: [CookieService]
-})
+@Component
+(
+	{
+		selector: 'app-root',
+		templateUrl: './app.component.html',
+		styleUrls: ['./app.component.css'],
+		providers: [CookieService]
+	}
+)
 
-export class AppComponent {
-  title = 'English';
+export class AppComponent
+{
+	title = 'English';
 	currentQuestion = '';
 	answerToCurrentQuestion = '';
 	category = '';
 	isPreviousWrongQuestion = false;
-  numberGuesses = 0;
-  numberRight = 0;
+	numberGuesses = 0;
+	numberRight = 0;
 	json:any = questions;
-  showCorrect = true;
-  showAnswer = false;
-  guess = '';
-  blankString = '';
+	showCorrect = true;
+	showAnswer = false;
+	guess = '';
+	blankString = '';
 	questionArrayIndex = 0;
-  previousWrongAnswers = this.getPreviousWrongAnswerArray();
+  	previousWrongAnswers = this.getPreviousWrongAnswerArray();
 
 	constructor(private cookieService: CookieService)
 	{
@@ -33,18 +37,18 @@ export class AppComponent {
     
 	onClickSubmit()
 	{
-    this.numberGuesses++;
-    console.log(this.guess);
+		this.numberGuesses++;
+		console.log(this.guess);
 		if(this.answerToCurrentQuestion.toUpperCase() === this.guess.toUpperCase())
 		{
 			this.popRandomQuestion();
-      this.blankString = this.assembleBlankString();
+      		this.blankString = this.assembleBlankString();
 			this.isPreviousWrongQuestion = false;
 			this.numberRight++;
 			this.showAnswer = false;
 			this.showCorrect = true;
 		}
-    else
+    	else
 		{
 			let hasReplacedLetter = false;
 			this.showCorrect = false;
@@ -75,10 +79,10 @@ export class AppComponent {
 					}
 				}
 			}
-    }
+    }	
 	}
 
-  replaceLetter(char:string)
+  	replaceLetter(char:string)
 	{
 		let hasReplacedLetter = false;
 		if((!this.blankString.includes(char)) && this.answerToCurrentQuestion.toUpperCase().includes(char.toUpperCase()))

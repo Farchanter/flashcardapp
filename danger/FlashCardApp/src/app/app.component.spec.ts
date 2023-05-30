@@ -7,7 +7,16 @@ import { CookieService } from 'ngx-cookie-service';
 describe('AppComponent', () => {
   let fixture;
   let app: AppComponent;
-  let cookieServiceSpy: CookieService;
+  let fakeCookieService: CookieService = new CookieService(new Document(), null);
+  fakeCookieService.get = function(name: string)
+  {
+    return '';
+  };
+  let wrongAnswers = '';
+  fakeCookieService.set = function(name: string, value: string)
+  {
+    wrongAnswers = value;
+  };
 
   let mockJSON =
   {
@@ -28,12 +37,62 @@ describe('AppComponent', () => {
         AppComponent
       ]
     }).compileComponents();
-    cookieServiceSpy = TestBed.inject(CookieService);
     fixture = TestBed.createComponent(AppComponent);
     app = fixture.componentInstance;
     app.questions = mockJSON;
     app.popRandomQuestion();
-    spyOn(cookieServiceSpy, 'get').and.returnValue('');
+    app.isPreviousWrongQuestion = false;
+    wrongAnswers = '';
+    app.cookieService = fakeCookieService;
+    app.previousWrongAnswers = app.getPreviousWrongAnswerArray();
+  });
+
+  it('should populate the letters from an incorrect guess which appear in the correct answer', () => {
+    app.answerToCurrentQuestion = "Abraham Lincoln";
+    app.guess = "Eastern America";
+    app.onClickSubmit();
+    expect(app.blankString).toEqual('A_RA_AM _INC__N');
+  });
+
+  it('should show the "wrong answer" styles if the answer is incorrect', () => {
+    app.answerToCurrentQuestion = "Abraham Lincoln";
+    app.guess = "Eastern America";
+    app.showCorrect = true;
+    app.onClickSubmit();
+    expect(app.showCorrect).toEqual(false);
+  });
+
+  it('should send the wrong answer index to the cookie service', () => {
+    app.answerToCurrentQuestion = "Abraham Lincoln";
+    app.guess = "Eastern America";
+    app.questionArrayIndex = 16;
+    wrongAnswers = '';
+    app.onClickSubmit();
+    expect(wrongAnswers).toEqual('16');
+  });
+
+  it('should add the wrong answer index to the cookie service if one is already present', () => {
+    app.answerToCurrentQuestion = "Abraham Lincoln";
+    app.guess = "Eastern America";
+    app.questionArrayIndex = 16;
+    app.previousWrongAnswers = ['42'];
+    app.onClickSubmit();
+    expect(wrongAnswers).toEqual('42|16');
+  });
+
+  it('Do not submit question index to cookie service if it is a previously wrong question already', () => {
+    app.answerToCurrentQuestion = "Abraham Lincoln";
+    app.guess = "Eastern America";
+    app.isPreviousWrongQuestion = true;
+    app.questionArrayIndex = 16;
+    app.onClickSubmit();
+    expect(wrongAnswers).toEqual('');
+  });
+
+  it('should increment the number of guesses when a guess is submitted', () => {
+    app.numberGuesses = 0;
+    app.onClickSubmit();
+    expect(app.numberGuesses).toEqual(1);
   });
 
   it('should produce blank string when popping new question', () =>
@@ -44,9 +103,62 @@ describe('AppComponent', () => {
 
   it('should produce blank string with a space if the answer contains a space', () =>
   {
-    app.answerToCurrentQuestion = "Abraham Lincoln"
+    app.answerToCurrentQuestion = "Abraham Lincoln";
     app.blankString = app.assembleBlankString();
     expect(app.blankString).toEqual('_______ _______');
+  });
+
+  it('should pop a new question if the answer is correct', () =>
+  {
+    app.answerToCurrentQuestion = "Abraham Lincoln";
+    app.guess = "Abraham Lincoln";
+    app.onClickSubmit();
+    expect(app.answerToCurrentQuestion).toEqual('Abnegation');
+  });
+
+  it('should produce a new blank string if the answer is correct', () =>
+  {
+    app.answerToCurrentQuestion = "Abraham Lincoln";
+    app.guess = "Abraham Lincoln";
+    app.blankString = app.assembleBlankString();
+    app.onClickSubmit();
+    expect(app.blankString).toEqual('__________');
+  });
+
+  it('should remove "previous wrong answer" flag if answer is correct', () =>
+  {
+    app.answerToCurrentQuestion = "Abraham Lincoln";
+    app.guess = "Abraham Lincoln";
+    app.isPreviousWrongQuestion = true;
+    app.onClickSubmit();
+    expect(app.isPreviousWrongQuestion).toEqual(false);
+  });
+
+  it('should increment the number of correct answers if answer is correct', () =>
+  {
+    app.answerToCurrentQuestion = "Abraham Lincoln";
+    app.guess = "Abraham Lincoln";
+    app.numberRight = 0;
+    app.onClickSubmit();
+    expect(app.numberRight).toEqual(1);
+  });
+
+  it('should hide the answer of the next question if guess is correct', () =>
+  {
+    app.answerToCurrentQuestion = "Abraham Lincoln";
+    app.guess = "Abraham Lincoln";
+    app.showAnswer = true;
+    app.onClickSubmit();
+    expect(app.showAnswer).toEqual(false);
+  });
+
+  it('should show the "right answer" styles if the answer is correct', () =>
+  {
+    app.answerToCurrentQuestion = "Abraham Lincoln";
+    app.guess = "Abraham Lincoln";
+    app.showCorrect = false;
+    app.onClickSubmit();
+    expect(app.showCorrect).toEqual(true);
   });
 
   it('should create the app', () => {
@@ -114,11 +226,5 @@ describe('AppComponent', () => {
     app.numberGuesses = 100;
     app.numberRight = Any.numberBetween(0, 60);
     expect(app.letterGrade()).toEqual('F');
-  });
-
-  it('should increment the number of guesses when a guess is submitted', () => {
-    app.numberGuesses = 0;
-    app.onClickSubmit();
-    expect(app.numberGuesses).toEqual(1);
   });
 });

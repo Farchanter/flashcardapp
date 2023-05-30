@@ -27,9 +27,9 @@ export class AppComponent
 	guess = '';
 	blankString = '';
 	questionArrayIndex = 0;
-  	previousWrongAnswers = this.getPreviousWrongAnswerArray();
+	previousWrongAnswers = this.getPreviousWrongAnswerArray();
 
-	constructor(private cookieService: CookieService)
+	constructor(public cookieService: CookieService)
 	{
 		this.popRandomQuestion();
 		this.blankString = this.assembleBlankString();
@@ -42,13 +42,13 @@ export class AppComponent
 		if(this.answerToCurrentQuestion.toUpperCase() === this.guess.toUpperCase())
 		{
 			this.popRandomQuestion();
-      		this.blankString = this.assembleBlankString();
+			this.blankString = this.assembleBlankString();
 			this.isPreviousWrongQuestion = false;
 			this.numberRight++;
 			this.showAnswer = false;
 			this.showCorrect = true;
 		}
-    	else
+		else
 		{
 			let hasReplacedLetter = false;
 			this.showCorrect = false;

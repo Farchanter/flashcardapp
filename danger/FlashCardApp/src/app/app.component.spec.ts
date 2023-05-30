@@ -45,10 +45,20 @@ describe('AppComponent', () => {
     wrongAnswers = '';
     app.cookieService = fakeCookieService;
     app.previousWrongAnswers = app.getPreviousWrongAnswerArray();
+    app.blankString = app.assembleBlankString();
+  });
+
+  it('should pick a random letter to display in the answer if none is present in a guess', () => {
+    app.answerToCurrentQuestion = "AAAAA";
+    app.blankString = app.assembleBlankString();
+    app.guess = "B";
+    app.onClickSubmit();
+    expect(app.blankString).toEqual('AAAAA');
   });
 
   it('should populate the letters from an incorrect guess which appear in the correct answer', () => {
     app.answerToCurrentQuestion = "Abraham Lincoln";
+    app.blankString = app.assembleBlankString();
     app.guess = "Eastern America";
     app.onClickSubmit();
     expect(app.blankString).toEqual('A_RA_AM _INC__N');

@@ -36,9 +36,18 @@ describe('AppComponent', () => {
     spyOn(cookieServiceSpy, 'get').and.returnValue('');
   });
 
-  afterEach(async() => {
-    console.log('Question set: ' + app.questions.questions.length);
-  })
+  it('should produce blank string when popping new question', () =>
+  {
+    app.blankString = app.assembleBlankString();
+    expect(app.blankString).toEqual('__________');
+  });
+
+  it('should produce blank string with a space if the answer contains a space', () =>
+  {
+    app.answerToCurrentQuestion = "Abraham Lincoln"
+    app.blankString = app.assembleBlankString();
+    expect(app.blankString).toEqual('_______ _______');
+  });
 
   it('should create the app', () => {
     expect(app).toBeTruthy();

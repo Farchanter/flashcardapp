@@ -17,7 +17,7 @@
 	<span>{{numberRight}}/{{numberGuesses}}</span>
 	<span>{{letterGrade()}}</span>
     <div>{{blankString}} ({{answerToCurrentQuestion.length}} characters)</div>
-	<div id="wrongAnswerExplainer" *ngIf="isPreviousWrongQuestion === true">*You are being shown this question because you made a mistake on it previously</div>
+	<div id="wrongAnswerExplainer" *ngIf="isPreviousWrongQuestion">*You are being shown this question because you made a mistake on it previously</div>
     <div *ngIf="showAnswer">{{answerToCurrentQuestion}}</div>
     
 </div>

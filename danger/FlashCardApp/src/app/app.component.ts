@@ -41,9 +41,15 @@ export class AppComponent
 		console.log(this.guess);
 		if(this.answerToCurrentQuestion.toUpperCase() === this.guess.toUpperCase())
 		{
+			if(this.isPreviousWrongQuestion)
+			{
+				let index = this.previousWrongAnswers.indexOf(this.questionArrayIndex+'');
+				this.previousWrongAnswers.splice(index, 1);
+				this.cookieService.set('englishIncorrectQuestions', this.previousWrongAnswers.join('|'));
+			}
+			this.isPreviousWrongQuestion = false;
 			this.popRandomQuestion();
 			this.blankString = this.assembleBlankString();
-			this.isPreviousWrongQuestion = false;
 			this.numberRight++;
 			this.showAnswer = false;
 			this.showCorrect = true;
@@ -162,6 +168,7 @@ export class AppComponent
 	getWrongQuestionIndex()
 	{
 		this.isPreviousWrongQuestion = true;
+		console.log("Previous incorrect answer");
 		return parseInt(this.previousWrongAnswers[Math.floor(Math.random() * this.previousWrongAnswers.length)]);
 	}
 	

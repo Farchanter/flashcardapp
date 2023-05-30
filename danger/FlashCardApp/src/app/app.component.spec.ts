@@ -99,6 +99,16 @@ describe('AppComponent', () => {
     expect(wrongAnswers).toEqual('');
   });
 
+  it('should remove a previously wrong question if answered correctly', () => {
+    app.answerToCurrentQuestion = "Abraham Lincoln";
+    app.guess = "Abraham Lincoln";
+    app.questionArrayIndex = 16;
+    app.isPreviousWrongQuestion = true;
+    app.previousWrongAnswers = ['16', '42'];
+    app.onClickSubmit();
+    expect(wrongAnswers).toEqual('42');
+  });
+
   it('should increment the number of guesses when a guess is submitted', () => {
     app.numberGuesses = 0;
     app.onClickSubmit();

@@ -21,7 +21,7 @@ export class AppComponent
 	isPreviousWrongQuestion = false;
 	numberGuesses = 0;
 	numberRight = 0;
-	json:any = questions;
+	questions:any = questions;
 	showCorrect = true;
 	showAnswer = false;
 	guess = '';
@@ -112,24 +112,24 @@ export class AppComponent
 	{
 		if(0 === this.numberGuesses)
 		{
-				return "A";
+			return "A";
 		}
 		let ratio = this.numberRight/this.numberGuesses;
 		if(ratio >= .9)
 		{
-				return "A";
+			return "A";
 		}
 		else if(ratio >= .8)
 		{
-				return "B";
+			return "B";
 		}
 		else if(ratio >= .7)
 		{
-				return "C";
+			return "C";
 		}
 		else if(ratio >= .6)
 		{
-				return "D";
+			return "D";
 		}
 		return "F";
 	}
@@ -137,13 +137,15 @@ export class AppComponent
 	getPreviousWrongAnswerArray()
 	{
 		let cookie = this.cookieService.get('englishIncorrectQuestions');
+		console.log('Wrong answer cookie: ' + cookie)
 		return (undefined === cookie || "" === cookie) ? [] : cookie.split("|");
 	}
 
 	popRandomQuestion()
 	{
-		this.questionArrayIndex = (0 === this.previousWrongAnswers.length) ? this.getAnyQuestionIndex() : (this.previousWrongAnswers.length > 0 && Math.random() < 1) ? this.getWrongQuestionIndex() : this.getAnyQuestionIndex();
-		let randomQuestion = questions.questions[this.questionArrayIndex];
+		this.questionArrayIndex = (0 === this.previousWrongAnswers.length) ? this.getAnyQuestionIndex() : (this.previousWrongAnswers.length > 0 && Math.random() < .1) ? this.getWrongQuestionIndex() : this.getAnyQuestionIndex();
+		console.log(this.questionArrayIndex);
+		let randomQuestion = this.questions.questions[this.questionArrayIndex];
 		console.log(randomQuestion);
 		this.answerToCurrentQuestion = randomQuestion.answer;
 		this.currentQuestion = randomQuestion.question;
@@ -154,7 +156,7 @@ export class AppComponent
 	getAnyQuestionIndex()
 	{
 		this.isPreviousWrongQuestion = false;
-		return Math.floor(Math.random() * questions.questions.length);
+		return Math.floor(Math.random() * this.questions.questions.length);
 	}
 	
 	getWrongQuestionIndex()

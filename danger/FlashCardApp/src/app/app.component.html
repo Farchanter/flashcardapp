@@ -1,24 +1,30 @@
 <div class="flash" [ngClass]="{'correctBackground' : showCorrect}">
-
-	<h1>{{category}}</h1>
-	<p>{{currentQuestion}}<span *ngIf="isPreviousWrongQuestion === true">*</span></p>
-	<div>
+	<div id="game">
+		<h1>{{category}}</h1>
+		<p>{{currentQuestion}}<span *ngIf="isPreviousWrongQuestion === true">*</span></p>
+		<div>
+			<span></span>
+			<span></span>
+		</div>
+		<span><span>Answer: </span> <span id="blankString">{{blankString}} ({{answerToCurrentQuestion.length}} characters)</span></span>
+		<form #userAnswer = "ngForm" (ngSubmit) = "onClickSubmit()" [(ngModel)]="guess" name="guess" ngDefaultControl>
+			<span id="answerAndSubmit">
+				<input type="text" name="text" autocomplete="off" ngModel/>
+				<input type="submit" id="submit" value="Submit"/>
+			</span>
+		</form>
 		<span></span>
-		<span></span>
-	</div>
-	<form #userAnswer = "ngForm" (ngSubmit) = "onClickSubmit()" [(ngModel)]="guess" name="guess" ngDefaultControl>
-		Answer:
-		<input type="text" name="text" autocomplete="off" ngModel/>
-		<input type="submit" id="submit" value="Submit"/>
-	</form>
-	<span></span>
-	<button (click)="showAnswer = !showAnswer">Show answer</button>
-	<button (click)="userAnswer.setValue({'guess':'', 'text':''})">Clear</button>
-	<span>{{numberRight}}/{{numberGuesses}}</span>
-	<span>{{letterGrade()}}</span>
-    <div>{{blankString}} ({{answerToCurrentQuestion.length}} characters)</div>
-	<div id="wrongAnswerExplainer" *ngIf="isPreviousWrongQuestion">*You are being shown this question because you made a mistake on it previously</div>
-    <div *ngIf="showAnswer">{{answerToCurrentQuestion}}</div>
-    
+		<span id="buttonSection">
+			<button (click)="showAnswer = !showAnswer">Show answer</button>
+			<button (click)="userAnswer.setValue({'guess':'', 'text':''})">Clear</button>
+			<span id="grade">
+				<span>{{numberRight}}/{{numberGuesses}}</span>
+				<span>{{letterGrade()}}</span>
+			</span>
+		</span>
+		
+		<div id="wrongAnswerExplainer" *ngIf="isPreviousWrongQuestion">*You are being shown this question because you made a mistake on it previously</div>
+		<div *ngIf="showAnswer">{{answerToCurrentQuestion}}</div>
+    </div>
 </div>
 

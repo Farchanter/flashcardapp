@@ -10,6 +10,34 @@
     height: 100vh;
 }
 
+#answerAndSubmit
+{
+	display: flex;
+	padding-top: 15px;
+}
+
+#grade
+{
+	font-size: 18px;
+	margin-top: 3px;
+}
+
+#game
+{
+	margin-left: .67em;
+	margin-right: .67em;
+}
+
+#blankString
+{
+	padding-top: 15px;
+}
+
+#buttonSection
+{
+	padding-top: 15px;
+}
+
 .correctBackground
 {
 	color: #FFFFFF;

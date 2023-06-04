@@ -1,5 +1,7 @@
 import { Component } from '@angular/core';
+import {Title} from "@angular/platform-browser";
 import questions from './questions.json';
+import config from './configuration.json';
 import {CookieService} from 'ngx-cookie-service';
 
 @Component
@@ -14,7 +16,6 @@ import {CookieService} from 'ngx-cookie-service';
 
 export class AppComponent
 {
-	title = 'English';
 	currentQuestion = '';
 	answerToCurrentQuestion = '';
 	category = '';
@@ -27,12 +28,16 @@ export class AppComponent
 	guess = '';
 	blankString = '';
 	questionArrayIndex = 0;
-	previousWrongAnswers = this.getPreviousWrongAnswerArray();
+	previousWrongAnswers = config.useCookies ? this.getPreviousWrongAnswerArray() : [];
+	gotQuestionWrong = false;
+	showShowAnswerButton = config.showShowAnswerButton;
+	acceptedCookies = false;
 
-	constructor(public cookieService: CookieService)
+	constructor(public cookieService: CookieService, public titleService:Title)
 	{
 		this.popRandomQuestion();
 		this.blankString = this.assembleBlankString();
+		this.titleService.setTitle(config.appTitle);
 	}
     
 	onClickSubmit()
@@ -41,13 +46,14 @@ export class AppComponent
 		console.log(this.guess);
 		if(this.answerToCurrentQuestion.toUpperCase() === this.guess.toUpperCase())
 		{
-			if(this.isPreviousWrongQuestion)
+			if(this.isPreviousWrongQuestion && config.useCookies)
 			{
 				let index = this.previousWrongAnswers.indexOf(this.questionArrayIndex+'');
 				this.previousWrongAnswers.splice(index, 1);
 				this.cookieService.set('englishIncorrectQuestions', this.previousWrongAnswers.join('|'));
 			}
 			this.isPreviousWrongQuestion = false;
+			this.gotQuestionWrong = false;
 			this.popRandomQuestion();
 			this.blankString = this.assembleBlankString();
 			this.numberRight++;
@@ -59,8 +65,9 @@ export class AppComponent
 			let hasReplacedLetter = false;
 			this.showCorrect = false;
 			let count = 0;
-			if(!this.isPreviousWrongQuestion)
+			if(!this.isPreviousWrongQuestion && !this.gotQuestionWrong && config.useCookies)
 			{
+				this.gotQuestionWrong = true;
 				this.previousWrongAnswers.push(this.questionArrayIndex+'');
 				this.cookieService.set('englishIncorrectQuestions', this.previousWrongAnswers.join('|'));
 			}
@@ -161,8 +168,9 @@ export class AppComponent
 	
 	getAnyQuestionIndex()
 	{
-		this.isPreviousWrongQuestion = false;
-		return Math.floor(Math.random() * this.questions.questions.length);
+		let questionIndex = Math.floor(Math.random() * this.questions.questions.length);
+		this.isPreviousWrongQuestion = this.previousWrongAnswers.includes(questionIndex+'');
+		return questionIndex;
 	}
 	
 	getWrongQuestionIndex()

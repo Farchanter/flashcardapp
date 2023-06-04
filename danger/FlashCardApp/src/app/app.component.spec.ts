@@ -48,6 +48,17 @@ describe('AppComponent', () => {
     app.blankString = app.assembleBlankString();
   });
 
+  it('should only add a question to the wrong questions array once, even if multiple wrong guesses are submitted', () => 
+  {
+    app.answerToCurrentQuestion = "Abraham Lincoln";
+    app.blankString = app.assembleBlankString();
+    app.guess = "Douglas Adams";
+    app.questionArrayIndex = 16;
+    app.onClickSubmit();
+    app.onClickSubmit();
+    expect(wrongAnswers).toEqual('16');
+  });
+
   it('should pick a random letter to display in the answer if none is present in a guess', () => {
     app.answerToCurrentQuestion = "AAAAA";
     app.blankString = app.assembleBlankString();
@@ -185,8 +196,9 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have as title 'English'`, () => {
-    expect(app.title).toEqual('English');
+  it('should read app title from configuration file', () =>
+  {
+    expect(app.titleService.getTitle()).toEqual('English');
   });
 
   it('should have a default grade of "A"', () => {

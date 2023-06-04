@@ -35,7 +35,7 @@
 
 #buttonSection
 {
-	padding-top: 15px;
+	margin-top: 15px;
 }
 
 .correctBackground
@@ -53,4 +53,15 @@ div
 {
 	font-size: 10px;
 	padding-top: 15px;
+}
+
+#cookieDisclaimer
+{
+	font-size: 10px;
+	padding-top: 50px;
+}
+
+#cookieDisclaimer button
+{
+	font-size: 10px;
 }

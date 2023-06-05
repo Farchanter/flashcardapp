@@ -55,7 +55,7 @@ export class AppComponent
 			{
 				let index = this.previousWrongAnswers.indexOf(this.questionArrayIndex+'');
 				this.previousWrongAnswers.splice(index, 1);
-				this.cookieService.set('englishIncorrectQuestions', this.previousWrongAnswers.join('|'));
+				this.cookieService.set(config.appTitle.toLowerCase() + 'IncorrectQuestions', this.previousWrongAnswers.join('|'));
 			}
 			this.isPreviousWrongQuestion = false;
 			this.gotQuestionWrong = false;
@@ -74,7 +74,7 @@ export class AppComponent
 			{
 				this.gotQuestionWrong = true;
 				this.previousWrongAnswers.push(this.questionArrayIndex+'');
-				this.cookieService.set('englishIncorrectQuestions', this.previousWrongAnswers.join('|'));
+				this.cookieService.set(config.appTitle.toLowerCase() + 'IncorrectQuestions', this.previousWrongAnswers.join('|'));
 			}
 			for(let i = 0; i < this.guess.length; i++)
 			{
@@ -154,7 +154,7 @@ export class AppComponent
 
 	getPreviousWrongAnswerArray()
 	{
-		let cookie = this.cookieService.get('englishIncorrectQuestions');
+		let cookie = this.cookieService.get(config.appTitle.toLowerCase() + 'IncorrectQuestions');
 		console.log('Wrong answer cookie: ' + cookie)
 		return (undefined === cookie || "" === cookie) ? [] : cookie.split("|");
 	}

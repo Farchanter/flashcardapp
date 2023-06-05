@@ -1,8 +1,10 @@
 import { Component } from '@angular/core';
 import {Title} from "@angular/platform-browser";
-import questions from './questions.json';
+import questions from '../assets/questions.json';
 import config from './configuration.json';
 import {CookieService} from 'ngx-cookie-service';
+
+const PATH_TO_IMAGES = "../assets/images/";
 
 @Component
 (
@@ -32,6 +34,9 @@ export class AppComponent
 	gotQuestionWrong = false;
 	showShowAnswerButton = config.showShowAnswerButton;
 	acceptedCookies = false;
+	isPicture = false;
+	imageSource = '';
+	cookieDisclaimer = config.showCookieDisclaimer
 
 	constructor(public cookieService: CookieService, public titleService:Title)
 	{
@@ -163,6 +168,8 @@ export class AppComponent
 		this.answerToCurrentQuestion = randomQuestion.answer;
 		this.currentQuestion = randomQuestion.question;
 		this.category = randomQuestion.category;
+		this.isPicture = randomQuestion.isPicture;
+		this.imageSource = PATH_TO_IMAGES + randomQuestion.src;
 		console.log(this.answerToCurrentQuestion);
 	}
 	

@@ -25,7 +25,9 @@ describe('AppComponent', () => {
         {
           "category": "Noun",
           "question": "A denial; a renunciation; denial of desire or self-interest",
-          "answer": "Abnegation"
+          "answer": "Abnegation",
+          "isPicture": false,
+          "src": "picture.jpg"
         }
       ]
   }
@@ -46,6 +48,20 @@ describe('AppComponent', () => {
     app.cookieService = fakeCookieService;
     app.previousWrongAnswers = app.getPreviousWrongAnswerArray();
     app.blankString = app.assembleBlankString();
+  });
+
+  it('should display a picture if a question is a picture', () => 
+  {
+    mockJSON.questions[0].isPicture = true;
+    app.popRandomQuestion();
+    expect(app.isPicture).toBeTrue();
+  });
+
+  it('should display have a picture URL including the full path', () => 
+  {
+    mockJSON.questions[0].isPicture = true;
+    app.popRandomQuestion();
+    expect(app.imageSource).toEqual("../assets/images/picture.jpg");
   });
 
   it('should only add a question to the wrong questions array once, even if multiple wrong guesses are submitted', () => 

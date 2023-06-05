@@ -1,5 +1,6 @@
 {
     "appTitle": "English",
     "showShowAnswerButton": true,
-    "useCookies": true
+    "useCookies": true,
+    "showCookieDisclaimer": true
 }

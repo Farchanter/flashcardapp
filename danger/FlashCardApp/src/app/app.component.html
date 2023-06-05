@@ -1,7 +1,8 @@
 <div class="flash" [ngClass]="{'correctBackground' : showCorrect}">
 	<div id="game">
 		<h1>{{category}}</h1>
-		<p>{{currentQuestion}}<span *ngIf="isPreviousWrongQuestion === true">*</span></p>
+		<p *ngIf="!isPicture">{{currentQuestion}}<span *ngIf="isPreviousWrongQuestion === true">*</span></p>
+		<img *ngIf="isPicture" src="{{imageSource}}" width="100" height="100"/>
 		<div>
 			<span></span>
 			<span></span>
@@ -26,7 +27,7 @@
 		<div id="wrongAnswerExplainer" *ngIf="isPreviousWrongQuestion">*You are being shown this question because you made a mistake on it previously</div>
 		<div *ngIf="showAnswer">{{answerToCurrentQuestion}}</div>
 
-		<div id="cookieDisclaimer" *ngIf="!acceptedCookies">
+		<div id="cookieDisclaimer" *ngIf="!acceptedCookies && cookieDisclaimer">
 			<div>This application uses cookies only to deliver its functionality. No cookies are used for tracking or advertising.</div>
 			<button (click)="acceptedCookies = true">OK</button>
 		</div>

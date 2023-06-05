@@ -10,6 +10,11 @@
     height: 100vh;
 }
 
+html
+{
+	font-family: sans-serif;
+}
+
 #answerAndSubmit
 {
 	display: flex;

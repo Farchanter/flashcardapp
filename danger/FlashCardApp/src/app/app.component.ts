@@ -3,6 +3,7 @@ import {Title} from "@angular/platform-browser";
 import questions from '../assets/questions.json';
 import config from './configuration.json';
 import {CookieService} from 'ngx-cookie-service';
+import {MatButtonModule} from '@angular/material/button';
 
 const PATH_TO_IMAGES = "../assets/images/";
 

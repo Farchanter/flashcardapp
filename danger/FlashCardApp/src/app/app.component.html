@@ -11,13 +11,13 @@
 		<form #userAnswer = "ngForm" (ngSubmit) = "onClickSubmit()" [(ngModel)]="guess" name="guess" ngDefaultControl>
 			<span id="answerAndSubmit">
 				<input type="text" name="text" autocomplete="off" ngModel/>
-				<input type="submit" id="submit" value="Submit"/>
+				<input mat-flat-button type="submit" id="submit" value="Submit"/>
 			</span>
 		</form>
 		<span></span>
 		<span id="buttonSection">
-			<button (click)="showAnswer = !showAnswer" *ngIf="showShowAnswerButton">Show answer</button>
-			<button (click)="userAnswer.setValue({'guess':'', 'text':''})">Clear</button>
+			<button mat-flat-button (click)="showAnswer = !showAnswer" *ngIf="showShowAnswerButton">Show answer</button>
+			<button mat-flat-button (click)="userAnswer.setValue({'guess':'', 'text':''})">Clear</button>
 			<span id="grade">
 				<span>{{numberRight}}/{{numberGuesses}}</span>
 				<span>{{letterGrade()}}</span>

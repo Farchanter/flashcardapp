@@ -1459,6 +1459,26 @@
       "category": "Noun",
       "question": "The belief in, participation in, or sanction of destroying religious icons and other symbols or monuments, usually with religious or political motives",
       "answer": "Iconoclasm"
+    },
+    {
+      "category": "Adjective",
+      "question": "Inclined to waste resources or behave extravagantly",
+      "answer": "Profligate"
+    },
+    {
+      "category": "Adjective",
+      "question": "Dedicated or given in fulfillment of a vow or pledge",
+      "answer": "Votive"
+    },
+    {
+      "category": "Noun",
+      "question": "A solemn assembly or council",
+      "answer": "Consistory"
+    },
+    {
+      "category": "Verb",
+      "question": "To complain loudly, to give voice to one's censure or criticism",
+      "answer": "Inveigh"
     }
   ]
 }

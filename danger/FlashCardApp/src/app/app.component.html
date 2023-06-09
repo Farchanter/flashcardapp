@@ -11,7 +11,7 @@
 		<form #userAnswer = "ngForm" (ngSubmit) = "onClickSubmit()" [(ngModel)]="guess" name="guess" ngDefaultControl>
 			<span id="answerAndSubmit">
 				<input type="text" name="text" autocomplete="off" ngModel/>
-				<input mat-flat-button type="submit" id="submit" value="Submit"/>
+				<button mat-flat-button type="submit">Submit</button>
 			</span>
 		</form>
 		<span></span>

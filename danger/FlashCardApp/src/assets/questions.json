@@ -1499,6 +1499,26 @@
       "category": "Noun",
       "question": "The study of saints and the documentation of their lives",
       "answer": "Hagiography"
+    },
+    {
+      "category": "Noun",
+      "question": "A professional writer; one whose occupation is to draw contracts or prepare writings",
+      "answer": "Scrivener"
+    },
+    {
+      "category": "Noun",
+      "question": "A legal right or entitlement",
+      "answer": "Droit"
+    },
+    {
+      "category": "Adjective",
+      "question": "Necessary according to etiquette, protocol, or fashion",
+      "answer": "De Rigueur"
+    },
+    {
+      "category": "Noun",
+      "question": "A state whose power derives from its naval or commercial supremacy on the seas",
+      "answer": "Thalassocracy"
     }
   ]
 }

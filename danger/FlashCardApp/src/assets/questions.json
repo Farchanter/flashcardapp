@@ -1519,6 +1519,26 @@
       "category": "Noun",
       "question": "A state whose power derives from its naval or commercial supremacy on the seas",
       "answer": "Thalassocracy"
+    },
+    {
+      "category": "Noun",
+      "question": "A city, port, or other place where merchandise is sent for import, processing, distribution, and/or export, especially one where such merchandise is exempt from some customs duties; hence, a commercial centre",
+      "answer": "Entrepôt"
+    },
+    {
+      "category": "Noun",
+      "question": "Redundant use of words, a pleonasm, an unnecessary and tedious repetition",
+      "answer": "Tautology"
+    },
+    {
+      "category": "Adjective",
+      "question": "Of a method or algorithm that provides a useful, but not optimal, solution to a problem. Such algorithms are typically employed because the only known algorithms that provide optimal solutions use too much time or resources, or else because there is no known algorithm that provides an optimal solution",
+      "answer": "Heuristic"
+    },
+    {
+      "category": "Noun",
+      "question": "Redundancy in wording",
+      "answer": "Pleonasm"
     }
   ]
 }

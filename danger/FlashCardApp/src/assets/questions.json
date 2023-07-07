@@ -1539,6 +1539,26 @@
       "category": "Noun",
       "question": "Redundancy in wording",
       "answer": "Pleonasm"
+    },
+    {
+      "category": "Verb",
+      "question": "To annul by an authoritative act; to abolish by the authority of the maker or their successor to repeal. Applied to the repeal of laws, decrees, or ordinances, the abolition of customs, etc.",
+      "answer": "Abrogate"
+    },
+    {
+      "category": "Noun",
+      "question": "The viewpoint that the population will always grow faster than the food supply that it needs to survive and prosper",
+      "answer": "Malthusianism"
+    },
+    {
+      "category": "Noun",
+      "question": "A code of silence amongst members of a criminal organization (especially the Mafia) that forbids divulging insider secrets to law enforcement, often also followed outside of the organization in fear of retaliation; by extension any code of silence",
+      "answer": "Omertà"
+    },
+    {
+      "category": "Noun",
+      "question": "The moment in the plot of a drama in which the hero makes a discovery that explains previously unexplained events or situations; a denouement",
+      "answer": "Anagnorisis"
     }
   ]
 }

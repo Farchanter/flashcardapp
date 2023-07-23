@@ -1579,6 +1579,26 @@
       "category": "Adjective",
       "question": "Talkative; chatty",
       "answer": "Loquacious"
+    },
+    {
+      "category": "Adjective",
+      "question": "Of a position, privilege, etc. available for purchase rather than assigned on merit",
+      "answer": "Venal"
+    },
+    {
+      "category": "Noun",
+      "question": "Nonsense word from \"The Hunting of the Snark\" by Lewis Carroll",
+      "answer": "Boojum"
+    },
+    {
+      "category": "Noun",
+      "question": "A braggart",
+      "answer": "Braggadocio"
+    },
+    {
+      "category": "Noun",
+      "question": "Waste or impure matter",
+      "answer": "Dross"
     }
   ]
 }

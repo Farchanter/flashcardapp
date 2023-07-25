@@ -46,6 +46,11 @@ h1
 	padding-top: 15px;
 }
 
+hr.solidDivider
+{
+	border-top: 3px solid #fff;
+}
+
 .correctBackground
 {
 	color: #FFFFFF;
@@ -72,4 +77,11 @@ div
 #cookieDisclaimer button
 {
 	font-size: 10px;
+}
+
+p
+{
+	line-height: 1;
+	margin-left: 10px;
+	margin-right: 10px;
 }

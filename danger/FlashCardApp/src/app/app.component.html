@@ -1,5 +1,6 @@
 <div class="flash" [ngClass]="{'correctBackground' : showCorrect}">
 	<div id="game">
+		<mat-card>
 		<span id="grade">
 			<span>{{numberRight}}/{{numberGuesses}}</span>
 			<span>{{letterGrade()}}</span>
@@ -13,6 +14,7 @@
 			<span></span>
 		</div>
 		<span><span>Answer: </span> <span id="blankString">{{blankString}} ({{answerToCurrentQuestion.length}} characters)</span></span>
+		</mat-card>
 		<form #userAnswer = "ngForm" (ngSubmit) = "onClickSubmit()" [(ngModel)]="guess" name="guess" ngDefaultControl>
 			<span id="answerAndSubmit">
 				<input type="text" name="text" autocomplete="off" ngModel/>

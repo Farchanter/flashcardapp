@@ -85,3 +85,8 @@ p
 	margin-left: 10px;
 	margin-right: 10px;
 }
+
+mat-card
+{
+	width: 50%;
+}

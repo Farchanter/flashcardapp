@@ -1599,6 +1599,26 @@
       "category": "Noun",
       "question": "Waste or impure matter",
       "answer": "Dross"
+    },
+    {
+      "category": "Noun",
+      "question": "Fewness in number; too few",
+      "answer": "Paucity"
+    },
+    {
+      "category": "Noun",
+      "question": "A stochastic process for which the conditional expectation of future values given the sequence of all prior values is equal to the current value",
+      "answer": "Martingale"
+    },
+    {
+      "category": "Adjective",
+      "question": "Small; younger",
+      "answer": "Chota"
+    },
+    {
+      "category": "Noun",
+      "question": "The study of the end times: the end of the world, notably in Christian & Islamic theology, the second coming of Christ, the Apocalypse or the Last Judgment",
+      "answer": "Eschatology"
     }
   ]
 }

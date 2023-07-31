@@ -1,10 +1,12 @@
 <div class="flash" [ngClass]="{'correctBackground' : showCorrect}">
 	<div id="game">
 		<mat-card>
-		<span id="grade">
-			<span>{{numberRight}}/{{numberGuesses}}</span>
-			<span>{{letterGrade()}}</span>
-		</span>
+		<div id="gradeContainer">
+			<div id="grade">
+				<span>{{numberRight}}/{{numberGuesses}}</span>
+				<span>{{letterGrade()}}</span>
+			</div>
+		</div>
 		<hr class="solid">
 		<h1>{{category}}</h1>
 		<p *ngIf="!isPicture">{{currentQuestion}}<span *ngIf="isPreviousWrongQuestion === true">*</span></p>

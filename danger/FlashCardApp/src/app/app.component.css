@@ -21,6 +21,13 @@ h1
 {
 	display: flex;
 	padding-top: 15px;
+	width: 100%;
+}
+
+#ui
+{
+	width: 50%;
+	margin: 0 auto;
 }
 
 #grade
@@ -34,13 +41,15 @@ h1
 #gradeContainer
 {
 	width: 100%;
-	border: 3px solid #FFF;
-	border-radius: 18px;
-	box-shadow: 0 0 2px #C8102E;
-	height: 30px;
-	width: 30px;
+	color: #C8102E;
 	margin-left: auto; 
 	margin-right: 0;
+}
+
+#letterGrade
+{
+	margin-bottom: 0px;
+	font-size: 36px;
 }
 
 #game
@@ -53,16 +62,35 @@ h1
 #blankString
 {
 	padding-top: 15px;
+	letter-spacing: .2rem;
+}
+
+#answerHint
+{
+	letter-spacing: 0;
 }
 
 #buttonSection
 {
-	padding-top: 15px;
+	margin-left: auto; 
+	margin-right: 0;
+}
+
+#buttonSection button
+{
+	height: 51px;
+	width: 116px;
+}
+
+button
+{
+	margin-left: 3px;
 }
 
 hr.solidDivider
 {
 	border-top: 3px solid #fff;
+	margin-top: 3px;
 }
 
 .correctBackground
@@ -96,12 +124,21 @@ div
 p
 {
 	line-height: 1;
-	margin-left: 10px;
-	margin-right: 10px;
 }
 
 mat-card
 {
 	width: 50%;
 	margin: 0 auto;
+}
+
+#flashcard
+{
+	box-shadow: 12px 12px rgb(128, 128, 128, .2);
+}
+
+#cardBody
+{
+	margin-left: 10px;
+	margin-right: 10px;
 }

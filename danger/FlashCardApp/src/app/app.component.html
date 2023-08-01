@@ -1,38 +1,43 @@
 <div class="flash" [ngClass]="{'correctBackground' : showCorrect}">
 	<div id="game">
-		<mat-card>
-		<div id="gradeContainer">
-			<div id="grade">
-				<span>{{numberRight}}/{{numberGuesses}}</span>
-				<span>{{letterGrade()}}</span>
+		<mat-card id="flashcard">
+			<div id="cardBody">
+				<div id="gradeContainer">
+					<div id="grade">
+						<h3 id="letterGrade">{{letterGrade()}}</h3>
+						<span>{{numberRight}}/{{numberGuesses}}</span>
+					</div>
+				</div>
+				<h1>{{category}}</h1>
+				<p *ngIf="!isPicture">{{currentQuestion}}<span *ngIf="isPreviousWrongQuestion === true">*</span></p>
+				<img *ngIf="isPicture" src="{{imageSource}}" width="100" height="100"/>
+				<div>
+					<span></span>
+					<span></span>
+				</div>
+				<hr>
+				<span><span id="blankString" *ngIf="!showAnswer; else fullAnswer">{{blankString}} <span id="answerHint">({{answerToCurrentQuestion.length}} characters)</span></span></span>
+				<ng-template #fullAnswer>{{answerToCurrentQuestion.toUpperCase()}} ({{answerToCurrentQuestion.length}} characters)</ng-template>
+				<div id="wrongAnswerExplainer" *ngIf="isPreviousWrongQuestion">*You are being shown this question because you made a mistake on it previously</div>
 			</div>
-		</div>
-		<hr class="solid">
-		<h1>{{category}}</h1>
-		<p *ngIf="!isPicture">{{currentQuestion}}<span *ngIf="isPreviousWrongQuestion === true">*</span></p>
-		<img *ngIf="isPicture" src="{{imageSource}}" width="100" height="100"/>
-		<div>
-			<span></span>
-			<span></span>
-		</div>
-		<span><span>Answer: </span> <span id="blankString">{{blankString}} ({{answerToCurrentQuestion.length}} characters)</span></span>
 		</mat-card>
-		<form #userAnswer = "ngForm" (ngSubmit) = "onClickSubmit()" [(ngModel)]="guess" name="guess" ngDefaultControl>
-			<span id="answerAndSubmit">
-				<input type="text" name="text" autocomplete="off" ngModel/>
-				<button mat-flat-button type="submit">Submit</button>
-			</span>
-		</form>
-		<span></span>
-		<hr class="solid">
-		<span id="buttonSection">
-			<button mat-flat-button (click)="showAnswer = !showAnswer" *ngIf="showShowAnswerButton">Show answer</button>
-			<button mat-flat-button (click)="userAnswer.setValue({'guess':'', 'text':''})">Clear</button>
-			
-		</span>
+		<div id="ui">
+			<hr class="solid">
+			<div>Your Answer:</div>
+			<form #userAnswer = "ngForm" (ngSubmit) = "onClickSubmit()" [(ngModel)]="guess" name="guess" ngDefaultControl>
+				<span id="answerAndSubmit">
+					<input type="text" name="text" autocomplete="off" ngModel/>
+					<button mat-flat-button type="submit">Submit</button>
+					<span id="buttonSection">
+						<button mat-flat-button (click)="showAnswer = !showAnswer" *ngIf="showShowAnswerButton">Show answer</button>
+						<button mat-flat-button (click)="userAnswer.setValue({'guess':'', 'text':''})">Clear</button>
+					</span>
+				</span>
+			</form>
+			<span></span>
+		</div>
 		
-		<div id="wrongAnswerExplainer" *ngIf="isPreviousWrongQuestion">*You are being shown this question because you made a mistake on it previously</div>
-		<div *ngIf="showAnswer">{{answerToCurrentQuestion}}</div>
+		
 
 		<div id="cookieDisclaimer" *ngIf="!acceptedCookies && cookieDisclaimer">
 			<div>This application uses cookies only to deliver its functionality. No cookies are used for tracking or advertising.</div>

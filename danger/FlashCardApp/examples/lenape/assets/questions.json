@@ -1,0 +1,266 @@
+{
+  "questions":
+  [
+		{
+      "category": "Vocabulary",
+      "question": "The Knight",
+      "answer": "Na aeket"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Knights",
+      "answer": "Nek Aekechik"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Dog",
+      "answer": "Na mwekane"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Dogs",
+      "answer": "Nek mwekaneyok"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Cat",
+      "answer": "Na pushis"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Cats",
+      "answer": "Nek pushisak"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Fish (singular)",
+      "answer": "Na names"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Fish (plural)",
+      "answer": "Nek namesak"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Teacher",
+      "answer": "Na sheshkulhalewes"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Teachers",
+      "answer": "Nek sheshkulhalewesak"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Author",
+      "answer": "Na ehelekhiket"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Authors",
+      "answer": "Nek ehelekhikechik"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Crow",
+      "answer": "Na ahas"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Crows",
+      "answer": "Nek ahasak"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Bird",
+      "answer": "Na chulens"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Birds",
+      "answer": "Nek chulensak"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "Please",
+      "answer": "Ksi"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "Thank you",
+      "answer": "Wanishi"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "I'm sorry",
+      "answer": "Nshielintam"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "Yes",
+      "answer": "E-e"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "No",
+      "answer": "Ku"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Car",
+      "answer": "Ne amankshkinkw"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Cars",
+      "answer": "Nel amankshkinkwe"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Cow",
+      "answer": "Na wehshumwis"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Cows",
+      "answer": "Nek wehshumwisak"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Pig",
+      "answer": "Na kweshkwetet"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Pigs",
+      "answer": "Nek kweshkwetetak"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Mouse",
+      "answer": "Na pukwes"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Mice",
+      "answer": "Nek pukwesak"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Storyteller",
+      "answer": "Na Achimwis"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Storytellers",
+      "answer": "Nek Achimwisak"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Horse",
+      "answer": "Na Nehenaonkes"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Horses",
+      "answer": "Nek Nehenaonkesak"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Wing",
+      "answer": "Ne Lunkon"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Wings",
+      "answer": "Nel Lunkone"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "Christmas",
+      "answer": "Keleshmesh"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Animal",
+      "answer": "Na Aeses"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Animals",
+      "answer": "Nek Aesesak"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Train",
+      "answer": "Ne Tente-tepchehelas"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Trains",
+      "answer": "Nel Tente-tepchehelase"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Airplane",
+      "answer": "Na Pemihelak"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Airplanes",
+      "answer": "Nek Pemihelaksak"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Boat",
+      "answer": "Ne Muxul"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Boats",
+      "answer": "Nel Muxula"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Ship",
+      "answer": "Ne Xinkwi Muxul"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Ships",
+      "answer": "Nel Xinkwiyo Muxula"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The City",
+      "answer": "Ne Utenay"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Cities",
+      "answer": "Nel Utenaya"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Blue Jay",
+      "answer": "Na Tiyas"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Blue Jays",
+      "answer": "Nek Tiyasak"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The House",
+      "answer": "Ne Wikewam"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Houses",
+      "answer": "Ne Wikwahema"
+    }
+		
+  ]
+}

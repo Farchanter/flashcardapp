@@ -1,0 +1,360 @@
+{
+  "questions":
+  [
+	{
+      "category": "Vocabulary",
+      "question": "The Dog",
+      "answer": "Der Hund"
+    },
+	{
+      "category": "Vocabulary",
+      "question": "The Dogs",
+      "answer": "Die Hund"
+    },
+	{
+      "category": "Vocabulary",
+      "question": "The Cat",
+      "answer": "Die Katz"
+    },
+	{
+      "category": "Vocabulary",
+      "question": "The Cats",
+      "answer": "Die Katze"
+    },
+	{
+      "category": "Vocabulary",
+      "question": "The Fish (singular)",
+      "answer": "Der Fisch"
+    },
+	{
+      "category": "Vocabulary",
+      "question": "The Fish (plural)",
+      "answer": "Die Fisch"
+    },
+	{
+      "category": "Vocabulary",
+      "question": "The Bird",
+      "answer": "Der Voggel"
+    },
+	{
+      "category": "Vocabulary",
+      "question": "The Birds",
+      "answer": "Die Veggel"
+    },
+	{
+      "category": "Vocabulary",
+      "question": "The Cow",
+      "answer": "Die Kuh"
+    },
+	{
+      "category": "Vocabulary",
+      "question": "The Cows",
+      "answer": "Die Kieh"
+    },
+	{
+      "category": "Vocabulary",
+      "question": "The Pig",
+      "answer": "Der Sau"
+    },
+	{
+      "category": "Vocabulary",
+      "question": "The Pigs",
+      "answer": "Die Sei"
+    },
+	{
+      "category": "Vocabulary",
+      "question": "The Mouse",
+      "answer": "Die Maus"
+    },
+	{
+      "category": "Vocabulary",
+      "question": "The Mice",
+      "answer": "Die Meis"
+    },
+	{
+      "category": "Vocabulary",
+      "question": "The Horse",
+      "answer": "Der Gaul"
+    },
+	{
+      "category": "Vocabulary",
+      "question": "The Horses",
+      "answer": "Die Geil"
+    },
+	{
+      "category": "Vocabulary",
+      "question": "The Wing",
+      "answer": "Der Fliggel"
+    },
+	{
+      "category": "Vocabulary",
+      "question": "The Wings",
+      "answer": "Die Fliggel"
+    },
+	{
+      "category": "Vocabulary",
+      "question": "The Animal",
+      "answer": "Es Dier"
+    },
+	{
+      "category": "Vocabulary",
+      "question": "The Animals",
+      "answer": "Die Diere"
+    },
+	{
+		"category": "Pronouns",
+		"question": "First person nominative",
+		"answer": "ich"
+	},
+	{
+      "category": "Vocabulary",
+      "question": "The Knight",
+      "answer": "Der Ridder"
+    },
+	{
+      "category": "Vocabulary",
+      "question": "The Knights",
+      "answer": "Die Ridder"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Train",
+      "answer": "Die Dreen"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Trains",
+      "answer": "Die Dreens"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Teacher",
+      "answer": "Der Lehrer"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Teachers",
+      "answer": "Die Lehrer"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Author",
+      "answer": "Der Schriftsteller"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Authors",
+      "answer": "Die Schriftsteller"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Crow",
+      "answer": "Die Grabb"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Crows",
+      "answer": "Die Grawwe"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Airplane",
+      "answer": "Der Aerpleen"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Airplanes",
+      "answer": "Die Aerpleen"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "Please",
+      "answer": "Bidde"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "Thank you",
+      "answer": "Danki"
+    },
+		{
+      "category": "Sentences",
+      "question": "I'm sorry",
+      "answer": "Es dutt mer Leed"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "Yes",
+      "answer": "Ya"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "No",
+      "answer": "Nee"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Car",
+      "answer": "Der Kar"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Cars",
+      "answer": "Die Kars"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Truck",
+      "answer": "Der Truck"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Trucks",
+      "answer": "Die Trucks"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Bicycle",
+      "answer": "Der Beik"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Bicycles",
+      "answer": "Die Beik"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Bus",
+      "answer": "Die Buss"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Buses",
+      "answer": "Die Busses"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Storyteller",
+      "answer": "Der Erzaehler"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Storytellers",
+      "answer": "Die Erzaehler"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Boat",
+      "answer": "Es Boot"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Boats",
+      "answer": "Die Boot"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Ship",
+      "answer": "Es Schiff"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Ships",
+      "answer": "Die Schiff"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "Christmas",
+      "answer": "Grischtdaag"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "Christmases",
+      "answer": "Grischtdaage"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Tire",
+      "answer": "Der Waagereef"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Tires",
+      "answer": "Die Waagereef"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Gasoline",
+      "answer": "Es Gaesolien"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Engine",
+      "answer": "Die Inscheine"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Engines",
+      "answer": "Die Intscheine"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Ticket",
+      "answer": "Der Zeddel"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Tickets",
+      "answer": "Die Zeddel"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The City",
+      "answer": "Die Schtadt"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Cities",
+      "answer": "Die Schtedt"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The House",
+      "answer": "Es Haus"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Houses",
+      "answer": "Die Heiser"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Street",
+      "answer": "Die Schtroos"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Streets",
+      "answer": "Die Schtroosse"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Road",
+      "answer": "Der Faahrweg"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Roads",
+      "answer": "Die Faahrwege"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Airport",
+      "answer": "Der Aerport"
+    },
+		{
+      "category": "Vocabulary",
+      "question": "The Airports",
+      "answer": "Die Aerports"
+    }
+  ]
+}

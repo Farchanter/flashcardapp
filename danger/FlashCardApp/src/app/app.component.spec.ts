@@ -42,7 +42,7 @@ describe('AppComponent', () => {
     fixture = TestBed.createComponent(AppComponent);
     app = fixture.componentInstance;
     app.questions = mockJSON;
-    app.popRandomQuestion();
+    app.popRandomQuestion(false);
     app.isPreviousWrongQuestion = false;
     wrongAnswers = '';
     app.cookieService = fakeCookieService;
@@ -53,14 +53,14 @@ describe('AppComponent', () => {
   it('should display a picture if a question is a picture', () => 
   {
     mockJSON.questions[0].isPicture = true;
-    app.popRandomQuestion();
+    app.popRandomQuestion(true);
     expect(app.isPicture).toBeTrue();
   });
 
   it('should display have a picture URL including the full path', () => 
   {
     mockJSON.questions[0].isPicture = true;
-    app.popRandomQuestion();
+    app.popRandomQuestion(true);
     expect(app.imageSource).toEqual("../assets/images/picture.jpg");
   });
 
@@ -89,14 +89,6 @@ describe('AppComponent', () => {
     app.guess = "Eastern America";
     app.onClickSubmit();
     expect(app.blankString).toEqual('A_RA_AM _INC__N');
-  });
-
-  it('should show the "wrong answer" styles if the answer is incorrect', () => {
-    app.answerToCurrentQuestion = "Abraham Lincoln";
-    app.guess = "Eastern America";
-    app.showCorrect = true;
-    app.onClickSubmit();
-    expect(app.showCorrect).toEqual(false);
   });
 
   it('should send the wrong answer index to the cookie service', () => {

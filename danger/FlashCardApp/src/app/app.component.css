@@ -2,7 +2,7 @@
 {
 	color: #FFFFFF;
 	background-color: #C8102E;
-	font-size: 32px;
+	font-size: 24px;
     position: absolute;
     left: 0px;
     right: 0px;
@@ -21,13 +21,40 @@ h1
 {
 	display: flex;
 	padding-top: 15px;
-	width: 100%;
 }
 
 #ui
 {
-	width: 50%;
+	width: 75%;
 	margin: 0 auto;
+}
+
+#ui button
+{
+	height: 51px;
+}
+
+#textBoxDiv
+{
+	width: 100%;
+	float: left;
+	display: block;
+}
+
+#textBoxDiv input
+{
+	width: 100%;
+}
+
+#submitDiv
+{
+	width: 100%;
+	float: left;
+}
+
+#submitDiv button
+{
+	width: 100%;
 }
 
 #grade
@@ -63,11 +90,19 @@ h1
 {
 	padding-top: 15px;
 	letter-spacing: .2rem;
+	line-height: 40px;
+}
+
+#fullAnswer
+{
+	padding-top: 15px;
+	line-height: 40px;
 }
 
 #answerHint
 {
 	letter-spacing: 0;
+	line-height: 30px;
 }
 
 #buttonSection
@@ -79,7 +114,7 @@ h1
 #buttonSection button
 {
 	height: 51px;
-	width: 116px;
+	width: 100%;
 }
 
 button
@@ -113,7 +148,7 @@ div
 #cookieDisclaimer
 {
 	font-size: 10px;
-	padding-top: 50px;
+	padding-top: 40px;
 }
 
 #cookieDisclaimer button
@@ -128,7 +163,7 @@ p
 
 mat-card
 {
-	width: 50%;
+	width: 75%;
 	margin: 0 auto;
 }
 

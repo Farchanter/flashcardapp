@@ -4,8 +4,7 @@
 			<div id="cardBody">
 				<div id="gradeContainer">
 					<div id="grade">
-						<h3 id="letterGrade">{{letterGrade()}}</h3>
-						<span>{{numberRight}}/{{numberGuesses}}</span>
+						<h3 id="letterGrade">{{questionCount}}</h3>
 					</div>
 				</div>
 				<h1>{{category}}</h1>
@@ -16,8 +15,8 @@
 					<span></span>
 				</div>
 				<hr>
-				<span><span id="blankString" *ngIf="!showAnswer; else fullAnswer">{{blankString}} <span id="answerHint">({{answerToCurrentQuestion.length}} characters)</span></span></span>
-				<ng-template #fullAnswer>{{answerToCurrentQuestion.toUpperCase()}} ({{answerToCurrentQuestion.length}} characters)</ng-template>
+				<span><span id="blankString" *ngIf="!showAnswer; else fullAnswer">{{blankString}} <div id="answerHint">({{answerToCurrentQuestion.length}} characters)</div></span></span>
+				<ng-template #fullAnswer><span id="fullAnswer">{{answerToCurrentQuestion.toUpperCase()}} <div id="answerHint">({{answerToCurrentQuestion.length}} characters)</div></span></ng-template>
 				<div id="wrongAnswerExplainer" *ngIf="isPreviousWrongQuestion">*You are being shown this question because you made a mistake on it previously</div>
 			</div>
 		</mat-card>
@@ -25,15 +24,22 @@
 			<hr class="solid">
 			<div>Your Answer:</div>
 			<form #userAnswer = "ngForm" (ngSubmit) = "onClickSubmit()" [(ngModel)]="guess" name="guess" ngDefaultControl>
-				<span id="answerAndSubmit">
-					<input type="text" name="text" autocomplete="off" ngModel/>
-					<button mat-flat-button type="submit">Submit</button>
-					<span id="buttonSection">
-						<button mat-flat-button (click)="showAnswer = !showAnswer" *ngIf="showShowAnswerButton">Show answer</button>
-						<button mat-flat-button (click)="userAnswer.setValue({'guess':'', 'text':''})">Clear</button>
-					</span>
-				</span>
+					<div id="textBoxDiv">
+						<input type="text" name="text" autocomplete="off" ngModel/>
+					</div>
+					<hr class="solid">
+					<div id="submitDiv">
+						<button mat-flat-button type="submit">Submit</button>
+					</div>
 			</form>
+			<span id="buttonSection">
+				<div>
+					<button mat-flat-button (click)="showAnswer = !showAnswer" *ngIf="showShowAnswerButton">Show answer</button>
+				</div>
+				<div>
+					<button mat-flat-button (click)="userAnswer.setValue({'guess':'', 'text':''})">Clear</button>
+				</div>
+			</span>
 			<span></span>
 		</div>
 		

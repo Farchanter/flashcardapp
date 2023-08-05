@@ -1107,7 +1107,7 @@
     },
 		{
       "category": "Noun",
-      "question": "A dominant nation or state that has control over the international affairs of a subservient state which otherwise has domestic autonom",
+      "question": "A dominant nation or state that has control over the international affairs of a subservient state which otherwise has domestic autonomy",
       "answer": "Suzerain"
     },
 		{
@@ -1619,6 +1619,26 @@
       "category": "Noun",
       "question": "The study of the end times: the end of the world, notably in Christian & Islamic theology, the second coming of Christ, the Apocalypse or the Last Judgment",
       "answer": "Eschatology"
+    },
+    {
+      "category": "Noun",
+      "question": "The belief, held by a minority of traditionalist Catholics, that the present occupant of the Holy See is not the true pope and that the see has been vacant since the 1960s",
+      "answer": "Sedevacantism"
+    },
+    {
+      "category": "Adjective",
+      "question": "Of or pertaining to the church",
+      "answer": "Ecclesiastical"
+    },
+    {
+      "category": "Noun",
+      "question": "A law or saying by which Jews live. They are derived from the Torah and from later rabbinic literature",
+      "answer": "Halacha"
+    },
+    {
+      "category": "Noun",
+      "question": "A saying or proverb",
+      "answer": "Saw"
     }
   ]
 }

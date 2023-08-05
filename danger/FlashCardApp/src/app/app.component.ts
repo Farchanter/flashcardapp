@@ -38,10 +38,11 @@ export class AppComponent
 	isPicture = false;
 	imageSource = '';
 	cookieDisclaimer = config.showCookieDisclaimer
+	questionCount = 0;
 
 	constructor(public cookieService: CookieService, public titleService:Title)
 	{
-		this.popRandomQuestion();
+		this.popRandomQuestion(false);
 		this.blankString = this.assembleBlankString();
 		this.titleService.setTitle(config.appTitle);
 	}
@@ -50,7 +51,7 @@ export class AppComponent
 	{
 		this.numberGuesses++;
 		console.log(this.guess);
-		if(this.answerToCurrentQuestion.toUpperCase() === this.guess.toUpperCase())
+		if(this.answerToCurrentQuestion.toUpperCase() === this.guess.toUpperCase().trim())
 		{
 			if(this.isPreviousWrongQuestion && config.useCookies)
 			{
@@ -60,7 +61,7 @@ export class AppComponent
 			}
 			this.isPreviousWrongQuestion = false;
 			this.gotQuestionWrong = false;
-			this.popRandomQuestion();
+			this.popRandomQuestion(true);
 			this.blankString = this.assembleBlankString();
 			this.numberRight++;
 			this.showAnswer = false;
@@ -69,7 +70,6 @@ export class AppComponent
 		else
 		{
 			let hasReplacedLetter = false;
-			this.showCorrect = false;
 			let count = 0;
 			if(!this.isPreviousWrongQuestion && !this.gotQuestionWrong && config.useCookies)
 			{
@@ -160,7 +160,7 @@ export class AppComponent
 		return (undefined === cookie || "" === cookie) ? [] : cookie.split("|");
 	}
 
-	popRandomQuestion()
+	popRandomQuestion(shouldIncrement:boolean)
 	{
 		this.questionArrayIndex = (0 === this.previousWrongAnswers.length) ? this.getAnyQuestionIndex() : (this.previousWrongAnswers.length > 0 && Math.random() < .1) ? this.getWrongQuestionIndex() : this.getAnyQuestionIndex();
 		console.log(this.questionArrayIndex);
@@ -172,6 +172,10 @@ export class AppComponent
 		this.isPicture = randomQuestion.isPicture;
 		this.imageSource = PATH_TO_IMAGES + randomQuestion.src;
 		console.log(this.answerToCurrentQuestion);
+		if(shouldIncrement)
+		{
+			this.questionCount++;
+		}
 	}
 	
 	getAnyQuestionIndex()

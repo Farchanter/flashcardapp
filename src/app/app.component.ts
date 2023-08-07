@@ -162,19 +162,27 @@ export class AppComponent
 
 	popRandomQuestion(shouldIncrement:boolean)
 	{
-		this.questionArrayIndex = (0 === this.previousWrongAnswers.length) ? this.getAnyQuestionIndex() : (this.previousWrongAnswers.length > 0 && Math.random() < .1) ? this.getWrongQuestionIndex() : this.getAnyQuestionIndex();
-		console.log(this.questionArrayIndex);
-		let randomQuestion = this.questions.questions[this.questionArrayIndex];
-		console.log(randomQuestion);
-		this.answerToCurrentQuestion = randomQuestion.answer;
-		this.currentQuestion = randomQuestion.question;
-		this.category = randomQuestion.category;
-		this.isPicture = randomQuestion.isPicture;
-		this.imageSource = PATH_TO_IMAGES + randomQuestion.src;
-		console.log(this.answerToCurrentQuestion);
-		if(shouldIncrement)
+		let proposedQuestionIndex = (0 === this.previousWrongAnswers.length) ? this.getAnyQuestionIndex() : (this.previousWrongAnswers.length > 0 && Math.random() < .1) ? this.getWrongQuestionIndex() : this.getAnyQuestionIndex();
+		if(proposedQuestionIndex == this.questionArrayIndex && this.questions.questions.length >= 2)
 		{
-			this.questionCount++;
+			this.popRandomQuestion(shouldIncrement);
+		}
+		else
+		{
+			this.questionArrayIndex = proposedQuestionIndex;
+			console.log(this.questionArrayIndex);
+			let randomQuestion = this.questions.questions[this.questionArrayIndex];
+			console.log(randomQuestion);
+			this.answerToCurrentQuestion = randomQuestion.answer;
+			this.currentQuestion = randomQuestion.question;
+			this.category = randomQuestion.category;
+			this.isPicture = randomQuestion.isPicture;
+			this.imageSource = PATH_TO_IMAGES + randomQuestion.src;
+			console.log(this.answerToCurrentQuestion);
+			if(shouldIncrement)
+			{
+				this.questionCount++;
+			}
 		}
 	}
 	

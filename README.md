@@ -39,3 +39,7 @@ All other colors can be found in src/app/app.component.css.
 ## Settings
 
 You can change certain properties of the aplications in src/app/configuration.json. These include "appTitle" (the name of your app, including its name in a web browser tab), "shouldShowAnswerButton" (which allows for users to display the answer at any time), "useCookies" (whether or not to use cookies to show users questions they previously made mistakes on), and "showCookieDisclaimer" (a text message at the bottom of the app for privacy purposes stating that cookies are used, if you do use cookies).
+
+## License information
+
+This software is available under the terms of the [GNU Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)

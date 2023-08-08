@@ -1,100 +1,101 @@
 {
-  "questions":
-  [
-    {
-      "category": "Verbs",
-      "question": "Have Sat",
-      "answer": "Sein Gesessen"
-    },
-	{
-      "category": "Verbs",
-      "question": "Have Laid",
-      "answer": "Sein Gelegen"
-    },
-	{
-      "category": "Verbs",
-      "question": "Have Stood",
-      "answer": "Sein Gestanden"
-    },
-	{
-      "category": "Vocabulary",
-      "question": "January",
-      "answer": "Jänner"
-    },
-	{
-      "category": "Vocabulary",
-      "question": "This Year",
-      "answer": "Heuer"
-    },
-	{
-      "category": "Vocabulary",
-      "question": "Stairs",
-      "answer": "Stiege"
-    },
-	{
-      "category": "Vocabulary",
-      "question": "Chimney",
-      "answer": "Rauchfang"
-    },
-	{
-      "category": "Vocabulary",
-      "question": "Potatoes",
-      "answer": "Erdäpfel"
-    },
-	{
-      "category": "Vocabulary",
-      "question": "Whipped Cream",
-      "answer": "Schlagobers"
-    },
-	{
-      "category": "Vocabulary",
-      "question": "Ground Beef",
-      "answer": "Faschiertes"
-    },
-	{
-      "category": "Vocabulary",
-      "question": "Green Beans",
-      "answer": "Fisolen"
-    },
-	{
-      "category": "Vocabulary",
-      "question": "Cauliflower",
-      "answer": "Karfiol"
-    },
-	{
-      "category": "Vocabulary",
-      "question": "Brussels Sprouts",
-      "answer": "Kohlsprossen"
-    },
-	{
-      "category": "Vocabulary",
-      "question": "Apricots",
-      "answer": "Marillen"
-    },
-	{
-      "category": "Vocabulary",
-      "question": "Tomatoes",
-      "answer": "Paradeiser"
-    },
-	{
-      "category": "Vocabulary",
-      "question": "Pancakes",
-      "answer": "Palatschinken"
-    },
-	{
-      "category": "Vocabulary",
-      "question": "Semi-sweet cottage cheese",
-      "answer": "Topfen"
-    },
-	{
-      "category": "Vocabulary",
-      "question": "Horseradish",
-      "answer": "Kren"
-    },
-		{
-      "category": "Verbs",
-      "question": "Have Driven",
-      "answer": "Sein Gelenkt"
-    }
-  ]
-}
+	"questions":
+	[
+	  {
+		"category": "Verbs",
+		"question": "Have Sat",
+		"answer": "Sein Gesessen"
+	  },
+	  {
+		"category": "Verbs",
+		"question": "Have Laid",
+		"answer": "Sein Gelegen"
+	  },
+	  {
+		"category": "Verbs",
+		"question": "Have Stood",
+		"answer": "Sein Gestanden"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "January",
+		"answer": "Jänner"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "This Year",
+		"answer": "Heuer"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "Stairs",
+		"answer": "Stiege"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "Chimney",
+		"answer": "Rauchfang"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "Potatoes",
+		"answer": "Erdäpfel"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "Whipped Cream",
+		"answer": "Schlagobers"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "Ground Beef",
+		"answer": "Faschiertes"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "Green Beans",
+		"answer": "Fisolen"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "Cauliflower",
+		"answer": "Karfiol"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "Brussels Sprouts",
+		"answer": "Kohlsprossen"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "Apricots",
+		"answer": "Marillen"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "Tomatoes",
+		"answer": "Paradeiser"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "Pancakes",
+		"answer": "Palatschinken"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "Semi-sweet cottage cheese",
+		"answer": "Topfen"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "Horseradish",
+		"answer": "Kren"
+	  },
+		  {
+		"category": "Verbs",
+		"question": "Have Driven",
+		"answer": "Sein Gelenkt"
+	  }
+	]
+  }
+  

@@ -1,1644 +1,1644 @@
 {
-  "questions":
-  [
-		{
-      "category": "Noun",
-      "question": "A denial; a renunciation; denial of desire or self-interest",
-      "answer": "Abnegation"
-    },
-		{
-      "category": "Noun",
-      "question": "The profession of teaching",
-      "answer": "Pedagogy"
-    },
-		{
-      "category": "Noun",
-      "question": "A person who reminds someone",
-      "answer": "Remembrancer"
-    },
-		{
-      "category": "Verb",
-      "question": "Bloat or embellish by including (often minor and extraneous) details at regular intervals",
-      "answer": "Interlard"
-    },
-		{
-      "category": "Adjective",
-      "question": "Weekly, occurring once a week",
-      "answer": "Hebdomadal"
-    },
-		{
-      "category": "Verb",
-      "question": "To prove to be of unsound mind or demonstrate someone's incompetence",
-      "answer": "Stultify"
-    },
-		{
-      "category": "Adjective",
-      "question": "Instructive or intended to teach or demonstrate, especially with regard to morality",
-      "answer": "Didactic"
-    },
-		{
-      "category": "Noun",
-      "question": "An indeterminate central vowel sound as the \"a\" in \"about\"",
-      "answer": "Schwa"
-    },
-		{
-      "category": "Noun",
-      "question": "A condition of favoring or liking; a tendency towards; proclivity; predisposition",
-      "answer": "Predilection"
-    },
-		{
-      "category": "Adjective",
-      "question": "Cruel or savage",
-      "answer": "Truculent"
-    },
-		{
-      "category": "Noun",
-      "question": "Bloodletting",
-      "answer": "Exsanguination"
-    },
-		{
-      "category": "Adjective",
-      "question": "Near-sighted; unable to see distant objects unaided",
-      "answer": "Myopic"
-    },
-		{
-      "category": "Noun",
-      "question": "A collection of physical, biological, psychological or symbolic elements that creates a whole, unified concept or pattern which is other than the sum of its parts, due to the relationships between the parts",
-      "answer": "Gestalt"
-    },
-		{
-      "category": "Noun",
-      "question": "A gripping listlessness or melancholia caused by boredom; depression",
-      "answer": "Ennui"
-    },
-		{
-      "category": "Adjective",
-      "question": "Favoring a return to an alleged golden age of the past; anti-progressive",
-      "answer": "Reactionary"
-    },
-		{
-      "category": "Verb",
-      "question": "To foretell events; to exhibit signs of future events; to indicate a favorable or an unfavorable outcome",
-      "answer": "Augur"
-    },
-		{
-      "category": "Adjective",
-      "question": "Logically reasoned through the exchange of opposing ideas",
-      "answer": "Dialectical"
-    },
-		{
-      "category": "Noun",
-      "question": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model",
-      "answer": "Id"
-    },
-		{
-      "category": "Adjective",
-      "question": "Rustic, pastoral, country-styled",
-      "answer": "Bucolic"
-    },
-		{
-      "category": "Adjective",
-      "question": "Active throughout the year, or having a life cycle of more than two growing seasons",
-      "answer": "Perennial"
-    },
-		{
-      "category": "Idiom",
-      "question": "Pertaining to the close of the 19th century, usually suggesting a literary and artistic climate of modernism, world-weariness, and self-indulgence",
-      "answer": "Fin de Siècle"
-    },
-		{
-      "category": "Noun",
-      "question": "The cradle, birthplace or origin of something",
-      "answer": "Incunabulum"
-    },
-		{
-      "category": "Adjective",
-      "question": "Intended to attract notice",
-      "answer": "Ostentatious"
-    },
-		{
-      "category": "Noun",
-      "question": "Human feces",
-      "answer": "Nightsoil"
-    },
-		{
-      "category": "Noun",
-      "question": "A design or piece of art which is engraved or etched into something",
-      "answer": "Intaglio"
-    },
-		{
-      "category": "Adjective",
-      "question": "Characterized by exceptionally early development or maturity",
-      "answer": "Precocious"
-    },
-		{
-      "category": "Noun",
-      "question": "The use of a single characteristic or part of an object, concept or phenomenon to identify the entire object, concept, phenomenon or a related object",
-      "answer": "Metonymy"
-    },
-		{
-      "category": "Adjective",
-      "question": "Occurring as part of the action (rather than as background), and able to be heard by the film's characters",
-      "answer": "Diegetic"
-    },
-		{
-      "category": "Noun",
-      "question": "A state of being inactive or stuporous",
-      "answer": "Torpor"
-    },
-		{
-      "category": "Noun",
-      "question": "The colour or incrustation which age and wear give to objects; especially, the green rust which covers works of art such as ancient bronzes, coins and medals",
-      "answer": "Patina"
-    },
-		{
-      "category": "Noun",
-      "question": "A wide variety of Jewish and early Christian sects having an interest in divine knowledge, and generally holding the belief that there is a god greater than the Demiurge, or the creator of the world",
-      "answer": "Gnosticism"
-    },
-		{
-      "category": "Noun",
-      "question": "The renunciation of a belief or set of beliefs",
-      "answer": "Apostasy"
-    },
-		{
-      "category": "Adjective",
-      "question": "Highly fertile; able to produce offspring",
-      "answer": "Fecund"
-    },
-		{
-      "category": "Adjective",
-      "question": "Often complaining; suggesting a complaint in expression; fretful, whining",
-      "answer": "Querulous"
-    },
-		{
-      "category": "Adjective",
-      "question": "Done only or merely to conform to a minimal standard or to fulfill a protocol or presumptive duty",
-      "answer": "Perfunctory"
-    },
-		{
-      "category": "Adjective",
-      "question": "Treating serious issues with (often deliberately) inappropriate humour; flippant",
-      "answer": "Facetious"
-    },
-		{
-      "category": "Verb",
-      "question": "To reduce strength or energy; debilitate",
-      "answer": "Enervate"
-    },
-		{
-      "category": "Adjective",
-      "question": "Expressing sorrow or mourning",
-      "answer": "Elegiac"
-    },
-		{
-      "category": "Noun",
-      "question": "The fact or action of becoming or making into a god; deification",
-      "answer": "Apotheosis"
-    },
-		{
-      "category": "Adjective",
-      "question": "Of, pertaining to, or characteristic of a lion",
-      "answer": "Leonine"
-    },
-		{
-      "category": "Noun",
-      "question": "Money, riches, or wealth, especially when seen as having a corrupting effect or causing greed, or obtained in an underhanded manner",
-      "answer": "Lucre"
-    },
-		{
-      "category": "Noun",
-      "question": "A greenish-yellow colour",
-      "answer": "Chartreuse"
-    },
-		{
-      "category": "Adjective",
-      "question": "Not differentiated, not different, alike",
-      "answer": "Undifferentiated"
-    },
-		{
-      "category": "Noun",
-      "question": "A small blank space; a gap or vacancy; a hiatus",
-      "answer": "Lacuna"
-    },
-		{
-      "category": "Noun",
-      "question": "A remote or undeveloped area, a backwater",
-      "answer": "Hinterland"
-    },
-		{
-      "category": "Noun",
-      "question": "A nationalistic doctrine advocating the annexation of foreign lands with historic or ethnic links",
-      "answer": "Irredentism"
-    },
-		{
-      "category": "Noun",
-      "question": "Eternal damnation",
-      "answer": "Perdition"
-    },
-		{
-      "category": "Adjective",
-      "question": "In an initial stage; beginning, starting, coming into existence",
-      "answer": "Incipient"
-    },
-		{
-      "category": "Adjective",
-      "question": "Fragrant or aromatic; having a sweet scent",
-      "answer": "Redolent"
-    },
-		{
-      "category": "Verb",
-      "question": "To prescribe penance or absolution",
-      "answer": "Shrive"
-    },
-		{
-      "category": "Noun",
-      "question": "A steep descent or declivity; steep face or edge of a ridge; ground about a fortified place, cut away nearly vertically to prevent hostile approach",
-      "answer": "Escarpment"
-    },
-		{
-      "category": "Adverb",
-      "question": "By that very fact itself; actually",
-      "answer": "Ipso facto"
-    },
-		{
-      "category": "Noun",
-      "question": "A vicious and scolding woman, especially an older one",
-      "answer": "Harridan"
-    },
-		{
-      "category": "Noun",
-      "question": "A two-handled jar with a narrow neck that was used in ancient times to store or carry wine or oil",
-      "answer": "Amphora"
-    },
-		{
-      "category": "Noun",
-      "question": "Arduous or painful exertion; excessive labor, suffering, hardship",
-      "answer": "Travail"
-    },
-		{
-      "category": "Noun",
-      "question": "A transverse channel under a road or railway for the draining of water",
-      "answer": "Culvert"
-    },
-		{
-      "category": "Noun",
-      "question": "The distinctive scent, caused by geosmin, which accompanies the first rain after a long, warm, dry spell",
-      "answer": "Petrichor"
-    },
-		{
-      "category": "Noun",
-      "question": "Any mild disorder of digestion, characterised by stomach pain, discomfort, heartburn and nausea, often following a meal",
-      "answer": "Dyspepsia"
-    },
-		{
-      "category": "Adjective",
-      "question": "Uneasy with desire; itching; especially, having a lascivious anxiety or propensity; lustful",
-      "answer": "Prurient"
-    },
-		{
-      "category": "Noun",
-      "question": "A small house or box, raised to a considerable height above the ground, and having compartments, in which domestic pigeons breed",
-      "answer": "Dovecote"
-    },
-    { "category": "Adjective",
-      "question": "Noncontentious, blandly agreeable, unlikely to cause offense or debate",
-      "answer": "Anodyne"
-    },
-		{
-      "category": "Verb",
-      "question": "To criticise so as to besmirch; traduce, disparage or defame",
-      "answer": "Denigrate"
-    },
-		{
-      "category": "Noun",
-      "question": "A justification of a deity or of particular attributes of a deity; specifically, a justification of the existence of evil and suffering in the world; a work or discourse justifying the ways of God",
-      "answer": "Theodicy"
-    },
-		{
-      "category": "Verb",
-      "question": "To spread through or over something, especially as a liquid, colour or light; to bathe",
-      "answer": "Suffuse"
-    },
-		{
-      "category": "Verb",
-      "question": "To squander or waste time, money, or other resources; e.g. occupy oneself idly or without clear purpose, to tinker with an unimportant part of a project, to dally, sometimes as a form of procrastination",
-      "answer": "Fritter"
-    },
-		{
-      "category": "Noun",
-      "question": "Something bearing the traces of an earlier, erased form",
-      "answer": "Palimpsest"
-    },
-		{
-      "category": "Adjective",
-      "question": "That denotes or names; designative",
-      "answer": "Denotative"
-    },
-		{
-      "category": "Verb",
-      "question": "To teach by repeated instruction",
-      "answer": "Inculcate"
-    },
-		{
-      "category": "Adjective",
-      "question": "Worthy of note; pertinent or relevant",
-      "answer": "Salient"
-    },
-		{
-      "category": "Noun",
-      "question": "A one-dimensional value assigned to an object, situation, or state, that can usually be positive or negative",
-      "answer": "Valence"
-    },
-		{
-      "category": "Noun",
-      "question": "An unforeseen, inopportune, or embarrassing event",
-      "answer": "Contretemps"
-    },
-		{
-      "category": "Adjective",
-      "question": "Difficult to comprehend or understand; obscure",
-      "answer": "Abstruse"
-    },
-		{
-      "category": "Noun",
-      "question": "An unreasonable fear of being seen, or stared at",
-      "answer": "Scopophobia"
-    },
-		{
-      "category": "Verb",
-      "question": "To dominate or intimidate in a blustering way; to bully, to domineer",
-      "answer": "Hector"
-    },
-		{
-      "category": "Adjective",
-      "question": "Trembling, quivering, or shaking",
-      "answer": "Tremulous"
-    },
-		{
-      "category": "Noun",
-      "question": "The working of miracles, wonderworking; magic, witchcraft, wizardry",
-      "answer": "Thaumaturgy"
-    },
-		{
-      "category": "Noun",
-      "question": "A movement comparing itself to Sunni Islam, claiming to taking the pious ancestors as exemplary models",
-      "answer": "Salafism"
-    },
-		{
-      "category": "Adjective",
-      "question": "Transparent or translucent; allowing light to pass through; capable of being seen through",
-      "answer": "Diaphanous"
-    },
-		{
-      "category": "Noun",
-      "question": "A state interest, especially when invoked as politically superior to moral or even legal considerations",
-      "answer": "Raison d'état"
-    },
-		{
-      "category": "Adjective",
-      "question": "Able to be substituted for something of equal value or utility",
-      "answer": "Fungible"
-    },
-		{
-      "category": "Noun",
-      "question": "A splendid display of something",
-      "answer": "Panoply"
-    },
-		{
-      "category": "Noun",
-      "question": "An indulgence as to food or dress granted to a member of a religious order",
-      "answer": "Misericordia"
-    },
-		{
-      "category": "Noun",
-      "question": "A morbid fear of the sea",
-      "answer": "Thalassophobia"
-    },
-		{
-      "category": "Adjective",
-      "question": "Produced, originating or growing from within",
-      "answer": "Endogenous"
-    },
-		{
-      "category": "Adjective",
-      "question": "Pertaining to, or having the form of, a ring; ring-shaped",
-      "answer": "Annular"
-    },
-		{
-      "category": "Noun",
-      "question": "The quality of being periodic; tendency to recur at regular intervals",
-      "answer": "Periodicity"
-    },
-		{
-      "category": "Adjective",
-      "question": "Repeated too often",
-      "answer": "Hackneyed"
-    },
-		{
-      "category": "Adjective",
-      "question": "Making arbitrary decisions, especially in an impulsive and forceful manner",
-      "answer": "Impetuous"
-    },
-		{
-      "category": "Adjective",
-      "question": "Wanton; lewd, driven by lust, lustful",
-      "answer": "Lascivious"
-    },
-		{
-      "category": "Noun",
-      "question": "A position that requires no work but still gives an ample payment; a cushy job",
-      "answer": "Sinecure"
-    },
-		{
-      "category": "Adverb",
-      "question": "With disapproval, skepticism, or suspicion",
-      "answer": "Askance"
-    },
-		{
-      "category": "Noun",
-      "question": "A false or misleading report or story, especially if deliberately so",
-      "answer": "Canard"
-    },
-		{
-      "category": "Noun",
-      "question": "The art or craft of compiling, writing, and editing dictionaries",
-      "answer": "Lexicography"
-    },
-		{
-      "category": "Noun",
-      "question": "The act, situation, or code of portraying staged events, performances, rivalries, etc. as authentic or spontaneous",
-      "answer": "Kayfabe"
-    },
-		{
-      "category": "Adjective",
-      "question": "Both injective and surjective",
-      "answer": "Bijective"
-    },
-		{
-      "category": "Adjective",
-      "question": "Using as few words as possible; pithy and concise",
-      "answer": "Laconic"
-    },
-		{
-      "category": "Noun",
-      "question": "An essential or indispensable element, condition, or ingredient",
-      "answer": "Sine qua non"
-    },
-		{
-      "category": "Adjective",
-      "question": "Deft, dexterous, or skillful",
-      "answer": "Adroit"
-    },
-		{
-      "category": "Verb",
-      "question": "To cause someone to become accustomed to something that requires prolonged or repeated tolerance of one or more unpleasantries",
-      "answer": "Inure"
-    },
-		{
-      "category": "Noun",
-      "question": "A word or phrase which has recently been coined; a new word or phrase, or an existing one which has gained a new meaning",
-      "answer": "Neologism"
-    },
-		{
-      "category": "Adjective",
-      "question": "Voracious; avaricious",
-      "answer": "Rapacious"
-    },
-		{
-      "category": "Adjective",
-      "question": "Unpleasantly excessive",
-      "answer": "Cloying"
-    },
-		{
-      "category": "Verb",
-      "question": "To transform data in an undefined or unexplained manner, as for example when data wrangling requires nonsystemic or nonsystematic edits",
-      "answer": "Munge"
-    },
-		{
-      "category": "Adjective",
-      "question": "Causing much harm in a subtle way",
-      "answer": "Pernicious"
-    },
-		{
-      "category": "Noun",
-      "question": "A lack of correspondence between parts that reflects a difference in origin",
-      "answer": "Heterology"
-    },
-		{
-      "category": "Adjective",
-      "question": "Difficult, obscure",
-      "answer": "Recondite"
-    },
-		{
-      "category": "Noun",
-      "question": "One who hates or dislikes reasoning or argument",
-      "answer": "Misologist"
-    },
-		{
-      "category": "Adjective",
-      "question": "Fearful; afraid; timid",
-      "answer": "Timorous"
-    },
-		{
-      "category": "Verb",
-      "question": "To form or discharge pus",
-      "answer": "Suppurate"
-    },
-		{
-      "category": "Verb",
-      "question": "To give a false representation of",
-      "answer": "Belie"
-    },
-		{
-      "category": "Noun",
-      "question": "A hard protective covering of bone or chitin, especially one which covers the dorsal portion of an animal",
-      "answer": "Carapace"
-    },
-		{
-      "category": "Noun",
-      "question": "A person or thing that irritates or instigates",
-      "answer": "Gadfly"
-    },
-		{
-      "category": "Verb",
-      "question": "To make holy; to consecrate; to set aside for sacred or ceremonial use",
-      "answer": "Sanctify"
-    },
-		{
-      "category": "Noun",
-      "question": "The political policy of endeavouring to regain lost territory",
-      "answer": "Revanchism"
-    },
-		{
-      "category": "Adjective",
-      "question": "Commonly believed or deemed to be the case; accepted by supposition rather than as a result of proof",
-      "answer": "Putative"
-    },
-		{
-      "category": "Noun",
-      "question": "Linen so woven that a pattern is produced by the different directions of the thread, without contrast of colour",
-      "answer": "Damask"
-    },
-		{
-      "category": "Noun",
-      "question": "The honorable obligation that is the responsibility of those of high rank; in American English this often includes the expectation of benevolent actions such as helping those less fortunate.",
-      "answer": "Noblesse oblige"
-    },
-		{
-      "category": "Verb",
-      "question": "To predict or foretell something",
-      "answer": "Presage"
-    },
-		{
-      "category": "Verb",
-      "question": "To oversee a test or exam",
-      "answer": "Invigilate"
-    },
-		{
-      "category": "Noun",
-      "question": "Suspension; temporary suppression; dormant condition",
-      "answer": "Abeyance"
-    },
-		{
-      "category": "Noun",
-      "question": "Anything that obstructs or closes a vessel or canal",
-      "answer": "Occlusion"
-    },
-		{
-      "category": "Verb",
-      "question": "To speak using double meaning; to speak ambiguously, unclearly or doubtfully, with intent to deceive",
-      "answer": "Equivocate"
-    },
-		{
-      "category": "Noun",
-      "question": "An ethanolamine derivative that is an adrenergic alpha agonist. It is used as a vasoconstrictor agent in the treatment of hypotension",
-      "answer": "Midon"
-    },
-		{
-      "category": "Adjective",
-      "question": "Of or relating to the tailoring of clothing",
-      "answer": "Sartorial"
-    },
-		{
-      "category": "Noun",
-      "question": "A pleasure-trip; a journey made for feasting or enjoyment, now especially a trip made ostensibly for business but which entails merrymaking or entertainment",
-      "answer": "Junket"
-    },
-		{
-      "category": "Noun",
-      "question": "Inherent baseness, depravity or wickedness; corruptness and evilness",
-      "answer": "Turpitude"
-    },
-		{
-      "category": "Noun",
-      "question": "Truth, fact or reality, especially an enduring religious or ethical truth; veracity",
-      "answer": "Verity"
-    },
-		{
-      "category": "Noun",
-      "question": "One who uses obsequious compliments to gain self-serving favor or advantage from another; a servile flatterer",
-      "answer": "Sycophant"
-    },
-		{
-      "category": "Verb",
-      "question": "To make clear; to clarify; to shed light upon",
-      "answer": "Elucidate"
-    },
-		{
-      "category": "Noun",
-      "question": "Political annexation, specifically that of Austria into Nazi Germany in 1938",
-      "answer": "Anschluss"
-    },
-		{
-      "category": "Noun",
-      "question": "The myth of the destruction of the gods in a final battle with the forces of evil; the apocalypse",
-      "answer": "Götterdämmerung"
-    },
-		{
-      "category": "Verb",
-      "question": "To make up, prepare, or compound; to produce by combining ingredients or materials; to concoct",
-      "answer": "Confect"
-    },
-		{
-      "category": "Noun",
-      "question": "The study of poetic meter; the patterns of sounds and rhythms in verse",
-      "answer": "Prosody"
-    },
-		{
-      "category": "Adjective",
-      "question": "Not capricious or impulsive; sedate, serious, sober",
-      "answer": "Staid"
-    },
-		{
-      "category": "Noun",
-      "question": "A word, especially seen as a test, to distinguish someone as belonging to a particular nation, class, profession etc.",
-      "answer": "Shibboleth"
-    },
-		{
-      "category": "Noun",
-      "question": "The liquid left over from boiling chickpeas or similar beans, or from a can of chickpeas",
-      "answer": "Aquafaba"
-    },
-		{
-      "category": "Adjective",
-      "question": "Having qualities that are regarded as typical of German people",
-      "answer": "Teutonic"
-    },
-		{
-      "category": "Adjective",
-      "question": "Of or relating to a young, flirtatious girl",
-      "answer": "Coquettish"
-    },
-		{
-      "category": "Adjective",
-      "question": "Depending on the throw of a die; random, arising by chance",
-      "answer": "Aleatory"
-    },
-		{
-      "category": "Noun",
-      "question": "A vertical pole, post, or support",
-      "answer": "Stanchion"
-    },
-		{
-      "category": "Adjective",
-      "question": "Exceedingly variable; readily assuming different shapes or forms",
-      "answer": "Protean"
-    },
-		{
-      "category": "Noun",
-      "question": "An accomplished fact, something that has already occurred",
-      "answer": "Fait accompli"
-    },
-		{
-      "category": "Adjective",
-      "question": "Of two objects, at right angles; perpendicular to each other",
-      "answer": "Orthogonal"
-    },
-		{
-      "category": "Adjective",
-      "question": "Casually unconcerned; carefree, indifferent, nonchalant",
-      "answer": "Insouciant"
-    },
-		{
-      "category": "Noun",
-      "question": "A form of computer mouse operated with the nose",
-      "answer": "Nouse"
-    },
-		{
-      "category": "Noun",
-      "question": "The specialized informal vocabulary and terminology used between people with special skill in a field, such as between doctors, mathematicians or hackers",
-      "answer": "Argot"
-    },
-		{
-      "category": "Noun",
-      "question": "A military raid by cavalry through enemy territory, designed to disrupt rural communities and weaken an opponent",
-      "answer": "Chevauchée"
-    },
-		{
-      "category": "Noun",
-      "question": "A struggle or contest; conflict; especially between the protagonist and antagonist in a literary work",
-      "answer": "Agon"
-    },
-		{
-      "category": "Verb",
-      "question": "To speak casually with; to chat",
-      "answer": "Confabulate"
-    },
-		{
-      "category": "Noun",
-      "question": "The tragic flaw of the protagonist in a literary tragedy",
-      "answer": "Hamartia"
-    },
-		{
-      "category": "Noun",
-      "question": "A disease or condition which follows chronologically after an earlier disease or problem, being either wholly or partly caused by it, or made possible by it",
-      "answer": "Sequela"
-    },
-		{
-      "category": "Idiom",
-      "question": "Literally, \"in hatred of the faith\"",
-      "answer": "In odium fidei"
-    },
-		{
-      "category": "Noun",
-      "question": "A syncretic, dualistic religion that combined elements of Zoroastrian, Christian, and Gnostic thought, founded by the Iranian prophet Mani in 3rd century AD",
-      "answer": "Manichaeism"
-    },
-		{
-      "category": "Noun",
-      "question": "A sudden surge of excitement",
-      "answer": "Frisson"
-    },
-		{
-      "category": "Noun",
-      "question": "An artistic technique developed during the Renaissance, referring to the use of strong contrasts between light and dark in order to create the illusion of volume",
-      "answer": "Chiaroscuro"
-    },
-		{
-      "category": "Noun",
-      "question": "An hors d’oeuvre, a bite-sized open-faced sandwich made of thin bread or toast topped with savory garnish",
-      "answer": "Canapé"
-    },
-		{
-      "category": "Noun",
-      "question": "In Derridan philosophy, a concept involving the return or persistence of elements from the social or cultural past",
-      "answer": "Hauntology"
-    },
-		{
-      "category": "Verb",
-      "question": "To perform a reconnaissance (of an area; an enemy position); to scout with the aim of acquiring information",
-      "answer": "Reconnoiter"
-    },
-		{
-      "category": "Verb",
-      "question": "To make a verbal attack",
-      "answer": "Fulminate"
-    },
-		{
-      "category": "Verb",
-      "question": "To scruple or object; to take exception; to oppose; to balk",
-      "answer": "Demur"
-    },
-		{
-      "category": "Adjective",
-      "question": "Hard-working, diligent or regular (in attendance or work); industrious",
-      "answer": "Assiduous"
-    },
-		{
-      "category": "Adjective",
-      "question": "Part of, or relating to the body of an organism",
-      "answer": "Somatic"
-    },
-		{
-      "category": "Adjective",
-      "question": "Habitually travelling from place to place",
-      "answer": "Itinerant"
-    },
-		{
-      "category": "Adjective",
-      "question": "Constantly travelling",
-      "answer": "Peripatetic"
-    },
-		{
-      "category": "Noun",
-      "question": "A trick, artifice; an extremely subtle, sophisticated, or deceptive argument; a sophism",
-      "answer": "Syllogism"
-    },
-		{
-      "category": "Noun",
-      "question": "The study of ants",
-      "answer": "Myrmecology"
-    },
-		{
-      "category": "Noun",
-      "question": "A response that answers another response",
-      "answer": "Rejoinder"
-    },
-		{
-      "category": "Adjective",
-      "question": "Of the poorest quality",
-      "answer": "Execrable"
-    },
-		{
-      "category": "Adjective",
-      "question": "Ornate, intricate, decorated, laden with detail",
-      "answer": "Baroque"
-    },
-		{
-      "category": "Noun",
-      "question": "Deviation from what is right; gross injustice, sin, wickedness",
-      "answer": "Iniquity"
-    },
-		{
-      "category": "Adjective",
-      "question": "Having elements of a feast or of entertainment, especially when it comes to eating and drinking, with accompanying festivity",
-      "answer": "Convivial"
-    },
-		{
-      "category": "Noun",
-      "question": "The art or practice of making arguments or controversies",
-      "answer": "Polemics"
-    },
-		{
-      "category": "Noun",
-      "question": "The one or single occasion; the present reason or purpose",
-      "answer": "Nonce"
-    },
-		{
-      "category": "Adjective",
-      "question": "With inadequate preparation or without advance thought; offhand",
-      "answer": "Extemporaneous"
-    },
-		{
-      "category": "Noun",
-      "question": "An anathema; someone or something which is particularly disliked or avoided; an object of aversion, the bane of one’s existence",
-      "answer": "Bête Noire"
-    },
-		{
-      "category": "Noun",
-      "question": "The repetition of a phrase at the beginning of phrases, sentences, or verses, used for emphasis",
-      "answer": "Anaphora"
-    },
-		{
-      "category": "Noun",
-      "question": "Grain that is to be ground in a mill",
-      "answer": "Grist"
-    },
-		{
-      "category": "Adjective",
-      "question": "Attributed to another person",
-      "answer": "Imputed"
-    },
-		{
-      "category": "Adjective",
-      "question": "Reasonable and convincing; based on evidence",
-      "answer": "Cogent"
-    },
-		{
-      "category": "Adjective",
-      "question": "Excessively eager and attentive to please or to obey instructions; fawning, subservient, servile",
-      "answer": "Obsequious"
-    },
-		{
-      "category": "Noun",
-      "question": "The act or process of inferring by deduction or induction",
-      "answer": "Inference"
-    },
-		{
-      "category": "Adjective",
-      "question": "Overly plain, simple or commonplace, to the point of being boring",
-      "answer": "Prosaic"
-    },
-		{
-      "category": "Adjective",
-      "question": "Not limited or restricted; unrestrained; limitless",
-      "answer": "Untrammelled"
-    },
-		{
-      "category": "Adjective",
-      "question": "Characterized by struggle within a group, usually applied to an ethnic or familial relationship",
-      "answer": "Internecine"
-    },
-		{
-      "category": "Noun",
-      "question": "Something found, especially if without an owner; something which comes along, as it were, by chance",
-      "answer": "Waif"
-    },
-		{
-      "category": "Adjective",
-      "question": "Marked by a stubborn unwillingness to obey authority",
-      "answer": "Recalcitrant"
-    },
-		{
-      "category": "Noun",
-      "question": "A very small amount; a hint; a trace, slight idea; an inkling",
-      "answer": "Soupçon"
-    },
-		{
-      "category": "Noun",
-      "question": "A breastplate",
-      "answer": "Plastron"
-    },
-		{
-      "category": "Noun",
-      "question": "A figure of speech that uses the name of a part of something to represent the whole, or the whole to represent a part",
-      "answer": "Synecdoche"
-    },
-		{
-      "category": "Noun",
-      "question": "People of a church who are not ordained clergy or clerics",
-      "answer": "Laity"
-    },
-		{
-      "category": "Noun",
-      "question": "A predetermined or prescribed set of rituals that are performed, usually by a religion",
-      "answer": "Liturgy"
-    },
-		{
-      "category": "Noun",
-      "question": "The practical application of any branch of learning",
-      "answer": "Praxis"
-    },
-		{
-      "category": "Verb",
-      "question": "To be uncertain or unable to make a decision about doing something",
-      "answer": "Dither"
-    },
-		{
-      "category": "Verb",
-      "question": "To place (any one cognition) under another as belonging to it; to include or contain something else",
-      "answer": "Subsume"
-    },
-		{
-      "category": "Adjective",
-      "question": "Relating to any reproductive structure, in some lichens and fungi, that produces spores",
-      "answer": "Soral"
-    },
-		{
-      "category": "Noun",
-      "question": "A phrase or expression connected to an individual or a group of individuals through repeated usage",
-      "answer": "Locution"
-    },
-		{
-      "category": "Noun",
-      "question": "The speech form, variety (lect) of a particular place or region",
-      "answer": "Topolect"
-    },
-		{
-      "category": "Noun",
-      "question": "The region of pure light and fire; the highest heaven, where the pure element of fire was supposed by the ancients to exist: the same as the ether, the ninth heaven according to ancient astronomy, and Dante's poem",
-      "answer": "Empyrean"
-    },
-		{
-      "category": "Verb",
-      "question": "To draw or paint; to delineate",
-      "answer": "Limn"
-    },
-		{
-      "category": "Noun",
-      "question": "A dungheap",
-      "answer": "Midden"
-    },
-		{
-      "category": "Adjective",
-      "question": "Large in body; fat; overweight",
-      "answer": "Corpulent"
-    },
-		{
-      "category": "Noun",
-      "question": "A vertical cylindrical machine that revolves on a spindle, used to apply force to ropes, cables, etc. It is typically surmounted by a drumhead with sockets for levers used to turn it",
-      "answer": "Capstan"
-    },
-		{
-      "category": "Noun",
-      "question": "A small circular or oblong boat made of wickerwork and made watertight with hides or pitch, propelled and steered with a single paddle and light enough to be carried on a person's back",
-      "answer": "Coracle"
-    },
-		{
-      "category": "Noun",
-      "question": "A group of animals or other organisms derived from a common ancestor species",
-      "answer": "Clade"
-    },
-		{
-      "category": "Adjective",
-      "question": "Combining disparate elements in one system, especially as in forms of religious observance, philosophical systems, or artistic creations",
-      "answer": "Syncretic"
-    },
-		{
-      "category": "Noun",
-      "question": "A mess",
-      "answer": "Muss"
-    },
-		{
-      "category": "Adjective",
-      "question": "Phallic",
-      "answer": "Priapic"
-    },
-		{
-      "category": "Adjective",
-      "question": "Having no light, especially no sunlight; specifically describing that part of deep lakes and oceans where less than one per cent of sunlight penetrates and where photosynthesis is not possible",
-      "answer": "Aphotic"
-    },
-		{
-      "category": "Adjective",
-      "question": "Resembling or relating to large aquatic mammals",
-      "answer": "Cetacean"
-    },
-		{
-      "category": "Adverb",
-      "question": "In soft tones; quiet",
-      "answer": "Sotto voce"
-    },
-		{
-      "category": "Noun",
-      "question": "A medieval martial game",
-      "answer": "Hastilude"
-    },
-		{
-      "category": "Noun",
-      "question": "The state of being calm, stable and composed, especially under stress",
-      "answer": "Equanimity"
-    },
-		{
-      "category": "Adjective",
-      "question": "Of good omen; indicating future success",
-      "answer": "Auspicious"
-    },
-		{
-      "category": "Adjective",
-      "question": "Of, or relating to, the sense of taste",
-      "answer": "Gustatory"
-    },
-		{
-      "category": "Adjective",
-      "question": "Not susceptible to violence, or of being profaned, corrupted, or dishonoured",
-      "answer": "Inviolable"
-    },
-		{
-      "category": "Noun",
-      "question": "All the chemical, physical, and biological changes sediment goes through during and after lithification, not including weathering or other surface changes",
-      "answer": "Diagenesis"
-    },
-		{
-      "category": "Noun",
-      "question": "A regional dialect of a language (especially French); usually considered substandard",
-      "answer": "Patois"
-    },
-		{
-      "category": "Noun",
-      "question": "The branch of metaphysics that addresses the nature or essential characteristics of being and of things that exist; the study of being qua being",
-      "answer": "Ontology"
-    },
-		{
-      "category": "Noun",
-      "question": "A region or province in Slavic or Slavic-influenced countries",
-      "answer": "Oblast"
-    },
-		{
-      "category": "Noun",
-      "question": "Abstinence from the consumption of alcohol",
-      "answer": "Teetotalism"
-    },
-		{
-      "category": "Verb",
-      "question": "To bring forward or offer, as an argument, passage, or consideration which bears on a statement or case; to cite; to allege",
-      "answer": "Adduce"
-    },
-		{
-      "category": "Noun",
-      "question": "A dominant nation or state that has control over the international affairs of a subservient state which otherwise has domestic autonomy",
-      "answer": "Suzerain"
-    },
-		{
-      "category": "Noun",
-      "question": "The curlew, Numenius arquata",
-      "answer": "Whaup"
-    },
-		{
-      "category": "Noun",
-      "question": "Any of several migratory wading birds in the genus Numenius of the family Scolopacidae, remarkable for their long, slender, downcurved bills",
-      "answer": "Curlew"
-    },
-		{
-      "category": "Verb",
-      "question": "To shift of turn from direct speech or behavior; to deviate from the truth; to evade the truth; to waffle or be (intentionally) ambiguous",
-      "answer": "Prevaricate"
-    },
-		{
-      "category": "Adverb",
-      "question": "One after another, in order; taking one topic or subject at a time in an order; sequentially",
-      "answer": "Seriatim"
-    },
-		{
-      "category": "Verb",
-      "question": "To transfer a fief to, to endow with a fief; to put (a person) in legal possession of a freehold interest",
-      "answer": "Enfeoff"
-    },
-		{
-      "category": "Adjective",
-      "question": "Learned, scholarly, with emphasis on knowledge gained from books",
-      "answer": "Erudite"
-    },
-		{
-      "category": "Verb",
-      "question": "To forbid (an action of thing) by formal or legal sanction",
-      "answer": "Interdict"
-    },
-		{
-      "category": "Noun",
-      "question": "The act or process of exposing to the rays of the sun, such as for the purpose of medical treatment, drying or maturing, as fruits, drugs, etc., or of rendering acid, as vinegar",
-      "answer": "Insolation"
-    },
-		{
-      "category": "Verb",
-      "question": "To focus into a narrow beam or column; to adjust a focusing device so that it produces a narrow beam",
-      "answer": "Collimate"
-    },
-		{
-      "category": "Noun",
-      "question": "A short cloak worn around the shoulders, adopted as part of the uniform of various religious orders, later often with an embroidered image of a saint",
-      "answer": "Scapular"
-    },
-		{
-      "category": "Noun",
-      "question": "A gaseous or vaporous emission, especially a foul-smelling one",
-      "answer": "Effluvium"
-    },
-		{
-      "category": "Verb",
-      "question": "To represent letters or words in the characters of another writing system",
-      "answer": "Transliterate"
-    },
-		{
-      "category": "Noun",
-      "question": "A social setting or environment",
-      "answer": "Milieu"
-    },
-		{
-      "category": "Adjective",
-      "question": "Helping; helpful; assisting",
-      "answer": "Adjuvant"
-    },
-		{
-      "category": "Adjective",
-      "question": "Characterized by rigorous self-denial or self-discipline; austere; abstinent; involving a witholding of physical pleasure",
-      "answer": "Ascetic"
-    },
-		{
-      "category": "Noun",
-      "question": "A piece of rope spliced into a circular wreath, and put round a block for hanging it",
-      "answer": "Strop"
-    },
-		{
-      "category": "Verb",
-      "question": "To chop away at; to whittle down; to mow down; to act according to, to conform to (usually construed with \"to\")",
-      "answer": "Hew"
-    },
-		{
-      "category": "Adjective",
-      "question": "Obnoxiously stupid; vacantly silly; content in one's foolishness",
-      "answer": "Fatuous"
-    },
-		{
-      "category": "Verb",
-      "question": "Often followed by \"from\" or \"off\": to get off an animal which one has been riding; to dismount; to descend or exit from a vehicle; hence, to complete one's journey; to stop",
-      "answer": "Alight"
-    },
-		{
-      "category": "Verb",
-      "question": "To lower, as in condition of life, office, rank, etc., so as to cause pain or hurt feelings; to degrade, to depress, to humble, to humiliate",
-      "answer": "Abase"
-    },
-		{
-      "category": "Adjective",
-      "question": "Pertaining to or befitting a son or daughter",
-      "answer": "Filial"
-    },
-		{
-      "category": "Noun",
-      "question": "A lord's chief manor place, with that part of the lands belonging thereto which has not been granted out in tenancy; a house, and the land adjoining, kept for the proprietor's own use",
-      "answer": "Demesne"
-    },
-		{
-      "category": "Noun",
-      "question": "A prolonged wail for a deceased person",
-      "answer": "Keen"
-    },
-		{
-      "category": "Adjective",
-      "question": "Distended beyond the natural state by some internal agent, especially fluid, or expansive force",
-      "answer": "Turgid"
-    },
-		{
-      "category": "Adjective",
-      "question": "Sweet, smooth, and musical; pleasant to hear (generally used of a person's voice, tone, or writing style)",
-      "answer": "Mellifluous"
-    },
-		{
-      "category": "Noun",
-      "question": "A set of questions designed to determine knowledge",
-      "answer": "Catechism"
-    },
-		{
-      "category": "Adjective",
-      "question": "Coarsely, vulgarly, or lewdly amusing; referring to sexual matters in a rude or irreverant way",
-      "answer": "Ribald"
-    },
-		{
-      "category": "Noun",
-      "question": "A defense mechanism where certain thoughts or mental processes are compartmentalized in order to avoid stress to the conscious mind",
-      "answer": "Dissociation"
-    },
-		{
-      "category": "Noun",
-      "question": "Coincidences that seem to be meaningfully related; supposedly the result of \"universal forces\"",
-      "answer": "Synchronicity"
-    },
-		{
-      "category": "Noun",
-      "question": "An arrangement of pictures, symbols, and/or words representing phrases or words, especially as a word puzzle",
-      "answer": "Rebus"
-    },
-		{
-      "category": "Noun",
-      "question": "Physical beauty",
-      "answer": "Pulchritude"
-    },
-		{
-      "category": "Adjective",
-      "question": "Stubbornly persistent, generally in wrongdoing; refusing to reform or repent",
-      "answer": "Obdurate"
-    },
-		{
-      "category": "Adjective",
-      "question": "Heavy, massive, weighty",
-      "answer": "Ponderous"
-    },
-		{
-      "category": "Noun",
-      "question": "A complicated situation; an entanglement",
-      "answer": "Imbroglio"
-    },
-		{
-      "category": "Noun",
-      "question": "A state or act of violating faith or allegiance; violation of a promise or vow, or of trust",
-      "answer": "Perfidy"
-    },
-		{
-      "category": "Noun",
-      "question": "An insolent youth; a mere child",
-      "answer": "Whelp"
-    },
-		{
-      "category": "Noun",
-      "question": "A medieval poleaxe bearing a resemblance to a glaive or a Lochaber ax, although the blade portion is somewhat more elongated",
-      "answer": "Vouge"
-    },
-		{
-      "category": "Adjective",
-      "question": "Of, being, pertaining to, or resembling a sheep",
-      "answer": "Ovine"
-    },
-		{
-      "category": "Noun",
-      "question": "Food fit for human (or occasionally animal) consumption",
-      "answer": "Victual"
-    },
-		{
-      "category": "Noun",
-      "question": "An ancient Greek priest who interpreted sacred mysteries, especially the priest of the Eleusinian mysteries",
-      "answer": "Hierophant"
-    },
-	{
-      "category": "Adjective",
-      "question": "Elongated at the poles",
-      "answer": "Prolate"
-    },
-		{
-      "category": "Adjective",
-      "question": "In a due, fit, or becoming manner; as it ought to be; properly",
-      "answer": "Duly"
-    },
-		{
-      "category": "Adjective",
-      "question": "Insolent, ill-mannered",
-      "answer": "Impertinent"
-    },
-		{
-      "category": "Adjective",
-      "question": "Of a function such that, when performed multiple times on the same subject, it has no further effect on its subject after the first time it is performed",
-      "answer": "Idempotent"
-    },
-		{
-      "category": "Adjective",
-      "question": "In the manner of written correspondence",
-      "answer": "Epistolary"
-    },
-		{
-      "category": "Noun",
-      "question": "A long seat with a back, made to accommodate several persons at once; a sofa",
-      "answer": "Settee"
-    },
-		{
-      "category": "Adjective",
-      "question": "With excessive vanity or unwarranted pride",
-      "answer": "Vainglorious"
-    },
-		{
-      "category": "Noun",
-      "question": "A ufological theory which postulates that, over a 24-hour period, sightings of unidentified flying objects (UFOs) are aligned, on the surface of the Earth, along great circles",
-      "answer": "Orthoteny"
-    },
-		{
-      "category": "Verb",
-      "question": "To know, perceive, or understand",
-      "answer": "Ken"
-    },
-		{
-      "category": "Adjective",
-      "question": "Of or relating to something that is in question as to its intent or value",
-      "answer": "Disputatious"
-    },
-		{
-      "category": "Noun",
-      "question": "An instance of subjective, conscious experience",
-      "answer": "Quale"
-    },
-		{
-      "category": "Noun",
-      "question": "A work of art, drama, literature, music, or architecture that imitates the work of a previous artist",
-      "answer": "Pastiche"
-    },
-		{
-      "category": "Verb",
-      "question": "To put forward; to offer for discussion or debate",
-      "answer": "Propound"
-    },
-		{
-      "category": "Noun",
-      "question": "The non-verbal information conveyed in a commercial to the audience via their five senses",
-      "answer": "Esthetic information"
-    },
-		{
-      "category": "Noun",
-      "question": "A special characteristic or quality; prestige, especially via association",
-      "answer": "Cachet"
-    },
-		{
-      "category": "Noun",
-      "question": "A unit of measurement equal to fifteen lightyears",
-      "answer": "Galactave"
-    },
-		{
-      "category": "Verb",
-      "question": "To grind or knead something into a pulp",
-      "answer": "Masticate"
-    },
-		{
-      "category": "Noun",
-      "question": "A handbell used for summoning monks",
-      "answer": "Codon"
-    },
-		{
-      "category": "Adverb",
-      "question": "Anticlockwise, counter-clockwise",
-      "answer": "Widdershins"
-    },
-		{
-      "category": "Noun",
-      "question": "The act or habit of talking in one's sleep",
-      "answer": "Somniloquy"
-    },
-		{
-      "category": "Noun",
-      "question": "The blundering use of an absurdly inappropriate word or expression in place of a similar-sounding one",
-      "answer": "Malapropism"
-    },
-		{
-      "category": "Verb",
-      "question": "To be stocked to overflowing",
-      "answer": "Teem"
-    },
-		{
-      "category": "Noun",
-      "question": "A man whose chief interest is seducing, usually women",
-      "answer": "Lothario"
-    },
-		{
-      "category": "Noun",
-      "question": "A partial or total loss of language skills due to brain damage",
-      "answer": "Aphasia"
-    },
-		{
-      "category": "Noun",
-      "question": "Deception by use of trickery, quibbling, or subterfuge",
-      "answer": "Chicanery"
-    },
-		{
-      "category": "Noun",
-      "question": "A man living off another's earnings, especially a woman's. (Can be homophobic)",
-      "answer": "Ponce"
-    },
-		{
-      "category": "Noun",
-      "question": "Any open-mouthed expression",
-      "answer": "Rictus"
-    },
-		{
-      "category": "Noun",
-      "question": "Difficult or labored respiration; shortness of breath",
-      "answer": "Dyspnea"
-    },
-		{
-      "category": "Noun",
-      "question": "A showy trifle, a toy; a showy trinket, ornament, or decoration",
-      "answer": "Gewgaw"
-    },
-		{
-      "category": "Noun",
-      "question": "The belief in, participation in, or sanction of destroying religious icons and other symbols or monuments, usually with religious or political motives",
-      "answer": "Iconoclasm"
-    },
-    {
-      "category": "Adjective",
-      "question": "Inclined to waste resources or behave extravagantly",
-      "answer": "Profligate"
-    },
-    {
-      "category": "Adjective",
-      "question": "Dedicated or given in fulfillment of a vow or pledge",
-      "answer": "Votive"
-    },
-    {
-      "category": "Noun",
-      "question": "A solemn assembly or council",
-      "answer": "Consistory"
-    },
-    {
-      "category": "Verb",
-      "question": "To complain loudly, to give voice to one's censure or criticism",
-      "answer": "Inveigh"
-    },
-    {
-      "category": "Noun",
-      "question": "A catecholamine hormone and neurotransmitter; as a hormone, secreted by the adrenal gland in response to stress (when it stimulates the autonomic nervous system) as a neurotransmitter, synthesized from norepinephrine. It is also used as a medication",
-      "answer": "Epinephrine"
-    },
-    {
-      "category": "Verb",
-      "question": "Obsolete form of \"prune\"",
-      "answer": "Proin"
-    },
-    {
-      "category": "Noun",
-      "question": "A subgenre of speculative fiction that focuses on community, sustainability, technology powered by renewable energy, and a free and egalitarian society",
-      "answer": "Solarpunk"
-    },
-    {
-      "category": "Noun",
-      "question": "The study of saints and the documentation of their lives",
-      "answer": "Hagiography"
-    },
-    {
-      "category": "Noun",
-      "question": "A professional writer; one whose occupation is to draw contracts or prepare writings",
-      "answer": "Scrivener"
-    },
-    {
-      "category": "Noun",
-      "question": "A legal right or entitlement",
-      "answer": "Droit"
-    },
-    {
-      "category": "Adjective",
-      "question": "Necessary according to etiquette, protocol, or fashion",
-      "answer": "De Rigueur"
-    },
-    {
-      "category": "Noun",
-      "question": "A state whose power derives from its naval or commercial supremacy on the seas",
-      "answer": "Thalassocracy"
-    },
-    {
-      "category": "Noun",
-      "question": "A city, port, or other place where merchandise is sent for import, processing, distribution, and/or export, especially one where such merchandise is exempt from some customs duties; hence, a commercial centre",
-      "answer": "Entrepôt"
-    },
-    {
-      "category": "Noun",
-      "question": "Redundant use of words, a pleonasm, an unnecessary and tedious repetition",
-      "answer": "Tautology"
-    },
-    {
-      "category": "Adjective",
-      "question": "Of a method or algorithm that provides a useful, but not optimal, solution to a problem. Such algorithms are typically employed because the only known algorithms that provide optimal solutions use too much time or resources, or else because there is no known algorithm that provides an optimal solution",
-      "answer": "Heuristic"
-    },
-    {
-      "category": "Noun",
-      "question": "Redundancy in wording",
-      "answer": "Pleonasm"
-    },
-    {
-      "category": "Verb",
-      "question": "To annul by an authoritative act; to abolish by the authority of the maker or their successor to repeal. Applied to the repeal of laws, decrees, or ordinances, the abolition of customs, etc.",
-      "answer": "Abrogate"
-    },
-    {
-      "category": "Noun",
-      "question": "The viewpoint that the population will always grow faster than the food supply that it needs to survive and prosper",
-      "answer": "Malthusianism"
-    },
-    {
-      "category": "Noun",
-      "question": "A code of silence amongst members of a criminal organization (especially the Mafia) that forbids divulging insider secrets to law enforcement, often also followed outside of the organization in fear of retaliation; by extension any code of silence",
-      "answer": "Omertà"
-    },
-    {
-      "category": "Noun",
-      "question": "The moment in the plot of a drama in which the hero makes a discovery that explains previously unexplained events or situations; a denouement",
-      "answer": "Anagnorisis"
-    },
-    {
-      "category": "Verb",
-      "question": "To begin to grow dark; to grow dusky",
-      "answer": "Gloam"
-    },
-    {
-      "category": "Noun",
-      "question": "An animal that lives near, and benefits from human habitation",
-      "answer": "Synanthrope"
-    },
-    {
-      "category": "Adjective",
-      "question": "Obstinate and unruly; strongly opposed to something",
-      "answer": "Refractory"
-    },
-    {
-      "category": "Adjective",
-      "question": "Talkative; chatty",
-      "answer": "Loquacious"
-    },
-    {
-      "category": "Adjective",
-      "question": "Of a position, privilege, etc. available for purchase rather than assigned on merit",
-      "answer": "Venal"
-    },
-    {
-      "category": "Noun",
-      "question": "Nonsense word from \"The Hunting of the Snark\" by Lewis Carroll",
-      "answer": "Boojum"
-    },
-    {
-      "category": "Noun",
-      "question": "A braggart",
-      "answer": "Braggadocio"
-    },
-    {
-      "category": "Noun",
-      "question": "Waste or impure matter",
-      "answer": "Dross"
-    },
-    {
-      "category": "Noun",
-      "question": "Fewness in number; too few",
-      "answer": "Paucity"
-    },
-    {
-      "category": "Noun",
-      "question": "A stochastic process for which the conditional expectation of future values given the sequence of all prior values is equal to the current value",
-      "answer": "Martingale"
-    },
-    {
-      "category": "Adjective",
-      "question": "Small; younger",
-      "answer": "Chota"
-    },
-    {
-      "category": "Noun",
-      "question": "The study of the end times: the end of the world, notably in Christian & Islamic theology, the second coming of Christ, the Apocalypse or the Last Judgment",
-      "answer": "Eschatology"
-    },
-    {
-      "category": "Noun",
-      "question": "The belief, held by a minority of traditionalist Catholics, that the present occupant of the Holy See is not the true pope and that the see has been vacant since the 1960s",
-      "answer": "Sedevacantism"
-    },
-    {
-      "category": "Adjective",
-      "question": "Of or pertaining to the church",
-      "answer": "Ecclesiastical"
-    },
-    {
-      "category": "Noun",
-      "question": "A law or saying by which Jews live. They are derived from the Torah and from later rabbinic literature",
-      "answer": "Halacha"
-    },
-    {
-      "category": "Noun",
-      "question": "A saying or proverb",
-      "answer": "Saw"
-    }
-  ]
-}
+	"questions":
+	[
+		  {
+		"category": "Noun",
+		"question": "A denial; a renunciation; denial of desire or self-interest",
+		"answer": "Abnegation"
+	  },
+		  {
+		"category": "Noun",
+		"question": "The profession of teaching",
+		"answer": "Pedagogy"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A person who reminds someone",
+		"answer": "Remembrancer"
+	  },
+		  {
+		"category": "Verb",
+		"question": "Bloat or embellish by including (often minor and extraneous) details at regular intervals",
+		"answer": "Interlard"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Weekly, occurring once a week",
+		"answer": "Hebdomadal"
+	  },
+		  {
+		"category": "Verb",
+		"question": "To prove to be of unsound mind or demonstrate someone's incompetence",
+		"answer": "Stultify"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Instructive or intended to teach or demonstrate, especially with regard to morality",
+		"answer": "Didactic"
+	  },
+		  {
+		"category": "Noun",
+		"question": "An indeterminate central vowel sound as the \"a\" in \"about\"",
+		"answer": "Schwa"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A condition of favoring or liking; a tendency towards; proclivity; predisposition",
+		"answer": "Predilection"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Cruel or savage",
+		"answer": "Truculent"
+	  },
+		  {
+		"category": "Noun",
+		"question": "Bloodletting",
+		"answer": "Exsanguination"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Near-sighted; unable to see distant objects unaided",
+		"answer": "Myopic"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A collection of physical, biological, psychological or symbolic elements that creates a whole, unified concept or pattern which is other than the sum of its parts, due to the relationships between the parts",
+		"answer": "Gestalt"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A gripping listlessness or melancholia caused by boredom; depression",
+		"answer": "Ennui"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Favoring a return to an alleged golden age of the past; anti-progressive",
+		"answer": "Reactionary"
+	  },
+		  {
+		"category": "Verb",
+		"question": "To foretell events; to exhibit signs of future events; to indicate a favorable or an unfavorable outcome",
+		"answer": "Augur"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Logically reasoned through the exchange of opposing ideas",
+		"answer": "Dialectical"
+	  },
+		  {
+		"category": "Noun",
+		"question": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model",
+		"answer": "Id"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Rustic, pastoral, country-styled",
+		"answer": "Bucolic"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Active throughout the year, or having a life cycle of more than two growing seasons",
+		"answer": "Perennial"
+	  },
+		  {
+		"category": "Idiom",
+		"question": "Pertaining to the close of the 19th century, usually suggesting a literary and artistic climate of modernism, world-weariness, and self-indulgence",
+		"answer": "Fin de Siècle"
+	  },
+		  {
+		"category": "Noun",
+		"question": "The cradle, birthplace or origin of something",
+		"answer": "Incunabulum"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Intended to attract notice",
+		"answer": "Ostentatious"
+	  },
+		  {
+		"category": "Noun",
+		"question": "Human feces",
+		"answer": "Nightsoil"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A design or piece of art which is engraved or etched into something",
+		"answer": "Intaglio"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Characterized by exceptionally early development or maturity",
+		"answer": "Precocious"
+	  },
+		  {
+		"category": "Noun",
+		"question": "The use of a single characteristic or part of an object, concept or phenomenon to identify the entire object, concept, phenomenon or a related object",
+		"answer": "Metonymy"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Occurring as part of the action (rather than as background), and able to be heard by the film's characters",
+		"answer": "Diegetic"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A state of being inactive or stuporous",
+		"answer": "Torpor"
+	  },
+		  {
+		"category": "Noun",
+		"question": "The colour or incrustation which age and wear give to objects; especially, the green rust which covers works of art such as ancient bronzes, coins and medals",
+		"answer": "Patina"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A wide variety of Jewish and early Christian sects having an interest in divine knowledge, and generally holding the belief that there is a god greater than the Demiurge, or the creator of the world",
+		"answer": "Gnosticism"
+	  },
+		  {
+		"category": "Noun",
+		"question": "The renunciation of a belief or set of beliefs",
+		"answer": "Apostasy"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Highly fertile; able to produce offspring",
+		"answer": "Fecund"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Often complaining; suggesting a complaint in expression; fretful, whining",
+		"answer": "Querulous"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Done only or merely to conform to a minimal standard or to fulfill a protocol or presumptive duty",
+		"answer": "Perfunctory"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Treating serious issues with (often deliberately) inappropriate humour; flippant",
+		"answer": "Facetious"
+	  },
+		  {
+		"category": "Verb",
+		"question": "To reduce strength or energy; debilitate",
+		"answer": "Enervate"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Expressing sorrow or mourning",
+		"answer": "Elegiac"
+	  },
+		  {
+		"category": "Noun",
+		"question": "The fact or action of becoming or making into a god; deification",
+		"answer": "Apotheosis"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Of, pertaining to, or characteristic of a lion",
+		"answer": "Leonine"
+	  },
+		  {
+		"category": "Noun",
+		"question": "Money, riches, or wealth, especially when seen as having a corrupting effect or causing greed, or obtained in an underhanded manner",
+		"answer": "Lucre"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A greenish-yellow colour",
+		"answer": "Chartreuse"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Not differentiated, not different, alike",
+		"answer": "Undifferentiated"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A small blank space; a gap or vacancy; a hiatus",
+		"answer": "Lacuna"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A remote or undeveloped area, a backwater",
+		"answer": "Hinterland"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A nationalistic doctrine advocating the annexation of foreign lands with historic or ethnic links",
+		"answer": "Irredentism"
+	  },
+		  {
+		"category": "Noun",
+		"question": "Eternal damnation",
+		"answer": "Perdition"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "In an initial stage; beginning, starting, coming into existence",
+		"answer": "Incipient"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Fragrant or aromatic; having a sweet scent",
+		"answer": "Redolent"
+	  },
+		  {
+		"category": "Verb",
+		"question": "To prescribe penance or absolution",
+		"answer": "Shrive"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A steep descent or declivity; steep face or edge of a ridge; ground about a fortified place, cut away nearly vertically to prevent hostile approach",
+		"answer": "Escarpment"
+	  },
+		  {
+		"category": "Adverb",
+		"question": "By that very fact itself; actually",
+		"answer": "Ipso facto"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A vicious and scolding woman, especially an older one",
+		"answer": "Harridan"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A two-handled jar with a narrow neck that was used in ancient times to store or carry wine or oil",
+		"answer": "Amphora"
+	  },
+		  {
+		"category": "Noun",
+		"question": "Arduous or painful exertion; excessive labor, suffering, hardship",
+		"answer": "Travail"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A transverse channel under a road or railway for the draining of water",
+		"answer": "Culvert"
+	  },
+		  {
+		"category": "Noun",
+		"question": "The distinctive scent, caused by geosmin, which accompanies the first rain after a long, warm, dry spell",
+		"answer": "Petrichor"
+	  },
+		  {
+		"category": "Noun",
+		"question": "Any mild disorder of digestion, characterised by stomach pain, discomfort, heartburn and nausea, often following a meal",
+		"answer": "Dyspepsia"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Uneasy with desire; itching; especially, having a lascivious anxiety or propensity; lustful",
+		"answer": "Prurient"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A small house or box, raised to a considerable height above the ground, and having compartments, in which domestic pigeons breed",
+		"answer": "Dovecote"
+	  },
+	  { "category": "Adjective",
+		"question": "Noncontentious, blandly agreeable, unlikely to cause offense or debate",
+		"answer": "Anodyne"
+	  },
+		  {
+		"category": "Verb",
+		"question": "To criticise so as to besmirch; traduce, disparage or defame",
+		"answer": "Denigrate"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A justification of a deity or of particular attributes of a deity; specifically, a justification of the existence of evil and suffering in the world; a work or discourse justifying the ways of God",
+		"answer": "Theodicy"
+	  },
+		  {
+		"category": "Verb",
+		"question": "To spread through or over something, especially as a liquid, colour or light; to bathe",
+		"answer": "Suffuse"
+	  },
+		  {
+		"category": "Verb",
+		"question": "To squander or waste time, money, or other resources; e.g. occupy oneself idly or without clear purpose, to tinker with an unimportant part of a project, to dally, sometimes as a form of procrastination",
+		"answer": "Fritter"
+	  },
+		  {
+		"category": "Noun",
+		"question": "Something bearing the traces of an earlier, erased form",
+		"answer": "Palimpsest"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "That denotes or names; designative",
+		"answer": "Denotative"
+	  },
+		  {
+		"category": "Verb",
+		"question": "To teach by repeated instruction",
+		"answer": "Inculcate"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Worthy of note; pertinent or relevant",
+		"answer": "Salient"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A one-dimensional value assigned to an object, situation, or state, that can usually be positive or negative",
+		"answer": "Valence"
+	  },
+		  {
+		"category": "Noun",
+		"question": "An unforeseen, inopportune, or embarrassing event",
+		"answer": "Contretemps"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Difficult to comprehend or understand; obscure",
+		"answer": "Abstruse"
+	  },
+		  {
+		"category": "Noun",
+		"question": "An unreasonable fear of being seen, or stared at",
+		"answer": "Scopophobia"
+	  },
+		  {
+		"category": "Verb",
+		"question": "To dominate or intimidate in a blustering way; to bully, to domineer",
+		"answer": "Hector"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Trembling, quivering, or shaking",
+		"answer": "Tremulous"
+	  },
+		  {
+		"category": "Noun",
+		"question": "The working of miracles, wonderworking; magic, witchcraft, wizardry",
+		"answer": "Thaumaturgy"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A movement comparing itself to Sunni Islam, claiming to taking the pious ancestors as exemplary models",
+		"answer": "Salafism"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Transparent or translucent; allowing light to pass through; capable of being seen through",
+		"answer": "Diaphanous"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A state interest, especially when invoked as politically superior to moral or even legal considerations",
+		"answer": "Raison d'état"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Able to be substituted for something of equal value or utility",
+		"answer": "Fungible"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A splendid display of something",
+		"answer": "Panoply"
+	  },
+		  {
+		"category": "Noun",
+		"question": "An indulgence as to food or dress granted to a member of a religious order",
+		"answer": "Misericordia"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A morbid fear of the sea",
+		"answer": "Thalassophobia"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Produced, originating or growing from within",
+		"answer": "Endogenous"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Pertaining to, or having the form of, a ring; ring-shaped",
+		"answer": "Annular"
+	  },
+		  {
+		"category": "Noun",
+		"question": "The quality of being periodic; tendency to recur at regular intervals",
+		"answer": "Periodicity"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Repeated too often",
+		"answer": "Hackneyed"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Making arbitrary decisions, especially in an impulsive and forceful manner",
+		"answer": "Impetuous"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Wanton; lewd, driven by lust, lustful",
+		"answer": "Lascivious"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A position that requires no work but still gives an ample payment; a cushy job",
+		"answer": "Sinecure"
+	  },
+		  {
+		"category": "Adverb",
+		"question": "With disapproval, skepticism, or suspicion",
+		"answer": "Askance"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A false or misleading report or story, especially if deliberately so",
+		"answer": "Canard"
+	  },
+		  {
+		"category": "Noun",
+		"question": "The art or craft of compiling, writing, and editing dictionaries",
+		"answer": "Lexicography"
+	  },
+		  {
+		"category": "Noun",
+		"question": "The act, situation, or code of portraying staged events, performances, rivalries, etc. as authentic or spontaneous",
+		"answer": "Kayfabe"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Both injective and surjective",
+		"answer": "Bijective"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Using as few words as possible; pithy and concise",
+		"answer": "Laconic"
+	  },
+		  {
+		"category": "Noun",
+		"question": "An essential or indispensable element, condition, or ingredient",
+		"answer": "Sine qua non"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Deft, dexterous, or skillful",
+		"answer": "Adroit"
+	  },
+		  {
+		"category": "Verb",
+		"question": "To cause someone to become accustomed to something that requires prolonged or repeated tolerance of one or more unpleasantries",
+		"answer": "Inure"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A word or phrase which has recently been coined; a new word or phrase, or an existing one which has gained a new meaning",
+		"answer": "Neologism"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Voracious; avaricious",
+		"answer": "Rapacious"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Unpleasantly excessive",
+		"answer": "Cloying"
+	  },
+		  {
+		"category": "Verb",
+		"question": "To transform data in an undefined or unexplained manner, as for example when data wrangling requires nonsystemic or nonsystematic edits",
+		"answer": "Munge"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Causing much harm in a subtle way",
+		"answer": "Pernicious"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A lack of correspondence between parts that reflects a difference in origin",
+		"answer": "Heterology"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Difficult, obscure",
+		"answer": "Recondite"
+	  },
+		  {
+		"category": "Noun",
+		"question": "One who hates or dislikes reasoning or argument",
+		"answer": "Misologist"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Fearful; afraid; timid",
+		"answer": "Timorous"
+	  },
+		  {
+		"category": "Verb",
+		"question": "To form or discharge pus",
+		"answer": "Suppurate"
+	  },
+		  {
+		"category": "Verb",
+		"question": "To give a false representation of",
+		"answer": "Belie"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A hard protective covering of bone or chitin, especially one which covers the dorsal portion of an animal",
+		"answer": "Carapace"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A person or thing that irritates or instigates",
+		"answer": "Gadfly"
+	  },
+		  {
+		"category": "Verb",
+		"question": "To make holy; to consecrate; to set aside for sacred or ceremonial use",
+		"answer": "Sanctify"
+	  },
+		  {
+		"category": "Noun",
+		"question": "The political policy of endeavouring to regain lost territory",
+		"answer": "Revanchism"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Commonly believed or deemed to be the case; accepted by supposition rather than as a result of proof",
+		"answer": "Putative"
+	  },
+		  {
+		"category": "Noun",
+		"question": "Linen so woven that a pattern is produced by the different directions of the thread, without contrast of colour",
+		"answer": "Damask"
+	  },
+		  {
+		"category": "Noun",
+		"question": "The honorable obligation that is the responsibility of those of high rank; in American English this often includes the expectation of benevolent actions such as helping those less fortunate.",
+		"answer": "Noblesse oblige"
+	  },
+		  {
+		"category": "Verb",
+		"question": "To predict or foretell something",
+		"answer": "Presage"
+	  },
+		  {
+		"category": "Verb",
+		"question": "To oversee a test or exam",
+		"answer": "Invigilate"
+	  },
+		  {
+		"category": "Noun",
+		"question": "Suspension; temporary suppression; dormant condition",
+		"answer": "Abeyance"
+	  },
+		  {
+		"category": "Noun",
+		"question": "Anything that obstructs or closes a vessel or canal",
+		"answer": "Occlusion"
+	  },
+		  {
+		"category": "Verb",
+		"question": "To speak using double meaning; to speak ambiguously, unclearly or doubtfully, with intent to deceive",
+		"answer": "Equivocate"
+	  },
+		  {
+		"category": "Noun",
+		"question": "An ethanolamine derivative that is an adrenergic alpha agonist. It is used as a vasoconstrictor agent in the treatment of hypotension",
+		"answer": "Midon"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Of or relating to the tailoring of clothing",
+		"answer": "Sartorial"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A pleasure-trip; a journey made for feasting or enjoyment, now especially a trip made ostensibly for business but which entails merrymaking or entertainment",
+		"answer": "Junket"
+	  },
+		  {
+		"category": "Noun",
+		"question": "Inherent baseness, depravity or wickedness; corruptness and evilness",
+		"answer": "Turpitude"
+	  },
+		  {
+		"category": "Noun",
+		"question": "Truth, fact or reality, especially an enduring religious or ethical truth; veracity",
+		"answer": "Verity"
+	  },
+		  {
+		"category": "Noun",
+		"question": "One who uses obsequious compliments to gain self-serving favor or advantage from another; a servile flatterer",
+		"answer": "Sycophant"
+	  },
+		  {
+		"category": "Verb",
+		"question": "To make clear; to clarify; to shed light upon",
+		"answer": "Elucidate"
+	  },
+		  {
+		"category": "Noun",
+		"question": "Political annexation, specifically that of Austria into Nazi Germany in 1938",
+		"answer": "Anschluss"
+	  },
+		  {
+		"category": "Noun",
+		"question": "The myth of the destruction of the gods in a final battle with the forces of evil; the apocalypse",
+		"answer": "Götterdämmerung"
+	  },
+		  {
+		"category": "Verb",
+		"question": "To make up, prepare, or compound; to produce by combining ingredients or materials; to concoct",
+		"answer": "Confect"
+	  },
+		  {
+		"category": "Noun",
+		"question": "The study of poetic meter; the patterns of sounds and rhythms in verse",
+		"answer": "Prosody"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Not capricious or impulsive; sedate, serious, sober",
+		"answer": "Staid"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A word, especially seen as a test, to distinguish someone as belonging to a particular nation, class, profession etc.",
+		"answer": "Shibboleth"
+	  },
+		  {
+		"category": "Noun",
+		"question": "The liquid left over from boiling chickpeas or similar beans, or from a can of chickpeas",
+		"answer": "Aquafaba"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Having qualities that are regarded as typical of German people",
+		"answer": "Teutonic"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Of or relating to a young, flirtatious girl",
+		"answer": "Coquettish"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Depending on the throw of a die; random, arising by chance",
+		"answer": "Aleatory"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A vertical pole, post, or support",
+		"answer": "Stanchion"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Exceedingly variable; readily assuming different shapes or forms",
+		"answer": "Protean"
+	  },
+		  {
+		"category": "Noun",
+		"question": "An accomplished fact, something that has already occurred",
+		"answer": "Fait accompli"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Of two objects, at right angles; perpendicular to each other",
+		"answer": "Orthogonal"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Casually unconcerned; carefree, indifferent, nonchalant",
+		"answer": "Insouciant"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A form of computer mouse operated with the nose",
+		"answer": "Nouse"
+	  },
+		  {
+		"category": "Noun",
+		"question": "The specialized informal vocabulary and terminology used between people with special skill in a field, such as between doctors, mathematicians or hackers",
+		"answer": "Argot"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A military raid by cavalry through enemy territory, designed to disrupt rural communities and weaken an opponent",
+		"answer": "Chevauchée"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A struggle or contest; conflict; especially between the protagonist and antagonist in a literary work",
+		"answer": "Agon"
+	  },
+		  {
+		"category": "Verb",
+		"question": "To speak casually with; to chat",
+		"answer": "Confabulate"
+	  },
+		  {
+		"category": "Noun",
+		"question": "The tragic flaw of the protagonist in a literary tragedy",
+		"answer": "Hamartia"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A disease or condition which follows chronologically after an earlier disease or problem, being either wholly or partly caused by it, or made possible by it",
+		"answer": "Sequela"
+	  },
+		  {
+		"category": "Idiom",
+		"question": "Literally, \"in hatred of the faith\"",
+		"answer": "In odium fidei"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A syncretic, dualistic religion that combined elements of Zoroastrian, Christian, and Gnostic thought, founded by the Iranian prophet Mani in 3rd century AD",
+		"answer": "Manichaeism"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A sudden surge of excitement",
+		"answer": "Frisson"
+	  },
+		  {
+		"category": "Noun",
+		"question": "An artistic technique developed during the Renaissance, referring to the use of strong contrasts between light and dark in order to create the illusion of volume",
+		"answer": "Chiaroscuro"
+	  },
+		  {
+		"category": "Noun",
+		"question": "An hors d’oeuvre, a bite-sized open-faced sandwich made of thin bread or toast topped with savory garnish",
+		"answer": "Canapé"
+	  },
+		  {
+		"category": "Noun",
+		"question": "In Derridan philosophy, a concept involving the return or persistence of elements from the social or cultural past",
+		"answer": "Hauntology"
+	  },
+		  {
+		"category": "Verb",
+		"question": "To perform a reconnaissance (of an area; an enemy position); to scout with the aim of acquiring information",
+		"answer": "Reconnoiter"
+	  },
+		  {
+		"category": "Verb",
+		"question": "To make a verbal attack",
+		"answer": "Fulminate"
+	  },
+		  {
+		"category": "Verb",
+		"question": "To scruple or object; to take exception; to oppose; to balk",
+		"answer": "Demur"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Hard-working, diligent or regular (in attendance or work); industrious",
+		"answer": "Assiduous"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Part of, or relating to the body of an organism",
+		"answer": "Somatic"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Habitually travelling from place to place",
+		"answer": "Itinerant"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Constantly travelling",
+		"answer": "Peripatetic"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A trick, artifice; an extremely subtle, sophisticated, or deceptive argument; a sophism",
+		"answer": "Syllogism"
+	  },
+		  {
+		"category": "Noun",
+		"question": "The study of ants",
+		"answer": "Myrmecology"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A response that answers another response",
+		"answer": "Rejoinder"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Of the poorest quality",
+		"answer": "Execrable"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Ornate, intricate, decorated, laden with detail",
+		"answer": "Baroque"
+	  },
+		  {
+		"category": "Noun",
+		"question": "Deviation from what is right; gross injustice, sin, wickedness",
+		"answer": "Iniquity"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Having elements of a feast or of entertainment, especially when it comes to eating and drinking, with accompanying festivity",
+		"answer": "Convivial"
+	  },
+		  {
+		"category": "Noun",
+		"question": "The art or practice of making arguments or controversies",
+		"answer": "Polemics"
+	  },
+		  {
+		"category": "Noun",
+		"question": "The one or single occasion; the present reason or purpose",
+		"answer": "Nonce"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "With inadequate preparation or without advance thought; offhand",
+		"answer": "Extemporaneous"
+	  },
+		  {
+		"category": "Noun",
+		"question": "An anathema; someone or something which is particularly disliked or avoided; an object of aversion, the bane of one’s existence",
+		"answer": "Bête Noire"
+	  },
+		  {
+		"category": "Noun",
+		"question": "The repetition of a phrase at the beginning of phrases, sentences, or verses, used for emphasis",
+		"answer": "Anaphora"
+	  },
+		  {
+		"category": "Noun",
+		"question": "Grain that is to be ground in a mill",
+		"answer": "Grist"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Attributed to another person",
+		"answer": "Imputed"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Reasonable and convincing; based on evidence",
+		"answer": "Cogent"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Excessively eager and attentive to please or to obey instructions; fawning, subservient, servile",
+		"answer": "Obsequious"
+	  },
+		  {
+		"category": "Noun",
+		"question": "The act or process of inferring by deduction or induction",
+		"answer": "Inference"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Overly plain, simple or commonplace, to the point of being boring",
+		"answer": "Prosaic"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Not limited or restricted; unrestrained; limitless",
+		"answer": "Untrammelled"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Characterized by struggle within a group, usually applied to an ethnic or familial relationship",
+		"answer": "Internecine"
+	  },
+		  {
+		"category": "Noun",
+		"question": "Something found, especially if without an owner; something which comes along, as it were, by chance",
+		"answer": "Waif"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Marked by a stubborn unwillingness to obey authority",
+		"answer": "Recalcitrant"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A very small amount; a hint; a trace, slight idea; an inkling",
+		"answer": "Soupçon"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A breastplate",
+		"answer": "Plastron"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A figure of speech that uses the name of a part of something to represent the whole, or the whole to represent a part",
+		"answer": "Synecdoche"
+	  },
+		  {
+		"category": "Noun",
+		"question": "People of a church who are not ordained clergy or clerics",
+		"answer": "Laity"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A predetermined or prescribed set of rituals that are performed, usually by a religion",
+		"answer": "Liturgy"
+	  },
+		  {
+		"category": "Noun",
+		"question": "The practical application of any branch of learning",
+		"answer": "Praxis"
+	  },
+		  {
+		"category": "Verb",
+		"question": "To be uncertain or unable to make a decision about doing something",
+		"answer": "Dither"
+	  },
+		  {
+		"category": "Verb",
+		"question": "To place (any one cognition) under another as belonging to it; to include or contain something else",
+		"answer": "Subsume"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Relating to any reproductive structure, in some lichens and fungi, that produces spores",
+		"answer": "Soral"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A phrase or expression connected to an individual or a group of individuals through repeated usage",
+		"answer": "Locution"
+	  },
+		  {
+		"category": "Noun",
+		"question": "The speech form, variety (lect) of a particular place or region",
+		"answer": "Topolect"
+	  },
+		  {
+		"category": "Noun",
+		"question": "The region of pure light and fire; the highest heaven, where the pure element of fire was supposed by the ancients to exist: the same as the ether, the ninth heaven according to ancient astronomy, and Dante's poem",
+		"answer": "Empyrean"
+	  },
+		  {
+		"category": "Verb",
+		"question": "To draw or paint; to delineate",
+		"answer": "Limn"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A dungheap",
+		"answer": "Midden"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Large in body; fat; overweight",
+		"answer": "Corpulent"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A vertical cylindrical machine that revolves on a spindle, used to apply force to ropes, cables, etc. It is typically surmounted by a drumhead with sockets for levers used to turn it",
+		"answer": "Capstan"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A small circular or oblong boat made of wickerwork and made watertight with hides or pitch, propelled and steered with a single paddle and light enough to be carried on a person's back",
+		"answer": "Coracle"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A group of animals or other organisms derived from a common ancestor species",
+		"answer": "Clade"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Combining disparate elements in one system, especially as in forms of religious observance, philosophical systems, or artistic creations",
+		"answer": "Syncretic"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A mess",
+		"answer": "Muss"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Phallic",
+		"answer": "Priapic"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Having no light, especially no sunlight; specifically describing that part of deep lakes and oceans where less than one per cent of sunlight penetrates and where photosynthesis is not possible",
+		"answer": "Aphotic"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Resembling or relating to large aquatic mammals",
+		"answer": "Cetacean"
+	  },
+		  {
+		"category": "Adverb",
+		"question": "In soft tones; quiet",
+		"answer": "Sotto voce"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A medieval martial game",
+		"answer": "Hastilude"
+	  },
+		  {
+		"category": "Noun",
+		"question": "The state of being calm, stable and composed, especially under stress",
+		"answer": "Equanimity"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Of good omen; indicating future success",
+		"answer": "Auspicious"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Of, or relating to, the sense of taste",
+		"answer": "Gustatory"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Not susceptible to violence, or of being profaned, corrupted, or dishonoured",
+		"answer": "Inviolable"
+	  },
+		  {
+		"category": "Noun",
+		"question": "All the chemical, physical, and biological changes sediment goes through during and after lithification, not including weathering or other surface changes",
+		"answer": "Diagenesis"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A regional dialect of a language (especially French); usually considered substandard",
+		"answer": "Patois"
+	  },
+		  {
+		"category": "Noun",
+		"question": "The branch of metaphysics that addresses the nature or essential characteristics of being and of things that exist; the study of being qua being",
+		"answer": "Ontology"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A region or province in Slavic or Slavic-influenced countries",
+		"answer": "Oblast"
+	  },
+		  {
+		"category": "Noun",
+		"question": "Abstinence from the consumption of alcohol",
+		"answer": "Teetotalism"
+	  },
+		  {
+		"category": "Verb",
+		"question": "To bring forward or offer, as an argument, passage, or consideration which bears on a statement or case; to cite; to allege",
+		"answer": "Adduce"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A dominant nation or state that has control over the international affairs of a subservient state which otherwise has domestic autonomy",
+		"answer": "Suzerain"
+	  },
+		  {
+		"category": "Noun",
+		"question": "The curlew, Numenius arquata",
+		"answer": "Whaup"
+	  },
+		  {
+		"category": "Noun",
+		"question": "Any of several migratory wading birds in the genus Numenius of the family Scolopacidae, remarkable for their long, slender, downcurved bills",
+		"answer": "Curlew"
+	  },
+		  {
+		"category": "Verb",
+		"question": "To shift of turn from direct speech or behavior; to deviate from the truth; to evade the truth; to waffle or be (intentionally) ambiguous",
+		"answer": "Prevaricate"
+	  },
+		  {
+		"category": "Adverb",
+		"question": "One after another, in order; taking one topic or subject at a time in an order; sequentially",
+		"answer": "Seriatim"
+	  },
+		  {
+		"category": "Verb",
+		"question": "To transfer a fief to, to endow with a fief; to put (a person) in legal possession of a freehold interest",
+		"answer": "Enfeoff"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Learned, scholarly, with emphasis on knowledge gained from books",
+		"answer": "Erudite"
+	  },
+		  {
+		"category": "Verb",
+		"question": "To forbid (an action of thing) by formal or legal sanction",
+		"answer": "Interdict"
+	  },
+		  {
+		"category": "Noun",
+		"question": "The act or process of exposing to the rays of the sun, such as for the purpose of medical treatment, drying or maturing, as fruits, drugs, etc., or of rendering acid, as vinegar",
+		"answer": "Insolation"
+	  },
+		  {
+		"category": "Verb",
+		"question": "To focus into a narrow beam or column; to adjust a focusing device so that it produces a narrow beam",
+		"answer": "Collimate"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A short cloak worn around the shoulders, adopted as part of the uniform of various religious orders, later often with an embroidered image of a saint",
+		"answer": "Scapular"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A gaseous or vaporous emission, especially a foul-smelling one",
+		"answer": "Effluvium"
+	  },
+		  {
+		"category": "Verb",
+		"question": "To represent letters or words in the characters of another writing system",
+		"answer": "Transliterate"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A social setting or environment",
+		"answer": "Milieu"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Helping; helpful; assisting",
+		"answer": "Adjuvant"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Characterized by rigorous self-denial or self-discipline; austere; abstinent; involving a witholding of physical pleasure",
+		"answer": "Ascetic"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A piece of rope spliced into a circular wreath, and put round a block for hanging it",
+		"answer": "Strop"
+	  },
+		  {
+		"category": "Verb",
+		"question": "To chop away at; to whittle down; to mow down; to act according to, to conform to (usually construed with \"to\")",
+		"answer": "Hew"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Obnoxiously stupid; vacantly silly; content in one's foolishness",
+		"answer": "Fatuous"
+	  },
+		  {
+		"category": "Verb",
+		"question": "Often followed by \"from\" or \"off\": to get off an animal which one has been riding; to dismount; to descend or exit from a vehicle; hence, to complete one's journey; to stop",
+		"answer": "Alight"
+	  },
+		  {
+		"category": "Verb",
+		"question": "To lower, as in condition of life, office, rank, etc., so as to cause pain or hurt feelings; to degrade, to depress, to humble, to humiliate",
+		"answer": "Abase"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Pertaining to or befitting a son or daughter",
+		"answer": "Filial"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A lord's chief manor place, with that part of the lands belonging thereto which has not been granted out in tenancy; a house, and the land adjoining, kept for the proprietor's own use",
+		"answer": "Demesne"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A prolonged wail for a deceased person",
+		"answer": "Keen"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Distended beyond the natural state by some internal agent, especially fluid, or expansive force",
+		"answer": "Turgid"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Sweet, smooth, and musical; pleasant to hear (generally used of a person's voice, tone, or writing style)",
+		"answer": "Mellifluous"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A set of questions designed to determine knowledge",
+		"answer": "Catechism"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Coarsely, vulgarly, or lewdly amusing; referring to sexual matters in a rude or irreverant way",
+		"answer": "Ribald"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A defense mechanism where certain thoughts or mental processes are compartmentalized in order to avoid stress to the conscious mind",
+		"answer": "Dissociation"
+	  },
+		  {
+		"category": "Noun",
+		"question": "Coincidences that seem to be meaningfully related; supposedly the result of \"universal forces\"",
+		"answer": "Synchronicity"
+	  },
+		  {
+		"category": "Noun",
+		"question": "An arrangement of pictures, symbols, and/or words representing phrases or words, especially as a word puzzle",
+		"answer": "Rebus"
+	  },
+		  {
+		"category": "Noun",
+		"question": "Physical beauty",
+		"answer": "Pulchritude"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Stubbornly persistent, generally in wrongdoing; refusing to reform or repent",
+		"answer": "Obdurate"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Heavy, massive, weighty",
+		"answer": "Ponderous"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A complicated situation; an entanglement",
+		"answer": "Imbroglio"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A state or act of violating faith or allegiance; violation of a promise or vow, or of trust",
+		"answer": "Perfidy"
+	  },
+		  {
+		"category": "Noun",
+		"question": "An insolent youth; a mere child",
+		"answer": "Whelp"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A medieval poleaxe bearing a resemblance to a glaive or a Lochaber ax, although the blade portion is somewhat more elongated",
+		"answer": "Vouge"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Of, being, pertaining to, or resembling a sheep",
+		"answer": "Ovine"
+	  },
+		  {
+		"category": "Noun",
+		"question": "Food fit for human (or occasionally animal) consumption",
+		"answer": "Victual"
+	  },
+		  {
+		"category": "Noun",
+		"question": "An ancient Greek priest who interpreted sacred mysteries, especially the priest of the Eleusinian mysteries",
+		"answer": "Hierophant"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Elongated at the poles",
+		"answer": "Prolate"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "In a due, fit, or becoming manner; as it ought to be; properly",
+		"answer": "Duly"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Insolent, ill-mannered",
+		"answer": "Impertinent"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Of a function such that, when performed multiple times on the same subject, it has no further effect on its subject after the first time it is performed",
+		"answer": "Idempotent"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "In the manner of written correspondence",
+		"answer": "Epistolary"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A long seat with a back, made to accommodate several persons at once; a sofa",
+		"answer": "Settee"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "With excessive vanity or unwarranted pride",
+		"answer": "Vainglorious"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A ufological theory which postulates that, over a 24-hour period, sightings of unidentified flying objects (UFOs) are aligned, on the surface of the Earth, along great circles",
+		"answer": "Orthoteny"
+	  },
+		  {
+		"category": "Verb",
+		"question": "To know, perceive, or understand",
+		"answer": "Ken"
+	  },
+		  {
+		"category": "Adjective",
+		"question": "Of or relating to something that is in question as to its intent or value",
+		"answer": "Disputatious"
+	  },
+		  {
+		"category": "Noun",
+		"question": "An instance of subjective, conscious experience",
+		"answer": "Quale"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A work of art, drama, literature, music, or architecture that imitates the work of a previous artist",
+		"answer": "Pastiche"
+	  },
+		  {
+		"category": "Verb",
+		"question": "To put forward; to offer for discussion or debate",
+		"answer": "Propound"
+	  },
+		  {
+		"category": "Noun",
+		"question": "The non-verbal information conveyed in a commercial to the audience via their five senses",
+		"answer": "Esthetic information"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A special characteristic or quality; prestige, especially via association",
+		"answer": "Cachet"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A unit of measurement equal to fifteen lightyears",
+		"answer": "Galactave"
+	  },
+		  {
+		"category": "Verb",
+		"question": "To grind or knead something into a pulp",
+		"answer": "Masticate"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A handbell used for summoning monks",
+		"answer": "Codon"
+	  },
+		  {
+		"category": "Adverb",
+		"question": "Anticlockwise, counter-clockwise",
+		"answer": "Widdershins"
+	  },
+		  {
+		"category": "Noun",
+		"question": "The act or habit of talking in one's sleep",
+		"answer": "Somniloquy"
+	  },
+		  {
+		"category": "Noun",
+		"question": "The blundering use of an absurdly inappropriate word or expression in place of a similar-sounding one",
+		"answer": "Malapropism"
+	  },
+		  {
+		"category": "Verb",
+		"question": "To be stocked to overflowing",
+		"answer": "Teem"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A man whose chief interest is seducing, usually women",
+		"answer": "Lothario"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A partial or total loss of language skills due to brain damage",
+		"answer": "Aphasia"
+	  },
+		  {
+		"category": "Noun",
+		"question": "Deception by use of trickery, quibbling, or subterfuge",
+		"answer": "Chicanery"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A man living off another's earnings, especially a woman's. (Can be homophobic)",
+		"answer": "Ponce"
+	  },
+		  {
+		"category": "Noun",
+		"question": "Any open-mouthed expression",
+		"answer": "Rictus"
+	  },
+		  {
+		"category": "Noun",
+		"question": "Difficult or labored respiration; shortness of breath",
+		"answer": "Dyspnea"
+	  },
+		  {
+		"category": "Noun",
+		"question": "A showy trifle, a toy; a showy trinket, ornament, or decoration",
+		"answer": "Gewgaw"
+	  },
+		  {
+		"category": "Noun",
+		"question": "The belief in, participation in, or sanction of destroying religious icons and other symbols or monuments, usually with religious or political motives",
+		"answer": "Iconoclasm"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Inclined to waste resources or behave extravagantly",
+		"answer": "Profligate"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Dedicated or given in fulfillment of a vow or pledge",
+		"answer": "Votive"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A solemn assembly or council",
+		"answer": "Consistory"
+	  },
+	  {
+		"category": "Verb",
+		"question": "To complain loudly, to give voice to one's censure or criticism",
+		"answer": "Inveigh"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A catecholamine hormone and neurotransmitter; as a hormone, secreted by the adrenal gland in response to stress (when it stimulates the autonomic nervous system) as a neurotransmitter, synthesized from norepinephrine. It is also used as a medication",
+		"answer": "Epinephrine"
+	  },
+	  {
+		"category": "Verb",
+		"question": "Obsolete form of \"prune\"",
+		"answer": "Proin"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A subgenre of speculative fiction that focuses on community, sustainability, technology powered by renewable energy, and a free and egalitarian society",
+		"answer": "Solarpunk"
+	  },
+	  {
+		"category": "Noun",
+		"question": "The study of saints and the documentation of their lives",
+		"answer": "Hagiography"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A professional writer; one whose occupation is to draw contracts or prepare writings",
+		"answer": "Scrivener"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A legal right or entitlement",
+		"answer": "Droit"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Necessary according to etiquette, protocol, or fashion",
+		"answer": "De Rigueur"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A state whose power derives from its naval or commercial supremacy on the seas",
+		"answer": "Thalassocracy"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A city, port, or other place where merchandise is sent for import, processing, distribution, and/or export, especially one where such merchandise is exempt from some customs duties; hence, a commercial centre",
+		"answer": "Entrepôt"
+	  },
+	  {
+		"category": "Noun",
+		"question": "Redundant use of words, a pleonasm, an unnecessary and tedious repetition",
+		"answer": "Tautology"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Of a method or algorithm that provides a useful, but not optimal, solution to a problem. Such algorithms are typically employed because the only known algorithms that provide optimal solutions use too much time or resources, or else because there is no known algorithm that provides an optimal solution",
+		"answer": "Heuristic"
+	  },
+	  {
+		"category": "Noun",
+		"question": "Redundancy in wording",
+		"answer": "Pleonasm"
+	  },
+	  {
+		"category": "Verb",
+		"question": "To annul by an authoritative act; to abolish by the authority of the maker or their successor to repeal. Applied to the repeal of laws, decrees, or ordinances, the abolition of customs, etc.",
+		"answer": "Abrogate"
+	  },
+	  {
+		"category": "Noun",
+		"question": "The viewpoint that the population will always grow faster than the food supply that it needs to survive and prosper",
+		"answer": "Malthusianism"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A code of silence amongst members of a criminal organization (especially the Mafia) that forbids divulging insider secrets to law enforcement, often also followed outside of the organization in fear of retaliation; by extension any code of silence",
+		"answer": "Omertà"
+	  },
+	  {
+		"category": "Noun",
+		"question": "The moment in the plot of a drama in which the hero makes a discovery that explains previously unexplained events or situations; a denouement",
+		"answer": "Anagnorisis"
+	  },
+	  {
+		"category": "Verb",
+		"question": "To begin to grow dark; to grow dusky",
+		"answer": "Gloam"
+	  },
+	  {
+		"category": "Noun",
+		"question": "An animal that lives near, and benefits from human habitation",
+		"answer": "Synanthrope"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Obstinate and unruly; strongly opposed to something",
+		"answer": "Refractory"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Talkative; chatty",
+		"answer": "Loquacious"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Of a position, privilege, etc. available for purchase rather than assigned on merit",
+		"answer": "Venal"
+	  },
+	  {
+		"category": "Noun",
+		"question": "Nonsense word from \"The Hunting of the Snark\" by Lewis Carroll",
+		"answer": "Boojum"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A braggart",
+		"answer": "Braggadocio"
+	  },
+	  {
+		"category": "Noun",
+		"question": "Waste or impure matter",
+		"answer": "Dross"
+	  },
+	  {
+		"category": "Noun",
+		"question": "Fewness in number; too few",
+		"answer": "Paucity"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A stochastic process for which the conditional expectation of future values given the sequence of all prior values is equal to the current value",
+		"answer": "Martingale"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Small; younger",
+		"answer": "Chota"
+	  },
+	  {
+		"category": "Noun",
+		"question": "The study of the end times: the end of the world, notably in Christian & Islamic theology, the second coming of Christ, the Apocalypse or the Last Judgment",
+		"answer": "Eschatology"
+	  },
+	  {
+		"category": "Noun",
+		"question": "The belief, held by a minority of traditionalist Catholics, that the present occupant of the Holy See is not the true pope and that the see has been vacant since the 1960s",
+		"answer": "Sedevacantism"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Of or pertaining to the church",
+		"answer": "Ecclesiastical"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A law or saying by which Jews live. They are derived from the Torah and from later rabbinic literature",
+		"answer": "Halacha"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A saying or proverb",
+		"answer": "Saw"
+	  }
+	]
+  }

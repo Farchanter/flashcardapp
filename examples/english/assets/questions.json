@@ -1639,6 +1639,26 @@
 		"category": "Noun",
 		"question": "A saying or proverb",
 		"answer": "Saw"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A mill for grinding corn, especially a handmill made of two circular stones",
+		"answer": "Quern"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A teacher or lecturer at some universities",
+		"answer": "Docent"
+	  },
+	  {
+		"category": "Verb",
+		"question": "To cloister, confine, imprison, or hole up: to lock someone up or seclude onself behind walls",
+		"answer": "Immure"
+	  },
+	  {
+		"category": "Verb",
+		"question": "To appropriate or lay claim to something for oneself without right",
+		"answer": "Arrogate"
 	  }
 	]
   }

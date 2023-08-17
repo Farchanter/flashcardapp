@@ -1,5 +1,80 @@
 [
   {
+    "category": "0 - Spelling and Pronunciation",
+    "question": "'jaki' sounds like...",
+    "answer": "yucky"
+  },
+  {
+    "category": "0 - Spelling and Pronunciation",
+    "question": "'jelo' sounds like...",
+    "answer": "yellow"
+  },
+  {
+    "category": "0 - Spelling and Pronunciation",
+    "question": "'ken' sounds like...",
+    "answer": "can"
+  },
+  {
+    "category": "0 - Spelling and Pronunciation",
+    "question": "'mani' sounds like...",
+    "answer": "money"
+  },
+  {
+    "category": "0 - Spelling and Pronunciation",
+    "question": "'mi' sounds like...",
+    "answer": "me"
+  },
+  {
+    "category": "0 - Spelling and Pronunciation",
+    "question": "'mun' sounds like...",
+    "answer": "moon"
+  },
+  {
+    "category": "0 - Spelling and Pronunciation",
+    "question": "'tu' sounds like...",
+    "answer": "two"
+  },
+  {
+    "category": "0 - Spelling and Pronunciation",
+    "question": "'wan' sounds like...",
+    "answer": "one"
+  },
+  {
+    "category": "0 - Spelling and Pronunciation",
+    "question": "'jan' sounds like...",
+    "answer": "young"
+  },
+  {
+    "category": "0 - Spelling and Pronunciation",
+    "question": "'jo' sounds like...",
+    "answer": "yo!"
+  },
+  {
+    "category": "0 - Spelling and Pronunciation",
+    "question": "'kama' sounds like...",
+    "answer": "comma"
+  },
+  {
+    "category": "0 - Spelling and Pronunciation",
+    "question": "'lukin' sounds like...",
+    "answer": "looking"
+  },
+  {
+    "category": "0 - Spelling and Pronunciation",
+    "question": "'pan' sounds like...",
+    "answer": "pun"
+  },
+  {
+    "category": "0 - Spelling and Pronunciation",
+    "question": "'sama' sounds like...",
+    "answer": "summer"
+  },
+  {
+    "category": "0 - Spelling and Pronunciation",
+    "question": "'sin' sounds like...",
+    "answer": "seen"
+  },
+  {
     "category": "7 - Interjections, Questions, Commands And Names",
     "answer": "a",
     "question": "particle: (emotional interjection, emphasis or confirmation)"

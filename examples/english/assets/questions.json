@@ -1659,6 +1659,51 @@
 		"category": "Verb",
 		"question": "To appropriate or lay claim to something for oneself without right",
 		"answer": "Arrogate"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A diacritic consisting of two dots placed over a letter, used among other things to indicate umlaut or diaeresis",
+		"answer": "Trema"
+	  },
+	  {
+		"category": "Noun",
+		"question": "The study of flags",
+		"answer": "Vexillology"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Given to acts that are kind, charitable, philanthropic, or beneficial",
+		"answer": "Beneficent"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Lacking education or knowledge; unenlightened; also, lacking morality; immoral, unscrupulous",
+		"answer": "Benighted"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A great public sacrifice to the gods, originally of a hundred oxen; also, a great number of animals reserved for such a sacrifice",
+		"answer": "Hecatomb"
+	  },
+	  {
+		"category": "Noun",
+		"question": "The branch of zoology devoted to the study of fish",
+		"answer": "Ichthyology"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Swollen or distended with fluid, as of erectile tissue",
+		"answer": "Tumescent"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A circle of people who associate with one another for a common purpose",
+		"answer": "Vexillology"
+	  },
+	  {
+		"category": "Noun",
+		"question": "Enthusiasm, rapture, spirit, or vigor, especially of imagination such as that which animates an artist, musician, or writer, in composing or performing",
+		"answer": "Verve"
 	  }
 	]
   }

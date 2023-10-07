@@ -1698,12 +1698,42 @@
 	  {
 		"category": "Noun",
 		"question": "A circle of people who associate with one another for a common purpose",
-		"answer": "Vexillology"
+		"answer": "Coterie"
 	  },
 	  {
 		"category": "Noun",
 		"question": "Enthusiasm, rapture, spirit, or vigor, especially of imagination such as that which animates an artist, musician, or writer, in composing or performing",
 		"answer": "Verve"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Of language: characterized by the use of (excessively) ornamental or grandiose terms, often of Latin or French origin",
+		"answer": "Aureate"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Sloppy, hasty. shoddy, or inelegant",
+		"answer": "Kludgy"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A mound of earth and stones raised over a grave or graves",
+		"answer": "Barrow"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A mound of earth, especially one placed over a prehistoric tomb; a barrow",
+		"answer": "Tumulus"
+	  },
+	  {
+		"category": "Verb",
+		"question": "To divide into branches or subdivisions",
+		"answer": "Ramify"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Streaked, spotted, or otherwise marked with a variety of color",
+		"answer": "Variegated"
 	  }
 	]
   }

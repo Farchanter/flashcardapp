@@ -20069,6 +20069,86 @@
 			"category": "Vocabulary",
 			"question": "Teams (genitive, definite)",
 			"answer": "Litanna"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Relationship (nominative, indefinite)",
+			"answer": "Samband"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Relationship (nominative, definite)",
+			"answer": "Sambandið"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Relationship (accusative, indefinite)",
+			"answer": "Samband"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Relationship (accusative, definite)",
+			"answer": "Sambandið"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Relationship (dative, indefinite)",
+			"answer": "Sambandi"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Relationship (dative, definite)",
+			"answer": "Sambandinu"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Relationship (genitive, indefinite)",
+			"answer": "Sambands"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Relationship (genitive, definite)",
+			"answer": "Sambandsins"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Relationships (nominative, indefinite)",
+			"answer": "Sambönd"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Relationships (nominative, definite)",
+			"answer": "Samböndin"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Relationships (accusative, indefinite)",
+			"answer": "Sambönd"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Relationships (accusative, definite)",
+			"answer": "Samböndin"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Relationships (dative, indefinite)",
+			"answer": "Samböndum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Relationships (dative, definite)",
+			"answer": "Samböndunum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Relationships (genitive, indefinite)",
+			"answer": "Sambanda"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Relationships (genitive, definite)",
+			"answer": "Sambandanna"
 		}
 	]
 }

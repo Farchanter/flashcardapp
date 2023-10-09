@@ -20149,6 +20149,86 @@
 			"category": "Vocabulary",
 			"question": "Relationships (genitive, definite)",
 			"answer": "Sambandanna"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Race (social construct) (nominative, indefinite)",
+			"answer": "Kynþáttur"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Race (social construct) (nominative, definite)",
+			"answer": "Kynþátturinn"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Race (social construct) (accusative, definite)",
+			"answer": "Kynþáttinn"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Race (social construct) (accusative, indefinite)",
+			"answer": "Kynþátt"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Race (social construct) (dative, definite)",
+			"answer": "Kynþættinum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Race (social construct) (dative, indefinite)",
+			"answer": "Kynþætti"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Race (social construct) (genitive, definite)",
+			"answer": "Kynþáttarins"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Race (social construct) (genitive, indefinite)",
+			"answer": "Kynþáttar"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Races (social construct) (nominative, definite)",
+			"answer": "Kynþættirnir"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Races (social construct) (nominative, indefinite)",
+			"answer": "Kynþættir"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Races (social construct) (accusative, definite)",
+			"answer": "Kynþættina"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Races (social construct) (accusative, indefinite)",
+			"answer": "Kynþætti"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Races (social construct) (dative, definite)",
+			"answer": "Kynþáttunum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Races (social construct) (dative, indefinite)",
+			"answer": "Kynþáttum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Races (social construct) (genitive, definite)",
+			"answer": "Kynþáttanna"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Races (social construct) (genitive, indefinite)",
+			"answer": "Kynþátta"
 		}
 	]
 }

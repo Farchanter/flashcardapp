@@ -1734,6 +1734,21 @@
 		"category": "Adjective",
 		"question": "Streaked, spotted, or otherwise marked with a variety of color",
 		"answer": "Variegated"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Pertaining to vegetables or plants",
+		"answer": "Vegetal"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A crosspiece over a door; a lintel",
+		"answer": "Transom"
+	  },
+	  {
+		"category": "Noun",
+		"question": "Lethargy or lack of energy; fatigue",
+		"answer": "Lassitude"
 	  }
 	]
   }

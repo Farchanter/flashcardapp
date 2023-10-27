@@ -1749,6 +1749,46 @@
 		"category": "Noun",
 		"question": "Lethargy or lack of energy; fatigue",
 		"answer": "Lassitude"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A state of the body or mind caused by exhaustion or disease and characterized by a languid or weary feeling; lassitude; or an instance of this",
+		"answer": "Languor"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Empty; void; lacking of meaningful content",
+		"answer": "Vacuous"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A small spark or flash",
+		"answer": "Scintilla"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Favorable; benevolent",
+		"answer": "Propitious"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Of, pertaining to, or located within or near the back of the head",
+		"answer": "Occipital"
+	  },
+	  {
+		"category": "Verb",
+		"question": "To beg or implore",
+		"answer": "Beseech"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Fatigued from tossing and turning all night",
+		"answer": "Forwallowed"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A divinity, especially a local or presiding god",
+		"answer": "Numen"
 	  }
 	]
   }

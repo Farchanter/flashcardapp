@@ -20229,6 +20229,46 @@
 			"category": "Vocabulary",
 			"question": "Races (social construct) (genitive, indefinite)",
 			"answer": "Kynþátta"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sex (act) (nominative, indefinite)",
+			"answer": "Kynlíf"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sex (act) (nominative, definite)",
+			"answer": "Kynlífið"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sex (act) (accusative, definite)",
+			"answer": "Kynlífið"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sex (act) (accusative, indefinite)",
+			"answer": "Kynlíf"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sex (act) (dative, definite)",
+			"answer": "Kynlífinu"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sex (act) (dative, indefinite)",
+			"answer": "Kynlífi"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sex (act) (genitive, definite)",
+			"answer": "Kynlífsins"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sex (act) (genitive, indefinite)",
+			"answer": "Kynlífs"
 		}
 	]
 }

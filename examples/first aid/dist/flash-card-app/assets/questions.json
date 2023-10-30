@@ -10,6 +10,11 @@
 			"category": "Rescue Assist",
 			"question": "Place one victim's arm around your neck and hold that hand. Place other arm around victim's waist to support their weight.",
 			"answer": "Walking assist"
+		},
+		{
+			"category": "Rescue Assist",
+			"question": "Drag a person by both ankles over a smooth surface if they cannot otherwise be moved and you do not suspect a nervous injury",
+			"answer": "Ankle drag"
 		}
 	]
   }

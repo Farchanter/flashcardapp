@@ -20269,6 +20269,86 @@
 			"category": "Vocabulary",
 			"question": "Sex (act) (genitive, indefinite)",
 			"answer": "Kynlífs"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sex (related to gender) (nominative, indefinite)",
+			"answer": "Kyn"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sex (related to gender) (nominative, definite)",
+			"answer": "Kynið"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sex (related to gender) (accusative, definite)",
+			"answer": "Kynið"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sex (related to gender) (accusative, indefinite)",
+			"answer": "Kyn"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sex (related to gender) (dative, definite)",
+			"answer": "Kyninu"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sex (related to gender) (dative, indefinite)",
+			"answer": "Kyni"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sex (related to gender) (genitive, definite)",
+			"answer": "Kynsins"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sex (related to gender) (genitive, indefinite)",
+			"answer": "Kyns"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sexes (related to gender) (nominative, indefinite)",
+			"answer": "Kyn"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sexes (related to gender) (nominative, definite)",
+			"answer": "Kynin"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sexes (related to gender) (accusative, definite)",
+			"answer": "Kynin"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sexes (related to gender) (accusative, indefinite)",
+			"answer": "Kyn"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sexes (related to gender) (dative, definite)",
+			"answer": "Kynjunum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sexes (related to gender) (dative, indefinite)",
+			"answer": "Kynjum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sexes (related to gender) (genitive, definite)",
+			"answer": "Kynjanna"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sexes (related to gender) (genitive, indefinite)",
+			"answer": "Kynja"
 		}
 	]
 }

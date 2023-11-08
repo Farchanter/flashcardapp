@@ -20069,6 +20069,366 @@
 			"category": "Vocabulary",
 			"question": "Teams (genitive, definite)",
 			"answer": "Litanna"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Relationship (nominative, indefinite)",
+			"answer": "Samband"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Relationship (nominative, definite)",
+			"answer": "Sambandið"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Relationship (accusative, indefinite)",
+			"answer": "Samband"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Relationship (accusative, definite)",
+			"answer": "Sambandið"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Relationship (dative, indefinite)",
+			"answer": "Sambandi"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Relationship (dative, definite)",
+			"answer": "Sambandinu"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Relationship (genitive, indefinite)",
+			"answer": "Sambands"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Relationship (genitive, definite)",
+			"answer": "Sambandsins"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Relationships (nominative, indefinite)",
+			"answer": "Sambönd"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Relationships (nominative, definite)",
+			"answer": "Samböndin"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Relationships (accusative, indefinite)",
+			"answer": "Sambönd"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Relationships (accusative, definite)",
+			"answer": "Samböndin"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Relationships (dative, indefinite)",
+			"answer": "Samböndum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Relationships (dative, definite)",
+			"answer": "Samböndunum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Relationships (genitive, indefinite)",
+			"answer": "Sambanda"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Relationships (genitive, definite)",
+			"answer": "Sambandanna"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Race (social construct) (nominative, indefinite)",
+			"answer": "Kynþáttur"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Race (social construct) (nominative, definite)",
+			"answer": "Kynþátturinn"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Race (social construct) (accusative, definite)",
+			"answer": "Kynþáttinn"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Race (social construct) (accusative, indefinite)",
+			"answer": "Kynþátt"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Race (social construct) (dative, definite)",
+			"answer": "Kynþættinum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Race (social construct) (dative, indefinite)",
+			"answer": "Kynþætti"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Race (social construct) (genitive, definite)",
+			"answer": "Kynþáttarins"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Race (social construct) (genitive, indefinite)",
+			"answer": "Kynþáttar"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Races (social construct) (nominative, definite)",
+			"answer": "Kynþættirnir"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Races (social construct) (nominative, indefinite)",
+			"answer": "Kynþættir"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Races (social construct) (accusative, definite)",
+			"answer": "Kynþættina"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Races (social construct) (accusative, indefinite)",
+			"answer": "Kynþætti"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Races (social construct) (dative, definite)",
+			"answer": "Kynþáttunum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Races (social construct) (dative, indefinite)",
+			"answer": "Kynþáttum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Races (social construct) (genitive, definite)",
+			"answer": "Kynþáttanna"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Races (social construct) (genitive, indefinite)",
+			"answer": "Kynþátta"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sex (act) (nominative, indefinite)",
+			"answer": "Kynlíf"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sex (act) (nominative, definite)",
+			"answer": "Kynlífið"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sex (act) (accusative, definite)",
+			"answer": "Kynlífið"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sex (act) (accusative, indefinite)",
+			"answer": "Kynlíf"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sex (act) (dative, definite)",
+			"answer": "Kynlífinu"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sex (act) (dative, indefinite)",
+			"answer": "Kynlífi"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sex (act) (genitive, definite)",
+			"answer": "Kynlífsins"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sex (act) (genitive, indefinite)",
+			"answer": "Kynlífs"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sex (related to gender) (nominative, indefinite)",
+			"answer": "Kyn"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sex (related to gender) (nominative, definite)",
+			"answer": "Kynið"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sex (related to gender) (accusative, definite)",
+			"answer": "Kynið"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sex (related to gender) (accusative, indefinite)",
+			"answer": "Kyn"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sex (related to gender) (dative, definite)",
+			"answer": "Kyninu"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sex (related to gender) (dative, indefinite)",
+			"answer": "Kyni"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sex (related to gender) (genitive, definite)",
+			"answer": "Kynsins"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sex (related to gender) (genitive, indefinite)",
+			"answer": "Kyns"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sexes (related to gender) (nominative, indefinite)",
+			"answer": "Kyn"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sexes (related to gender) (nominative, definite)",
+			"answer": "Kynin"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sexes (related to gender) (accusative, definite)",
+			"answer": "Kynin"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sexes (related to gender) (accusative, indefinite)",
+			"answer": "Kyn"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sexes (related to gender) (dative, definite)",
+			"answer": "Kynjunum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sexes (related to gender) (dative, indefinite)",
+			"answer": "Kynjum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sexes (related to gender) (genitive, definite)",
+			"answer": "Kynjanna"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Sexes (related to gender) (genitive, indefinite)",
+			"answer": "Kynja"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Murder (nominative, indefinite)",
+			"answer": "morð"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Murder (nominative, definite)",
+			"answer": "morðið"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Murder (accusative, indefinite)",
+			"answer": "morð"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Murder (accusative, definite)",
+			"answer": "morðið"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Murder (dative, indefinite)",
+			"answer": "morði"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Murder (dative, definite)",
+			"answer": "morðinu"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Murder (genitive, indefinite)",
+			"answer": "morðs"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Murder (genitive, definite)",
+			"answer": "morðsins"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Murders (nominative, indefinite)",
+			"answer": "morð"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Murders (nominative, definite)",
+			"answer": "morðin"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Murders (accusative, indefinite)",
+			"answer": "morð"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Murders (accusative, definite)",
+			"answer": "morðin"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Murders (dative, indefinite)",
+			"answer": "morðum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Murders (dative, definite)",
+			"answer": "morðunum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Murders (genitive, indefinite)",
+			"answer": "morða"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Murders (genitive, definite)",
+			"answer": "morðanna"
 		}
 	]
 }

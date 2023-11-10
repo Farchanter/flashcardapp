@@ -1809,6 +1809,26 @@
 		"category": "Noun",
 		"question": "Any of various small two-winged flies, all belonging to the order diptera",
 		"answer": "Midge"
+	  },
+	  {
+		"category": "Noun",
+		"question": "Worm",
+		"answer": "Gusano"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Of acute discernment; having keen insight; mentally perceptive",
+		"answer": "Perspicacious"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A state of balance; equilibrium",
+		"answer": "Equipoise"
+	  },
+	  {
+		"category": "Verb",
+		"question": "To tear off forcibly",
+		"answer": "Avulse"
 	  }
 	]
   }

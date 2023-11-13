@@ -20429,6 +20429,86 @@
 			"category": "Vocabulary",
 			"question": "Murders (genitive, definite)",
 			"answer": "morðanna"
-		}
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Prison (nominative, indefinite)",
+			"answer": "Fangelsi"
+			},
+			{
+			"category": "Vocabulary",
+			"question": "Prison (nominative, definite)",
+			"answer": "Fangelsið"
+			},
+			{
+			"category": "Vocabulary",
+			"question": "Prison (accusative, indefinite)",
+			"answer": "Fangelsi"
+			},
+			{
+			"category": "Vocabulary",
+			"question": "Prison (accusative, definite)",
+			"answer": "Fangelsið"
+			},
+			{
+			"category": "Vocabulary",
+			"question": "Prison (dative, indefinite)",
+			"answer": "Fangelsi"
+			},
+			{
+			"category": "Vocabulary",
+			"question": "Prison (dative, definite)",
+			"answer": "Fangelsinu"
+			},
+			{
+			"category": "Vocabulary",
+			"question": "Prison (genitive, indefinite)",
+			"answer": "Fangelsis"
+			},
+			{
+			"category": "Vocabulary",
+			"question": "Prison (genitive, definite)",
+			"answer": "Fangelsisins"
+			},
+			{
+			"category": "Vocabulary",
+			"question": "Prisons (nominative, indefinite)",
+			"answer": "Fangelsi"
+			},
+			{
+			"category": "Vocabulary",
+			"question": "Prisons (nominative, definite)",
+			"answer": "Fangelsin"
+			},
+			{
+			"category": "Vocabulary",
+			"question": "Prisons (accusative, indefinite)",
+			"answer": "Fangelsi"
+			},
+			{
+			"category": "Vocabulary",
+			"question": "Prisons (accusative, definite)",
+			"answer": "Fangelsin"
+			},
+			{
+			"category": "Vocabulary",
+			"question": "Prisons (dative, indefinite)",
+			"answer": "Fangelsum"
+			},
+			{
+			"category": "Vocabulary",
+			"question": "Prisons (dative, definite)",
+			"answer": "Fangelsunum"
+			},
+			{
+			"category": "Vocabulary",
+			"question": "Prisons (genitive, indefinite)",
+			"answer": "Fangelsa"
+			},
+			{
+			"category": "Vocabulary",
+			"question": "Prisons (genitive, definite)",
+			"answer": "Fangelsanna"
+			}			
 	]
 }

@@ -1829,6 +1829,26 @@
 		"category": "Verb",
 		"question": "To tear off forcibly",
 		"answer": "Avulse"
+	  },
+	  {
+		"category": "Verb",
+		"question": "To deprive a person of their private property for public use",
+		"answer": "Expropriate"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Allowing the passage of light; translucent or transparent",
+		"answer": "Pellucid"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Seemingly well-reasoned, plausible, or true, but actually fallacious",
+		"answer": "Specious"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A pattern along the top of a parapet, most often in the form of multiple, regular, rectangular spaces in the top of the wall, through which arrows or other weaponry may be shot, especially as used in medieval European architecture",
+		"answer": "Crenellation"
 	  }
 	]
   }

@@ -20509,6 +20509,46 @@
 			"category": "Vocabulary",
 			"question": "Prisons (genitive, definite)",
 			"answer": "Fangelsanna"
-			}			
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Technology (nominative, indefinite)",
+				"answer": "Tækni"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Technology (nominative, definite)",
+				"answer": "Tæknin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Technology (accusative, indefinite)",
+				"answer": "Tækni"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Technology (accusative, definite)",
+				"answer": "Tæknina"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Technology (dative, indefinite)",
+				"answer": "Tækni"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Technology (dative, definite)",
+				"answer": "Tækninni"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Technology (genitive, indefinite)",
+				"answer": "Tækni"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Technology (genitive, definite)",
+				"answer": "Tækninnar"
+			}	
 	]
 }

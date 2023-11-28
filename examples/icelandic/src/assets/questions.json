@@ -20549,6 +20549,46 @@
 				"category": "Vocabulary",
 				"question": "Technology (genitive, definite)",
 				"answer": "Tækninnar"
-			}	
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Energy (nominative, indefinite)",
+				"answer": "Orka"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Energy (nominative, definite)",
+				"answer": "Orkan"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Energy (accusative, indefinite)",
+				"answer": "Orku"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Energy (accusative, definite)",
+				"answer": "Orkuna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Energy (dative, indefinite)",
+				"answer": "Orku"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Energy (dative, definite)",
+				"answer": "Orkunni"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Energy (genitive, indefinite)",
+				"answer": "Orku"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Energy (genitive, definite)",
+				"answer": "Orkunnar"
+			}
 	]
 }

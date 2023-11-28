@@ -91,10 +91,15 @@
 		"question": "Horseradish",
 		"answer": "Kren"
 	  },
-		  {
+	  {
 		"category": "Verbs",
 		"question": "Have Driven",
 		"answer": "Sein Gelenkt"
+	  },
+	  {
+		"category": "Sayings",
+		"question": "\"God's Greeting\"",
+		"answer": "Grüß Gott"
 	  }
 	]
   }

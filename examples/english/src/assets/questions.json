@@ -1849,6 +1849,26 @@
 		"category": "Noun",
 		"question": "A pattern along the top of a parapet, most often in the form of multiple, regular, rectangular spaces in the top of the wall, through which arrows or other weaponry may be shot, especially as used in medieval European architecture",
 		"answer": "Crenellation"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A tempo mark indicating that a passage is to be played in a quick, lively tempo, faster than allegretto but slower than a presto",
+		"answer": "Allegro"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A tempo mark indicating that a passage is to be played rather slowly, leisurely, and gracefully",
+		"answer": "Adagio"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Rude, surly, ungracious",
+		"answer": "Churlish"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A stable suspension of small droplets of one liquid in another with which it is immisicble",
+		"answer": "Emulsion"
 	  }
 	]
   }

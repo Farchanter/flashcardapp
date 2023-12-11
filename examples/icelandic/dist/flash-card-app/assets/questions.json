@@ -20429,6 +20429,246 @@
 			"category": "Vocabulary",
 			"question": "Murders (genitive, definite)",
 			"answer": "morðanna"
-		}
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Prison (nominative, indefinite)",
+			"answer": "Fangelsi"
+			},
+			{
+			"category": "Vocabulary",
+			"question": "Prison (nominative, definite)",
+			"answer": "Fangelsið"
+			},
+			{
+			"category": "Vocabulary",
+			"question": "Prison (accusative, indefinite)",
+			"answer": "Fangelsi"
+			},
+			{
+			"category": "Vocabulary",
+			"question": "Prison (accusative, definite)",
+			"answer": "Fangelsið"
+			},
+			{
+			"category": "Vocabulary",
+			"question": "Prison (dative, indefinite)",
+			"answer": "Fangelsi"
+			},
+			{
+			"category": "Vocabulary",
+			"question": "Prison (dative, definite)",
+			"answer": "Fangelsinu"
+			},
+			{
+			"category": "Vocabulary",
+			"question": "Prison (genitive, indefinite)",
+			"answer": "Fangelsis"
+			},
+			{
+			"category": "Vocabulary",
+			"question": "Prison (genitive, definite)",
+			"answer": "Fangelsisins"
+			},
+			{
+			"category": "Vocabulary",
+			"question": "Prisons (nominative, indefinite)",
+			"answer": "Fangelsi"
+			},
+			{
+			"category": "Vocabulary",
+			"question": "Prisons (nominative, definite)",
+			"answer": "Fangelsin"
+			},
+			{
+			"category": "Vocabulary",
+			"question": "Prisons (accusative, indefinite)",
+			"answer": "Fangelsi"
+			},
+			{
+			"category": "Vocabulary",
+			"question": "Prisons (accusative, definite)",
+			"answer": "Fangelsin"
+			},
+			{
+			"category": "Vocabulary",
+			"question": "Prisons (dative, indefinite)",
+			"answer": "Fangelsum"
+			},
+			{
+			"category": "Vocabulary",
+			"question": "Prisons (dative, definite)",
+			"answer": "Fangelsunum"
+			},
+			{
+			"category": "Vocabulary",
+			"question": "Prisons (genitive, indefinite)",
+			"answer": "Fangelsa"
+			},
+			{
+			"category": "Vocabulary",
+			"question": "Prisons (genitive, definite)",
+			"answer": "Fangelsanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Technology (nominative, indefinite)",
+				"answer": "Tækni"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Technology (nominative, definite)",
+				"answer": "Tæknin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Technology (accusative, indefinite)",
+				"answer": "Tækni"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Technology (accusative, definite)",
+				"answer": "Tæknina"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Technology (dative, indefinite)",
+				"answer": "Tækni"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Technology (dative, definite)",
+				"answer": "Tækninni"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Technology (genitive, indefinite)",
+				"answer": "Tækni"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Technology (genitive, definite)",
+				"answer": "Tækninnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Energy (nominative, indefinite)",
+				"answer": "Orka"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Energy (nominative, definite)",
+				"answer": "Orkan"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Energy (accusative, indefinite)",
+				"answer": "Orku"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Energy (accusative, definite)",
+				"answer": "Orkuna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Energy (dative, indefinite)",
+				"answer": "Orku"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Energy (dative, definite)",
+				"answer": "Orkunni"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Energy (genitive, indefinite)",
+				"answer": "Orku"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Energy (genitive, definite)",
+				"answer": "Orkunnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "War (nominative, indefinite)",
+				"answer": "Stríð"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "War (nominative, definite)",
+				"answer": "Stríðið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "War (accusative, indefinite)",
+				"answer": "Stríð"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "War (accusative, definite)",
+				"answer": "Stríðið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "War (dative, indefinite)",
+				"answer": "Stríði"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "War (dative, definite)",
+				"answer": "Stríðinu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "War (genitive, indefinite)",
+				"answer": "Stríðs"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "War (genitive, definite)",
+				"answer": "Stríðins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Wars (nominative, indefinite)",
+				"answer": "Stríð"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Wars (nominative, definite)",
+				"answer": "Stríðin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Wars (accusative, indefinite)",
+				"answer": "Stríð"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Wars (accusative, definite)",
+				"answer": "Stríðin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Wars (dative, indefinite)",
+				"answer": "Stríðum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Wars (dative, definite)",
+				"answer": "Stríðunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Wars (genitive, indefinite)",
+				"answer": "Stríða"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Wars (genitive, definite)",
+				"answer": "Stríðanna"
+			}
 	]
 }

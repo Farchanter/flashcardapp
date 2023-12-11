@@ -20589,6 +20589,86 @@
 				"category": "Vocabulary",
 				"question": "Energy (genitive, definite)",
 				"answer": "Orkunnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "War (nominative, indefinite)",
+				"answer": "Stríð"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "War (nominative, definite)",
+				"answer": "Stríðið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "War (accusative, indefinite)",
+				"answer": "Stríð"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "War (accusative, definite)",
+				"answer": "Stríðið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "War (dative, indefinite)",
+				"answer": "Stríði"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "War (dative, definite)",
+				"answer": "Stríðinu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "War (genitive, indefinite)",
+				"answer": "Stríðs"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "War (genitive, definite)",
+				"answer": "Stríðins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Wars (nominative, indefinite)",
+				"answer": "Stríð"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Wars (nominative, definite)",
+				"answer": "Stríðin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Wars (accusative, indefinite)",
+				"answer": "Stríð"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Wars (accusative, definite)",
+				"answer": "Stríðin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Wars (dative, indefinite)",
+				"answer": "Stríðum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Wars (dative, definite)",
+				"answer": "Stríðunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Wars (genitive, indefinite)",
+				"answer": "Stríða"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Wars (genitive, definite)",
+				"answer": "Stríðanna"
 			}
 	]
 }

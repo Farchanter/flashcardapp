@@ -1889,6 +1889,16 @@
 		"category": "Noun",
 		"question": "A group of attendants or servants, especially of someone considered important",
 		"answer": "Retinue"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Inactive, quiet, at rest",
+		"answer": "Quiescent"
+	  },
+	  {
+		"category": "Noun",
+		"question": "The text of a dramatic musical work, such as an opera",
+		"answer": "Libretto"
 	  }
 	]
   }

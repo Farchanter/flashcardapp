@@ -1829,6 +1829,76 @@
 		"category": "Verb",
 		"question": "To tear off forcibly",
 		"answer": "Avulse"
+	  },
+	  {
+		"category": "Verb",
+		"question": "To deprive a person of their private property for public use",
+		"answer": "Expropriate"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Allowing the passage of light; translucent or transparent",
+		"answer": "Pellucid"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Seemingly well-reasoned, plausible, or true, but actually fallacious",
+		"answer": "Specious"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A pattern along the top of a parapet, most often in the form of multiple, regular, rectangular spaces in the top of the wall, through which arrows or other weaponry may be shot, especially as used in medieval European architecture",
+		"answer": "Crenellation"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A tempo mark indicating that a passage is to be played in a quick, lively tempo, faster than allegretto but slower than a presto",
+		"answer": "Allegro"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A tempo mark indicating that a passage is to be played rather slowly, leisurely, and gracefully",
+		"answer": "Adagio"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Rude, surly, ungracious",
+		"answer": "Churlish"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A stable suspension of small droplets of one liquid in another with which it is immisicble",
+		"answer": "Emulsion"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A light boat, traditionally propelled by sails, but sometimes a rowboat. They usually serve as messenger boats, carrying messages among the larger ships of a fleet",
+		"answer": "Pinnace"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A small, metal object with spikes arranged so that, when thrown onto the ground, one always faces up as a threat to pedestrians, horses, and vehicles. Also used as a heraldic charge",
+		"answer": "Caltrop"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A dockworker involved in loading and unloading cargo, or in supervising such work",
+		"answer": "Stevedore"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A group of attendants or servants, especially of someone considered important",
+		"answer": "Retinue"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Inactive, quiet, at rest",
+		"answer": "Quiescent"
+	  },
+	  {
+		"category": "Noun",
+		"question": "The text of a dramatic musical work, such as an opera",
+		"answer": "Libretto"
 	  }
 	]
   }

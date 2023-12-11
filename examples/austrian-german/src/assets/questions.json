@@ -100,6 +100,11 @@
 		"category": "Sayings",
 		"question": "\"God's Greeting\"",
 		"answer": "Grüß Gott"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "(Bread) Roll",
+		"answer": "Semmel"
 	  }
 	]
   }

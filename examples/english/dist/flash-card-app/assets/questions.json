@@ -1899,6 +1899,16 @@
 		"category": "Noun",
 		"question": "The text of a dramatic musical work, such as an opera",
 		"answer": "Libretto"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Eager to obtain something desirable, or to avoid anything evil",
+		"answer": "Solicitous"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Made in imitation; artificial, especially of a poor quality",
+		"answer": "Ersatz"
 	  }
 	]
   }

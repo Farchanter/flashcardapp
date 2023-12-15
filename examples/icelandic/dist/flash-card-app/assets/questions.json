@@ -20669,6 +20669,126 @@
 				"category": "Vocabulary",
 				"question": "Wars (genitive, definite)",
 				"answer": "Stríðanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Attack (nominative, indefinite)",
+				"answer": "Árás"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Attack (nominative, definite)",
+				"answer": "Árásin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Attack (accusative, indefinite)",
+				"answer": "Árás"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Attack (accusative, definite)",
+				"answer": "Árásina"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Attack (dative, indefinite)",
+				"answer": "Árás"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Attack (dative, definite)",
+				"answer": "Árásinni"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Attack (genitive, indefinite)",
+				"answer": "Árásar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Attack (genitive, definite)",
+				"answer": "Árásarinnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Attacks (nominative, indefinite)",
+				"answer": "Árásir"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Attacks (nominative, definite)",
+				"answer": "Árásirnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Attacks (accusative, indefinite)",
+				"answer": "Árásir"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Attacks (accusative, definite)",
+				"answer": "Árásirnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Attacks (dative, indefinite)",
+				"answer": "Árásum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Attacks (dative, definite)",
+				"answer": "Árásunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Attacks (genitive, indefinite)",
+				"answer": "Árása"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Attacks (genitive, definite)",
+				"answer": "Árásanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Peace (nominative, indefinite)",
+				"answer": "Friður"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Peace (nominative, definite)",
+				"answer": "Friðurinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Peace (accusative, definite)",
+				"answer": "Friðinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Peace (accusative, indefinite)",
+				"answer": "Frið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Peace (dative, definite)",
+				"answer": "Friðinum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Peace (dative, indefinite)",
+				"answer": "Friði"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Peace (genitive, definite)",
+				"answer": "Friðarins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Peace (genitive, indefinite)",
+				"answer": "Friðar"
 			}
 	]
 }

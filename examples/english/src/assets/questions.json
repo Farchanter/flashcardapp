@@ -1909,6 +1909,11 @@
 		"category": "Adjective",
 		"question": "Made in imitation; artificial, especially of a poor quality",
 		"answer": "Ersatz"
+	  },
+	  {
+		"category": "Noun",
+		"question": "Eucalyptus gomphocephala, an Australian tree with heavy, durable wood",
+		"answer": "Tuart"
 	  }
 	]
   }

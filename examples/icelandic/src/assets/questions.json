@@ -20789,6 +20789,86 @@
 				"category": "Vocabulary",
 				"question": "Peace (genitive, indefinite)",
 				"answer": "Friðar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Election (nominative, indefinite)",
+				"answer": "Kosning"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Election (nominative, definite)",
+				"answer": "Kosningin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Election (accusative, indefinite)",
+				"answer": "Kosningu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Election (accusative, definite)",
+				"answer": "Kosninguna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Election (dative, indefinite)",
+				"answer": "Kosningu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Election (dative, definite)",
+				"answer": "Kosningunni"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Election (genitive, indefinite)",
+				"answer": "Kosningar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Election (genitive, definite)",
+				"answer": "Kosningarinnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Elections (nominative, indefinite)",
+				"answer": "Kosningar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Elections (nominative, definite)",
+				"answer": "Kosningarnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Elections (accusative, indefinite)",
+				"answer": "Kosningar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Elections (accusative, definite)",
+				"answer": "Kosningarnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Elections (dative, indefinite)",
+				"answer": "Kosningum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Elections (dative, definite)",
+				"answer": "Kosningunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Elections (genitive, indefinite)",
+				"answer": "Kosninga"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Elections (genitive, definite)",
+				"answer": "Kosninganna"
 			}
 	]
 }

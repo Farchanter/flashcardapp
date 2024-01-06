@@ -346,15 +346,25 @@
 		"question": "The Roads",
 		"answer": "Die Faahrwege"
 	  },
-		  {
+	 {
 		"category": "Vocabulary",
 		"question": "The Airport",
 		"answer": "Der Aerport"
 	  },
-		  {
+	 {
 		"category": "Vocabulary",
 		"question": "The Airports",
 		"answer": "Die Aerports"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "The Train Station",
+		"answer": "Die Dreen-Staeschen"
+	  },
+	 {
+		"category": "Vocabulary",
+		"question": "The Train Stations",
+		"answer": "Die Dreen-Staeschens"
 	  }
 	]
   }

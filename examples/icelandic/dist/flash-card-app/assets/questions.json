@@ -20628,7 +20628,7 @@
 			{
 				"category": "Vocabulary",
 				"question": "War (genitive, definite)",
-				"answer": "Stríðins"
+				"answer": "Stríðsins"
 			},
 			{
 				"category": "Vocabulary",
@@ -20869,6 +20869,166 @@
 				"category": "Vocabulary",
 				"question": "Elections (genitive, definite)",
 				"answer": "Kosninganna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Magazine (nominative, indefinite)",
+				"answer": "Tímarit"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Magazine (nominative, definite)",
+				"answer": "Tímaritið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Magazine (accusative, indefinite)",
+				"answer": "Tímarit"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Magazine (accusative, definite)",
+				"answer": "Tímaritið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Magazine (dative, indefinite)",
+				"answer": "Tímariti"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Magazine (dative, definite)",
+				"answer": "Tímaritinu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Magazine (genitive, indefinite)",
+				"answer": "Tímarits"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Magazine (genitive, definite)",
+				"answer": "Tímaritsins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Magazines (nominative, indefinite)",
+				"answer": "Tímarit"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Magazines (nominative, definite)",
+				"answer": "Tímaritin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Magazines (accusative, indefinite)",
+				"answer": "Tímarit"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Magazines (accusative, definite)",
+				"answer": "Tímaritin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Magazines (dative, indefinite)",
+				"answer": "Tímaritum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Magazines (dative, definite)",
+				"answer": "Tímaritunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Magazines (genitive, indefinite)",
+				"answer": "Tímarita"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Magazines (genitive, definite)",
+				"answer": "Tímaritanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Newspaper (nominative, indefinite)",
+				"answer": "Dagblað"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Newspaper (nominative, definite)",
+				"answer": "Dagblaðið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Newspaper (accusative, indefinite)",
+				"answer": "Dagblað"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Newspaper (accusative, definite)",
+				"answer": "Dagblaðið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Newspaper (dative, indefinite)",
+				"answer": "Dagblaði"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Newspaper (dative, definite)",
+				"answer": "Dagblaðinu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Newspaper (genitive, indefinite)",
+				"answer": "Dagblaðs"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Newspaper (genitive, definite)",
+				"answer": "Dagblaðsins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Newspapers (nominative, indefinite)",
+				"answer": "Dagblað"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Newspapers (nominative, definite)",
+				"answer": "Dagblaðin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Newspapers (accusative, indefinite)",
+				"answer": "Dagblöð"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Newspapers (accusative, definite)",
+				"answer": "Dagblöðin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Newspapers (dative, indefinite)",
+				"answer": "Dagblöðum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Newspapers (dative, definite)",
+				"answer": "Dagblöðunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Newspapers (genitive, indefinite)",
+				"answer": "Dagblaða"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Newspapers (genitive, definite)",
+				"answer": "Dagblaðanna"
 			}
 	]
 }

@@ -1909,6 +1909,21 @@
 		"category": "Adjective",
 		"question": "Made in imitation; artificial, especially of a poor quality",
 		"answer": "Ersatz"
+	  },
+	  {
+		"category": "Noun",
+		"question": "Eucalyptus gomphocephala, an Australian tree with heavy, durable wood",
+		"answer": "Tuart"
+	  },
+	  {
+		"category": "Noun",
+		"question": "In the International System of Units, the derived unit of solid angle; the solid angle substended at the center of a sphere of radius r by a portion of the surface of the sphere that has area r^2",
+		"answer": "Steradian"
+	  },
+	  {
+		"category": "Verb",
+		"question": "To remove or decrease something by cutting, erosion, melting, evaporation, or vaporization",
+		"answer": "Ablate"
 	  }
 	]
   }

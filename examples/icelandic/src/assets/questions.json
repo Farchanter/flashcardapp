@@ -21029,6 +21029,406 @@
 				"category": "Vocabulary",
 				"question": "Newspapers (genitive, definite)",
 				"answer": "Dagblaðanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Poison (nominative, indefinite)",
+				"answer": "Eitur"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Poison (nominative, definite)",
+				"answer": "Eitrið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Poison (accusative, indefinite)",
+				"answer": "Eitur"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Poison (accusative, definite)",
+				"answer": "Eitrið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Poison (dative, indefinite)",
+				"answer": "Eitri"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Poison (dative, definite)",
+				"answer": "Eitrinu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Poison (genitive, indefinite)",
+				"answer": "Eiturs"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Poison (genitive, definite)",
+				"answer": "Eitursins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Poisons (nominative, indefinite)",
+				"answer": "Eitur"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Poisons (nominative, definite)",
+				"answer": "Eitrin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Poisons (accusative, indefinite)",
+				"answer": "Eitur"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Poisons (accusative, definite)",
+				"answer": "Eitrin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Poisons (dative, indefinite)",
+				"answer": "Eitrum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Poisons (dative, definite)",
+				"answer": "Eitrunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Poisons (genitive, indefinite)",
+				"answer": "Eitra"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Poisons (genitive, definite)",
+				"answer": "Eitranna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Gun (nominative, indefinite)",
+				"answer": "Byssa"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Gun (nominative, definite)",
+				"answer": "Byssan"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Gun (accusative, indefinite)",
+				"answer": "Byssu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Gun (accusative, definite)",
+				"answer": "Byssuna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Gun (dative, indefinite)",
+				"answer": "Byssu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Gun (dative, definite)",
+				"answer": "Byssunni"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Gun (genitive, indefinite)",
+				"answer": "Byssu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Gun (genitive, definite)",
+				"answer": "Byssunnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Guns (nominative, indefinite)",
+				"answer": "Byssur"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Guns (nominative, definite)",
+				"answer": "Byssurnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Guns (accusative, indefinite)",
+				"answer": "Byssur"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Guns (accusative, definite)",
+				"answer": "Byssurnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Guns (dative, indefinite)",
+				"answer": "Byssum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Guns (dative, definite)",
+				"answer": "Byssunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Guns (genitive, indefinite)",
+				"answer": "Byssa"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Guns (genitive, definite)",
+				"answer": "Byssanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Sport (nominative, indefinite)",
+				"answer": "Íþrótt"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Sport (nominative, definite)",
+				"answer": "Íþróttin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Sport (accusative, indefinite)",
+				"answer": "Íþrótt"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Sport (accusative, definite)",
+				"answer": "Íþróttina"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Sport (dative, indefinite)",
+				"answer": "Íþrótt"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Sport (dative, definite)",
+				"answer": "Íþróttinni"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Sport (genitive, indefinite)",
+				"answer": "Íþróttar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Sport (genitive, definite)",
+				"answer": "Íþróttarinnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Sports (nominative, indefinite)",
+				"answer": "Íþróttir"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Sports (nominative, definite)",
+				"answer": "Íþróttirnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Sports (accusative, indefinite)",
+				"answer": "Íþróttir"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Sports (accusative, definite)",
+				"answer": "Íþróttirnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Sports (dative, indefinite)",
+				"answer": "Íþróttum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Sports (dative, definite)",
+				"answer": "Íþróttunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Sports (genitive, indefinite)",
+				"answer": "Íþrótta"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Sports (genitive, definite)",
+				"answer": "Íþróttanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Race (competition) (nominative, indefinite)",
+				"answer": "Hlaup"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Race (competition) (nominative, definite)",
+				"answer": "Hlaupið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Race (competition) (accusative, indefinite)",
+				"answer": "Hlaup"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Race (competition) (accusative, definite)",
+				"answer": "Hlaupið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Race (competition) (dative, indefinite)",
+				"answer": "Hlaupi"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Race (competition) (dative, definite)",
+				"answer": "Hlaupinu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Race (competition) (genitive, indefinite)",
+				"answer": "Hlaups"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Race (competition) (genitive, definite)",
+				"answer": "Hlaupsins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Races (competition) (nominative, indefinite)",
+				"answer": "Hlaup"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Races (competition) (nominative, definite)",
+				"answer": "Hlaupin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Races (competition) (accusative, indefinite)",
+				"answer": "Hlaup"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Races (competition) (accusative, definite)",
+				"answer": "Hlaupin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Races (competition) (dative, indefinite)",
+				"answer": "Hlaupum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Races (competition) (dative, definite)",
+				"answer": "Hlaupunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Races (competition) (genitive, indefinite)",
+				"answer": "Hlaupa"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Races (competition) (genitive, definite)",
+				"answer": "Hlaupanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Exercise (nominative, indefinite)",
+				"answer": "Hreyfing"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Exercise (nominative, definite)",
+				"answer": "Hreyfingin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Exercise (accusative, indefinite)",
+				"answer": "Hreyfingu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Exercise (accusative, definite)",
+				"answer": "Hreyfinguna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Exercise (dative, indefinite)",
+				"answer": "Hreyfingu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Exercise (dative, definite)",
+				"answer": "Hreyfingunni"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Exercise (genitive, indefinite)",
+				"answer": "Hreyfingar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Exercise (genitive, definite)",
+				"answer": "Hreyfingarinnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Exercises (nominative, indefinite)",
+				"answer": "Hreyfingar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Exercises (nominative, definite)",
+				"answer": "Hreyfingarnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Exercises (accusative, indefinite)",
+				"answer": "Hreyfingar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Exercises (accusative, definite)",
+				"answer": "Hreyfingarnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Exercises (dative, indefinite)",
+				"answer": "Hreyfingum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Exercises (dative, definite)",
+				"answer": "Hreyfingunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Exercises (genitive, indefinite)",
+				"answer": "Hreyfinga"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Exercises (genitive, definite)",
+				"answer": "Hreyfinganna"
 			}
 	]
 }

@@ -1924,6 +1924,16 @@
 		"category": "Verb",
 		"question": "To remove or decrease something by cutting, erosion, melting, evaporation, or vaporization",
 		"answer": "Ablate"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Beyond or not conforming to what is natural or according to the regular course of things; strange",
+		"answer": "Preternatural"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A traitor who collaborates with the enemy",
+		"answer": "Quisling"
 	  }
 	]
   }

@@ -21429,6 +21429,86 @@
 				"category": "Vocabulary",
 				"question": "Exercises (genitive, definite)",
 				"answer": "Hreyfinganna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Ball (nominative, indefinite)",
+				"answer": "Bolti"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Ball (nominative, definite)",
+				"answer": "Boltinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Ball (accusative, indefinite)",
+				"answer": "Bolta"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Ball (accusative, definite)",
+				"answer": "Boltann"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Ball (dative, indefinite)",
+				"answer": "Bolta"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Ball (dative, definite)",
+				"answer": "Boltanum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Ball (genitive, indefinite)",
+				"answer": "Bolta"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Ball (genitive, definite)",
+				"answer": "Boltans"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Balls (nominative, indefinite)",
+				"answer": "Boltar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Balls (nominative, definite)",
+				"answer": "Boltarnir"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Balls (accusative, indefinite)",
+				"answer": "Bolta"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Balls (accusative, definite)",
+				"answer": "Boltana"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Balls (dative, indefinite)",
+				"answer": "Boltum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Balls (dative, definite)",
+				"answer": "Boltunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Balls (genitive, indefinite)",
+				"answer": "Bolta"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Balls (genitive, definite)",
+				"answer": "Boltanna"
 			}
 	]
 }

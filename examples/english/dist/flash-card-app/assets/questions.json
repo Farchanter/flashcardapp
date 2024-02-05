@@ -1934,6 +1934,16 @@
 		"category": "Noun",
 		"question": "A traitor who collaborates with the enemy",
 		"answer": "Quisling"
+	  },
+	  {
+		"category": "Verb",
+		"question": "To conciliate, appease, or make peace with someone, particularly a god or spirit",
+		"answer": "Propitiate"
+	  },
+	  {
+		"category": "Verb",
+		"question": "To correct and revise",
+		"answer": "Emend"
 	  }
 	]
   }

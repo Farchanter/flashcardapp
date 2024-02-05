@@ -105,6 +105,11 @@
 		"category": "Vocabulary",
 		"question": "(Bread) Roll",
 		"answer": "Semmel"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "Pedestrian",
+		"answer": "Fußgeher"
 	  }
 	]
   }

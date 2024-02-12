@@ -15,6 +15,11 @@
 			"category": "Rescue Assist",
 			"question": "Drag a person by both ankles over a smooth surface if they cannot otherwise be moved and you do not suspect a nervous injury",
 			"answer": "Ankle drag"
+		},
+		{
+			"category": "Rescue Assist",
+			"question": "For rough surfaces or if a person has a nervous injury. Grab clothing behind the shoulder and pull",
+			"answer": "Shoulder drag"
 		}
 	]
   }

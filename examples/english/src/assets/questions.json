@@ -1959,6 +1959,11 @@
 		"category": "Adjective",
 		"question": "Familiar, known; well-known, renowned",
 		"answer": "Couth"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Naturally aggressive or hostile; combative, belligerent, bellicose",
+		"answer": "Pugnacious"
 	  }
 	]
   }

@@ -1,0 +1,179 @@
+.flash
+{
+	color: #FFFFFF;
+	background-color: #C8102E;
+	font-size: 24px;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    height: 100vh;
+	font-family: sans-serif;
+}
+
+h1
+{
+	font-size: 2em;
+	margin-bottom: 50px;
+}
+
+#answerAndSubmit
+{
+	display: flex;
+	padding-top: 15px;
+}
+
+#ui
+{
+	width: 75%;
+	margin: 0 auto;
+}
+
+#ui button
+{
+	height: 51px;
+}
+
+#textBoxDiv
+{
+	width: 100%;
+	float: left;
+	display: block;
+}
+
+#textBoxDiv input
+{
+	width: 100%;
+}
+
+#submitDiv
+{
+	width: 100%;
+	float: left;
+}
+
+#submitDiv button
+{
+	width: 100%;
+}
+
+#grade
+{
+	font-size: 18px;
+	margin-top: 3px;
+	text-align: right;
+	width: 100%;
+}
+
+#gradeContainer
+{
+	width: 100%;
+	color: #00B140;
+	margin-left: auto; 
+	margin-right: 0;
+}
+
+#letterGrade
+{
+	margin-bottom: 0px;
+	font-size: 36px;
+}
+
+#game
+{
+	margin-left: .67em;
+	margin-right: .67em;
+	margin-top: 1em;
+}
+
+#blankString
+{
+	padding-top: 15px;
+	letter-spacing: .2rem;
+	line-height: 40px;
+}
+
+#fullAnswer
+{
+	padding-top: 15px;
+	line-height: 40px;
+}
+
+#answerHint
+{
+	letter-spacing: 0;
+	line-height: 30px;
+}
+
+#buttonSection
+{
+	margin-left: auto; 
+	margin-right: 0;
+}
+
+#buttonSection button
+{
+	height: 51px;
+	width: 100%;
+}
+
+button
+{
+	margin-left: 3px;
+}
+
+hr.solidDivider
+{
+	border-top: 3px solid #fff;
+	margin-top: 3px;
+}
+
+.correctBackground
+{
+	color: #FFFFFF;
+	background-color: #C8102E;
+}
+
+div
+{
+	padding-bottom: 10px;
+}
+
+#wrongAnswerExplainer
+{
+	font-size: 10px;
+	padding-top: 15px;
+}
+
+#cookieDisclaimer
+{
+	font-size: 10px;
+	padding-top: 40px;
+}
+
+#cookieDisclaimer button
+{
+	font-size: 10px;
+}
+
+p
+{
+	line-height: 1;
+}
+
+mat-card
+{
+	width: 75%;
+	margin: 0 auto;
+}
+
+#flashcard
+{
+	box-shadow: 12px 12px rgb(128, 128, 128, .2);
+}
+
+#cardBody
+{
+	margin-left: 10px;
+	margin-right: 10px;
+}

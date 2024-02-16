@@ -60,6 +60,46 @@
 			"category": "Vocabulary",
 			"question": "The Authors (female)",
 			"answer": "An Awtouresow"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Teacher (male)",
+			"answer": "Dyskador"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Teachers (male)",
+			"answer": "Dyskadoryon"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "The Teacher (male)",
+			"answer": "An Dyskador"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "The Teachers (male)",
+			"answer": "An Dyskadoryon"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Teacher (female)",
+			"answer": "Dyskadores"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Teachers (female)",
+			"answer": "Dyskadoresow"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "The Teacher (female)",
+			"answer": "An Dyskadores"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "The Teachers (female)",
+			"answer": "An Dyskadoresow"
 		}
 	]
   }

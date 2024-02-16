@@ -1944,6 +1944,26 @@
 		"category": "Verb",
 		"question": "To correct and revise",
 		"answer": "Emend"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Situated between the Earth and the Moon",
+		"answer": "Sublunary"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Exhibiting retention of juvenile characteristics in the adult",
+		"answer": "Neotenous"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Familiar, known; well-known, renowned",
+		"answer": "Couth"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Naturally aggressive or hostile; combative, belligerent, bellicose",
+		"answer": "Pugnacious"
 	  }
 	]
   }

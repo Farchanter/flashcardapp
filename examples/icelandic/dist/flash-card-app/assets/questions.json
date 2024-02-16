@@ -21509,6 +21509,166 @@
 				"category": "Vocabulary",
 				"question": "Balls (genitive, definite)",
 				"answer": "Boltanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Game (nominative, indefinite)",
+				"answer": "Leikur"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Game (nominative, definite)",
+				"answer": "Leikurinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Game (accusative, definite)",
+				"answer": "Leikinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Game (accusative, indefinite)",
+				"answer": "Leik"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Game (dative, definite)",
+				"answer": "Leikinum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Game (dative, indefinite)",
+				"answer": "Leiki"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Game (genitive, definite)",
+				"answer": "Leiksins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Game (genitive, indefinite)",
+				"answer": "Leiks"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Games (nominative, definite)",
+				"answer": "Leikirnir"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Games (nominative, indefinite)",
+				"answer": "Leikir"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Games (accusative, definite)",
+				"answer": "Leikina"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Games (accusative, indefinite)",
+				"answer": "Leiki"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Games (dative, definite)",
+				"answer": "Leikjunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Games (dative, indefinite)",
+				"answer": "Leikjum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Games (genitive, definite)",
+				"answer": "Leikjanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Games (genitive, indefinite)",
+				"answer": "Leikja"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Price (nominative, indefinite)",
+				"answer": "Verð"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Price (nominative, definite)",
+				"answer": "Verðið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Price (accusative, indefinite)",
+				"answer": "Verð"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Price (accusative, definite)",
+				"answer": "Verðið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Price (dative, indefinite)",
+				"answer": "Verði"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Price (dative, definite)",
+				"answer": "Verðinu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Price (genitive, indefinite)",
+				"answer": "Verðs"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Price (genitive, definite)",
+				"answer": "Verðsins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Prices (nominative, indefinite)",
+				"answer": "Verð"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Prices (nominative, definite)",
+				"answer": "Verðin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Prices (accusative, indefinite)",
+				"answer": "Verð"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Prices (accusative, definite)",
+				"answer": "Verðin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Prices (dative, indefinite)",
+				"answer": "Verðum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Prices (dative, definite)",
+				"answer": "Verðunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Prices (genitive, indefinite)",
+				"answer": "Verða"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Prices (genitive, definite)",
+				"answer": "Verðanna"
 			}
 	]
 }

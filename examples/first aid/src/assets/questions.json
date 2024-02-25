@@ -20,6 +20,11 @@
 			"category": "Rescue Assist",
 			"question": "For rough surfaces or if a person has a nervous injury. Grab clothing behind the shoulder and pull",
 			"answer": "Shoulder drag"
+		},
+		{
+			"category": "Rescue Assist",
+			"question": "Roll person onto a blanket or tarp and pull them using the covering",
+			"answer": "Blanket drag"
 		}
 	]
   }

@@ -1964,6 +1964,21 @@
 		"category": "Adjective",
 		"question": "Naturally aggressive or hostile; combative, belligerent, bellicose",
 		"answer": "Pugnacious"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Of or relating to cognition or knowledge, its scope, or how it is acquired",
+		"answer": "Epistemic"
+	  },
+	  {
+		"category": "Noun",
+		"question": "The doctrine that mental states and processes are simply incidental effects of physiological events in the brain or nervous system and cannot themselves cause any effects in the real world",
+		"answer": "Epiphenomenalism"
+	  },
+	  {
+		"category": "Noun",
+		"question": "The humanistic study of language",
+		"answer": "Philology"
 	  }
 	]
   }

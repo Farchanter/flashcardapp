@@ -19472,82 +19472,82 @@
 		},
 		{
 			"category": "Vocabulary",
-			"question": "Medicine (nominative, indefinite)",
+			"question": "Drug (nominative, indefinite)",
 			"answer": "Lyf"
 		},
 		{
 			"category": "Vocabulary",
-			"question": "Medicine (nominative, definite)",
+			"question": "Drug (nominative, definite)",
 			"answer": "Lyfið"
 		},
 		{
 			"category": "Vocabulary",
-			"question": "Medicine (accusative, indefinite)",
+			"question": "Drug (accusative, indefinite)",
 			"answer": "Lyf"
 		},
 		{
 			"category": "Vocabulary",
-			"question": "Medicine (accusative, definite)",
+			"question": "Drug (accusative, definite)",
 			"answer": "Lyfið"
 		},
 		{
 			"category": "Vocabulary",
-			"question": "Medicine (dative, indefinite)",
+			"question": "Drug (dative, indefinite)",
 			"answer": "Lyfi"
 		},
 		{
 			"category": "Vocabulary",
-			"question": "Medicine (dative, definite)",
+			"question": "Drug (dative, definite)",
 			"answer": "Lyfinu"
 		},
 		{
 			"category": "Vocabulary",
-			"question": "Medicine (genitive, indefinite)",
+			"question": "Drug (genitive, indefinite)",
 			"answer": "Lyfs"
 		},
 		{
 			"category": "Vocabulary",
-			"question": "Medicine (genitive, definite)",
+			"question": "Drug (genitive, definite)",
 			"answer": "Lyfsins"
 		},
 		{
 			"category": "Vocabulary",
-			"question": "Medicines (nominative, indefinite)",
+			"question": "Drugs (nominative, indefinite)",
 			"answer": "Lyf"
 		},
 		{
 			"category": "Vocabulary",
-			"question": "Medicines (nominative, definite)",
+			"question": "Drugs (nominative, definite)",
 			"answer": "Lyfin"
 		},
 		{
 			"category": "Vocabulary",
-			"question": "Medicines (accusative, indefinite)",
+			"question": "Drugs (accusative, indefinite)",
 			"answer": "Lyf"
 		},
 		{
 			"category": "Vocabulary",
-			"question": "Medicines (accusative, definite)",
+			"question": "Drugs (accusative, definite)",
 			"answer": "Lyfin"
 		},
 		{
 			"category": "Vocabulary",
-			"question": "Medicines (dative, indefinite)",
+			"question": "Drugs (dative, indefinite)",
 			"answer": "Lyfjum"
 		},
 		{
 			"category": "Vocabulary",
-			"question": "Medicines (dative, definite)",
+			"question": "Drugs (dative, definite)",
 			"answer": "Lyfjunum"
 		},
 		{
 			"category": "Vocabulary",
-			"question": "Medicines (genitive, indefinite)",
+			"question": "Drugs (genitive, indefinite)",
 			"answer": "Lyfja"
 		},
 		{
 			"category": "Vocabulary",
-			"question": "Medicines (genitive, definite)",
+			"question": "Drugs (genitive, definite)",
 			"answer": "Lyfjanna"
 		},
 		{
@@ -21669,6 +21669,246 @@
 				"category": "Vocabulary",
 				"question": "Prices (genitive, definite)",
 				"answer": "Verðanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Contract (nominative, indefinite)",
+				"answer": "Samningur"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Contract (nominative, definite)",
+				"answer": "Samningurinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Contract (accusative, definite)",
+				"answer": "Samninginn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Contract (accusative, indefinite)",
+				"answer": "Samning"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Contract (dative, definite)",
+				"answer": "Samninginum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Contract (dative, indefinite)",
+				"answer": "Samningi"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Contract (genitive, definite)",
+				"answer": "Samningsins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Contract (genitive, indefinite)",
+				"answer": "Samnings"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Contracts (nominative, definite)",
+				"answer": "Samningarnir"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Contracts (nominative, indefinite)",
+				"answer": "Samningar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Contracts (accusative, definite)",
+				"answer": "Samningana"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Contracts (accusative, indefinite)",
+				"answer": "Samninga"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Contracts (dative, definite)",
+				"answer": "Samningunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Contracts (dative, indefinite)",
+				"answer": "Samningum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Contracts (genitive, definite)",
+				"answer": "Samninganna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Contracts (genitive, indefinite)",
+				"answer": "Samninga"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Medicine (nominative, indefinite)",
+				"answer": "Meðal"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Medicine (nominative, definite)",
+				"answer": "Meðalið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Medicine (accusative, indefinite)",
+				"answer": "Meðal"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Medicine (accusative, definite)",
+				"answer": "Meðalið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Medicine (dative, indefinite)",
+				"answer": "Meðali"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Medicine (dative, definite)",
+				"answer": "Meðalinu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Medicine (genitive, indefinite)",
+				"answer": "Meðals"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Medicine (genitive, definite)",
+				"answer": "Meðalsins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Medicines (nominative, indefinite)",
+				"answer": "Meðöl"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Medicines (nominative, definite)",
+				"answer": "Meðölin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Medicines (accusative, indefinite)",
+				"answer": "Meðöl"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Medicines (accusative, definite)",
+				"answer": "Meðölin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Medicines (dative, indefinite)",
+				"answer": "Meðölum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Medicines (dative, definite)",
+				"answer": "Meðölunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Medicines (genitive, indefinite)",
+				"answer": "Meðala"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Medicines (genitive, definite)",
+				"answer": "Meðalanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Sign (nominative, indefinite)",
+				"answer": "Merki"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Sign (nominative, definite)",
+				"answer": "Merkið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Sign (accusative, indefinite)",
+				"answer": "Merki"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Sign (accusative, definite)",
+				"answer": "Merkið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Sign (dative, indefinite)",
+				"answer": "Merki"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Sign (dative, definite)",
+				"answer": "Merkinu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Sign (genitive, indefinite)",
+				"answer": "Merkis"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Sign (genitive, definite)",
+				"answer": "Merkisins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Signs (nominative, indefinite)",
+				"answer": "Merki"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Signs (nominative, definite)",
+				"answer": "Merkin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Signs (accusative, indefinite)",
+				"answer": "Merki"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Signs (accusative, definite)",
+				"answer": "Merkin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Signs (dative, indefinite)",
+				"answer": "Merkjum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Signs (dative, definite)",
+				"answer": "Merkjunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Signs (genitive, indefinite)",
+				"answer": "Merkja"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Signs (genitive, definite)",
+				"answer": "Merkjanna"
 			}
 	]
 }

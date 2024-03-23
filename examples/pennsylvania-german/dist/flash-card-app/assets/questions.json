@@ -365,6 +365,16 @@
 		"category": "Vocabulary",
 		"question": "The Train Stations",
 		"answer": "Die Dreen-Staeschens"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "The Bridge",
+		"answer": "Die Brick"
+	  },
+	 {
+		"category": "Vocabulary",
+		"question": "The Bridges",
+		"answer": "Die Bricke"
 	  }
 	]
   }

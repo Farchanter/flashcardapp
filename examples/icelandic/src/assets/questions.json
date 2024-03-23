@@ -21909,6 +21909,126 @@
 				"category": "Vocabulary",
 				"question": "Signs (genitive, definite)",
 				"answer": "Merkjanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Science (nominative, indefinite)",
+				"answer": "Vísindi"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Science (nominative, definite)",
+				"answer": "Vísindin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Science (accusative, indefinite)",
+				"answer": "Vísindi"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Science (accusative, definite)",
+				"answer": "Vísindin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Science (dative, indefinite)",
+				"answer": "Vísindum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Science (dative, definite)",
+				"answer": "Vísindunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Science (genitive, indefinite)",
+				"answer": "Vísinda"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Science (genitive, definite)",
+				"answer": "Vísindanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "God (nominative, indefinite)",
+				"answer": "Guð"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "God (nominative, definite)",
+				"answer": "Guðinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "God (accusative, indefinite)",
+				"answer": "Guð"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "God (accusative, definite)",
+				"answer": "Guðinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "God (dative, indefinite)",
+				"answer": "Guði"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "God (dative, definite)",
+				"answer": "Guðinum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "God (genitive, indefinite)",
+				"answer": "Guðs"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "God (genitive, definite)",
+				"answer": "Guðsins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Gods (nominative, indefinite)",
+				"answer": "Guðir"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Gods (nominative, definite)",
+				"answer": "Guðirnir"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Gods (accusative, indefinite)",
+				"answer": "Guði"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Gods (accusative, definite)",
+				"answer": "Guðina"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Gods (dative, indefinite)",
+				"answer": "Guðum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Gods (dative, definite)",
+				"answer": "Guðunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Gods (genitive, indefinite)",
+				"answer": "Guða"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Gods (genitive, definite)",
+				"answer": "Guðanna"
 			}
 	]
 }

@@ -22029,6 +22029,86 @@
 				"category": "Vocabulary",
 				"question": "Gods (genitive, definite)",
 				"answer": "Guðanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Band (nominative, indefinite)",
+				"answer": "Hljómsveit"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Band (nominative, definite)",
+				"answer": "Hljómsveitin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Band (accusative, indefinite)",
+				"answer": "Hljómsveit"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Band (accusative, definite)",
+				"answer": "Hljómsveitina"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Band (dative, indefinite)",
+				"answer": "Hljómsveit"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Band (dative, definite)",
+				"answer": "Hljómsveitinni"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Band (genitive, indefinite)",
+				"answer": "Hljómsveitar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Band (genitive, definite)",
+				"answer": "Hljómsveitarinnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bands (nominative, indefinite)",
+				"answer": "Hljómsveitir"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bands (nominative, definite)",
+				"answer": "Hljómsveitirnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bands (accusative, indefinite)",
+				"answer": "Hljómsveitir"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bands (accusative, definite)",
+				"answer": "Hljómsveitirnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bands (dative, indefinite)",
+				"answer": "Hljómsveitum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bands (dative, definite)",
+				"answer": "Hljómsveitunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bands (genitive, indefinite)",
+				"answer": "Hljómsveita"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bands (genitive, definite)",
+				"answer": "Hljómsveitanna"
 			}
 	]
 }

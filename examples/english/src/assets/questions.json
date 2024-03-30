@@ -1984,7 +1984,11 @@
 		"category": "Noun",
 		"question": "Great reluctance to spend money unnecessarily",
 		"answer": "Parsimony"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Causing sleep",
+		"answer": "Dormitive"
 	  }
-
 	]
   }

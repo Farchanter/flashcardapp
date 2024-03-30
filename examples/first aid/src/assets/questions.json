@@ -25,6 +25,11 @@
 			"category": "Rescue Assist",
 			"question": "Roll person onto a blanket or tarp and pull them using the covering",
 			"answer": "Blanket drag"
+		},
+		{
+			"category": "Rescue Assist",
+			"question": "Carry a person who does not weigh much and you do not suspect has a nervous injury by placing one arm under their knees and one around their upper back",
+			"answer": "One-person lift"
 		}
 	]
   }

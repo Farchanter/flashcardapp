@@ -22109,6 +22109,86 @@
 				"category": "Vocabulary",
 				"question": "Bands (genitive, definite)",
 				"answer": "Hljómsveitanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Instrument (nominative, indefinite)",
+				"answer": "Hljóðfæri"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Instrument (nominative, definite)",
+				"answer": "Hljóðfærið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Instrument (accusative, indefinite)",
+				"answer": "Hljóðfæri"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Instrument (accusative, definite)",
+				"answer": "Hljóðfærið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Instrument (dative, indefinite)",
+				"answer": "Hljóðfæri"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Instrument (dative, definite)",
+				"answer": "Hljóðfærinu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Instrument (genitive, indefinite)",
+				"answer": "Hljóðfæris"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Instrument (genitive, definite)",
+				"answer": "Hljóðfærisins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Instruments (nominative, indefinite)",
+				"answer": "Hljóðfæri"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Instruments (nominative, definite)",
+				"answer": "Hljóðfærin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Instruments (accusative, indefinite)",
+				"answer": "Hljóðfæri"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Instruments (accusative, definite)",
+				"answer": "Hljóðfærin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Instruments (dative, indefinite)",
+				"answer": "Hljóðfærum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Instruments (dative, definite)",
+				"answer": "Hljóðfærunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Instruments (genitive, indefinite)",
+				"answer": "Hljóðfæra"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Instruments (genitive, definite)",
+				"answer": "Hljóðfæranna"
 			}
 	]
 }

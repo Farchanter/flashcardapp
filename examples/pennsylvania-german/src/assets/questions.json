@@ -375,6 +375,26 @@
 		"category": "Vocabulary",
 		"question": "The Bridges",
 		"answer": "Die Bricke"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "The Hotel",
+		"answer": "Die Waertschaft"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "The Hotels",
+		"answer": "Die Waertschafde"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "The Restaurant",
+		"answer": "Der Essblatz"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "The Restaurants",
+		"answer": "Die Essbletz"
 	  }
 	]
   }

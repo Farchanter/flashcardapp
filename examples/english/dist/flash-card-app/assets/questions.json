@@ -1989,6 +1989,26 @@
 		"category": "Adjective",
 		"question": "Causing sleep",
 		"answer": "Dormitive"
+	  },
+	  {
+		"category": "Noun",
+		"question": "Something inducing sleep, especially a drug",
+		"answer": "Soporific"
+	  },
+	  {
+		"category": "Noun",
+		"question": "The classification of prepositions on the basis of whether they claim possibility, impossibility, contingency, or necessity",
+		"answer": "Modality"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A widow holding property or title derived from her late husband",
+		"answer": "Dowager"
+	  },
+	  {
+		"category": "Noun",
+		"question": "Raw vegetables often served as an appetizer before a main dish; sometimes including fruits",
+		"answer": "Crudités"
 	  }
 	]
   }

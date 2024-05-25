@@ -22189,6 +22189,46 @@
 				"category": "Vocabulary",
 				"question": "Instruments (genitive, definite)",
 				"answer": "Hljóðfæranna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Music (nominative, indefinite)",
+				"answer": "Tónlist"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Music (nominative, definite)",
+				"answer": "Tónlistin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Music (accusative, indefinite)",
+				"answer": "Tónlist"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Music (accusative, definite)",
+				"answer": "Tónlistina"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Music (dative, indefinite)",
+				"answer": "Tónlist"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Music (dative, definite)",
+				"answer": "Tónlistinni"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Music (genitive, indefinite)",
+				"answer": "Tónlistar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Music (genitive, definite)",
+				"answer": "Tónlistarinnar"
 			}
 	]
 }

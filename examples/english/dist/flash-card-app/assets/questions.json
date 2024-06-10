@@ -2009,6 +2009,16 @@
 		"category": "Noun",
 		"question": "Raw vegetables often served as an appetizer before a main dish; sometimes including fruits",
 		"answer": "Crudités"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A philosophical and cultural movement in Russia in the early 20th century, combining elements of religion and ethics with a history of the origin, evolution, and future of the cosmos and humankind",
+		"answer": "Cosmism"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Carefully aware of all circumstances, considerate of all that is pertinent",
+		"answer": "Circumspect"
 	  }
 	]
   }

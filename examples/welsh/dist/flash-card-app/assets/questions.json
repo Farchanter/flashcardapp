@@ -20,6 +20,46 @@
 			"category": "Vocabulary",
 			"question": "The Knights",
 			"answer": "Y Marchogion"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Author (M)",
+			"answer": "Awdor"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Authors (M)",
+			"answer": "Awdoron"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "The Author (M)",
+			"answer": "Yr Awdor"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "The Authors (M)",
+			"answer": "Yr Awdoron"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Author (F)",
+			"answer": "Awdures"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Authors (F)",
+			"answer": "Awduresau"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "The Author (F)",
+			"answer": "Yr Awdures"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "The Authors (F)",
+			"answer": "Yr Awduresau"
 		}
 	]
   }

@@ -60,6 +60,46 @@
 			"category": "Vocabulary",
 			"question": "The Authors (F)",
 			"answer": "Yr Awduresau"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Teacher (M)",
+			"answer": "Athro"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Teachers (M)",
+			"answer": "Athrawon"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "The Teacher (M)",
+			"answer": "Yr Athro"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "The Teachers (M)",
+			"answer": "Yr Athrawon"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Teacher (F)",
+			"answer": "Athrawes"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Teachers (F)",
+			"answer": "Athrawesau"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "The Teacher (F)",
+			"answer": "Yr Athrawes"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "The Teachers (F)",
+			"answer": "Yr Athrawesau"
 		}
 	]
   }

@@ -22229,6 +22229,86 @@
 				"category": "Vocabulary",
 				"question": "Music (genitive, definite)",
 				"answer": "Tónlistarinnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Movie (nominative, indefinite)",
+				"answer": "Kvikmynd"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Movie (nominative, definite)",
+				"answer": "Kvikmyndin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Movie (accusative, indefinite)",
+				"answer": "Kvikmynd"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Movie (accusative, definite)",
+				"answer": "Kvikmyndina"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Movie (dative, indefinite)",
+				"answer": "Kvikmynd"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Movie (dative, definite)",
+				"answer": "Kvikmyndinni"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Movie (genitive, indefinite)",
+				"answer": "Kvikmyndar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Movie (genitive, definite)",
+				"answer": "Kvikmyndarinnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Movies (nominative, indefinite)",
+				"answer": "Kvikmyndir"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Movies (nominative, definite)",
+				"answer": "Kvikmyndirnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Movies (accusative, indefinite)",
+				"answer": "Kvikmyndir"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Movies (accusative, definite)",
+				"answer": "Kvikmyndirnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Movies (dative, indefinite)",
+				"answer": "Kvikmyndum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Movies (dative, definite)",
+				"answer": "Kvikmyndunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Movies (genitive, indefinite)",
+				"answer": "Kvikmynda"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Movies (genitive, definite)",
+				"answer": "Kvikmyndanna"
 			}
 	]
 }

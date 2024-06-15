@@ -2019,6 +2019,16 @@
 		"category": "Adjective",
 		"question": "Carefully aware of all circumstances, considerate of all that is pertinent",
 		"answer": "Circumspect"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A purplish-red pigment, made from dye obtained from the cochineal beetle; carminic acid or any of its derivatives",
+		"answer": "Carmine"
+	  },
+	  {
+		"category": "Noun",
+		"question": "Patient self-control; restraint and tolerance under provocation",
+		"answer": "Forbearance"
 	  }
 	]
   }

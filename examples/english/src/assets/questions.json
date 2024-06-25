@@ -2029,6 +2029,21 @@
 		"category": "Noun",
 		"question": "Patient self-control; restraint and tolerance under provocation",
 		"answer": "Forbearance"
+	  },
+	  {
+		"category": "Noun",
+		"question": "An intense fire, a conflagration or explosion. Specifically, combustion that spreads subsonically via thermal conduction",
+		"answer": "Deflagration"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A horizontal structural beam spanning an opening such as between the uprights of a door or window, and which supports the wall above",
+		"answer": "Lintel"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Of or pertaining to laughter",
+		"answer": "Risible"
 	  }
 	]
   }

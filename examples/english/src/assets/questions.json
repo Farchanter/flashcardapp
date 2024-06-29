@@ -2044,6 +2044,11 @@
 		"category": "Adjective",
 		"question": "Of or pertaining to laughter",
 		"answer": "Risible"
+	  },
+	  {
+		"category": "Noun",
+		"question": "An organism in a symbiotic relationship",
+		"answer": "Symbiont"
 	  }
 	]
   }

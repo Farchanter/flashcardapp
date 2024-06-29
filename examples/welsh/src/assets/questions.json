@@ -100,6 +100,26 @@
 			"category": "Vocabulary",
 			"question": "The Teachers (F)",
 			"answer": "Yr Athrawesau"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Crow",
+			"answer": "Brân"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Crows",
+			"answer": "Brain"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "The Crow",
+			"answer": "Y Brân"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "The Crows",
+			"answer": "Y Brain"
 		}
 	]
   }

@@ -22309,6 +22309,86 @@
 				"category": "Vocabulary",
 				"question": "Movies (genitive, definite)",
 				"answer": "Kvikmyndanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Art (nominative, indefinite)",
+				"answer": "List"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Art (nominative, definite)",
+				"answer": "Listin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Art (accusative, indefinite)",
+				"answer": "List"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Art (accusative, definite)",
+				"answer": "Listina"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Art (dative, indefinite)",
+				"answer": "List"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Art (dative, definite)",
+				"answer": "Listinni"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Art (genitive, indefinite)",
+				"answer": "Listar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Art (genitive, definite)",
+				"answer": "Listarinnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Arts (nominative, indefinite)",
+				"answer": "Listir"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Arts (nominative, definite)",
+				"answer": "Listirnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Arts (accusative, indefinite)",
+				"answer": "Listir"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Arts (accusative, definite)",
+				"answer": "Listirnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Arts (dative, indefinite)",
+				"answer": "Listum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Arts (dative, definite)",
+				"answer": "Listunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Arts (genitive, indefinite)",
+				"answer": "Lista"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Arts (genitive, definite)",
+				"answer": "Listanna"
 			}
 	]
 }

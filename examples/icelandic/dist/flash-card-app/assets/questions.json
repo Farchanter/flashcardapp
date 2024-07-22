@@ -22389,6 +22389,286 @@
 				"category": "Vocabulary",
 				"question": "Arts (genitive, definite)",
 				"answer": "Listanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Coffee (nominative, indefinite)",
+				"answer": "Kaffi"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Coffee (nominative, definite)",
+				"answer": "Kaffið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Coffee (accusative, indefinite)",
+				"answer": "Kaffi"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Coffee (accusative, definite)",
+				"answer": "Kaffið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Coffee (dative, indefinite)",
+				"answer": "Kaffi"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Coffee (dative, definite)",
+				"answer": "Kaffinu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Coffee (genitive, indefinite)",
+				"answer": "Kaffis"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Coffee (genitive, definite)",
+				"answer": "Kaffisins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Wine (nominative, indefinite)",
+				"answer": "Vín"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Wine (nominative, definite)",
+				"answer": "Vínið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Wine (accusative, indefinite)",
+				"answer": "Vín"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Wine (accusative, definite)",
+				"answer": "Vínið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Wine (dative, indefinite)",
+				"answer": "Víni"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Wine (dative, definite)",
+				"answer": "Víninu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Wine (genitive, indefinite)",
+				"answer": "Víns"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Wine (genitive, definite)",
+				"answer": "Vínsins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Wines (nominative, indefinite)",
+				"answer": "Vín"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Wines (nominative, definite)",
+				"answer": "Vínin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Wines (accusative, indefinite)",
+				"answer": "Vín"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Wines (accusative, definite)",
+				"answer": "Vínin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Wines (dative, indefinite)",
+				"answer": "Vínum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Wines (dative, definite)",
+				"answer": "Vínunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Wines (genitive, indefinite)",
+				"answer": "Vína"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Wines (genitive, definite)",
+				"answer": "Vínanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beer (nominative, indefinite)",
+				"answer": "Bjór"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beer (nominative, definite)",
+				"answer": "Bjórinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beer (accusative, definite)",
+				"answer": "Bjórinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beer (accusative, indefinite)",
+				"answer": "Bjór"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beer (dative, definite)",
+				"answer": "Bjórnum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beer (dative, indefinite)",
+				"answer": "Bjór"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beer (genitive, definite)",
+				"answer": "Bjórsins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beer (genitive, indefinite)",
+				"answer": "Bjórs"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beers (nominative, definite)",
+				"answer": "Bjórarnir"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beers (nominative, indefinite)",
+				"answer": "Bjórar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beers (accusative, definite)",
+				"answer": "Bjórana"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beers (accusative, indefinite)",
+				"answer": "Bjóra"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beers (dative, definite)",
+				"answer": "Bjórunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beers (dative, indefinite)",
+				"answer": "Bjórum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beers (genitive, definite)",
+				"answer": "Bjóranna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beers (genitive, indefinite)",
+				"answer": "Bjóra"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Juice (nominative, indefinite)",
+				"answer": "Safi"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Juice (nominative, definite)",
+				"answer": "Safinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Juice (accusative, indefinite)",
+				"answer": "Safa"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Juice (accusative, definite)",
+				"answer": "Safann"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Juice (dative, indefinite)",
+				"answer": "Safa"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Juice (dative, definite)",
+				"answer": "Safanum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Juice (genitive, indefinite)",
+				"answer": "Safa"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Juice (genitive, definite)",
+				"answer": "Safans"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Juices (nominative, indefinite)",
+				"answer": "Safar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Juices (nominative, definite)",
+				"answer": "Safarnir"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Juices (accusative, indefinite)",
+				"answer": "Safa"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Juices (accusative, definite)",
+				"answer": "Safana"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Juices (dative, indefinite)",
+				"answer": "Söfum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Juices (dative, definite)",
+				"answer": "Söfunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Juices (genitive, indefinite)",
+				"answer": "Safa"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Juices (genitive, definite)",
+				"answer": "Safanna"
 			}
 	]
 }

@@ -2049,6 +2049,41 @@
 		"category": "Noun",
 		"question": "An organism in a symbiotic relationship",
 		"answer": "Symbiont"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Impossible to avoid or escape; inescapable, irresistible",
+		"answer": "Ineluctable"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Happening every day; daily",
+		"answer": "Quotidian"
+	  },
+	  {
+		"category": "Noun",
+		"question": "An extraction or essence of something, obtained by boiling it down",
+		"answer": "Decoction"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Related by birth; descended from the same parent or ancestor",
+		"answer": "Consanguineous"
+	  },
+	  {
+		"category": "Verb",
+		"question": "To subject to humiliation, scorn, ridicule, or abuse",
+		"answer": "Pillory"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A network or group of people who are somehow affiliated or linked spiritually",
+		"answer": "Karass"
+	  },
+	  {
+		"category": "Noun",
+		"question": "The nest of a bird of prey",
+		"answer": "Eyrie"
 	  }
 	]
   }

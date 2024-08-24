@@ -22669,6 +22669,126 @@
 				"category": "Vocabulary",
 				"question": "Juices (genitive, definite)",
 				"answer": "Safanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Water (nominative, indefinite)",
+				"answer": "Vatn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Water (nominative, definite)",
+				"answer": "Vatnið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Water (accusative, indefinite)",
+				"answer": "Vatn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Water (accusative, definite)",
+				"answer": "Vatnið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Water (dative, indefinite)",
+				"answer": "Vatni"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Water (dative, definite)",
+				"answer": "Vatninu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Water (genitive, indefinite)",
+				"answer": "Vatns"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Water (genitive, definite)",
+				"answer": "Vatnsins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Waters (nominative, indefinite)",
+				"answer": "Vötn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Waters (nominative, definite)",
+				"answer": "Vötnin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Waters (accusative, indefinite)",
+				"answer": "Vötn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Waters (accusative, definite)",
+				"answer": "Vötnin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Waters (dative, indefinite)",
+				"answer": "Vötnum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Waters (dative, definite)",
+				"answer": "Vötnunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Waters (genitive, indefinite)",
+				"answer": "Vatna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Waters (genitive, definite)",
+				"answer": "Vatnanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Milk (nominative, indefinite)",
+				"answer": "Mjólk"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Milk (nominative, definite)",
+				"answer": "Mjólkin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Milk (accusative, indefinite)",
+				"answer": "Mjólk"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Milk (accusative, definite)",
+				"answer": "Mjólkina"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Milk (dative, indefinite)",
+				"answer": "Mjólk"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Milk (dative, definite)",
+				"answer": "Mjólkinni"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Milk (genitive, indefinite)",
+				"answer": "Mjólkar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Milk (genitive, definite)",
+				"answer": "Mjólkarinnar"
 			}
 	]
 }

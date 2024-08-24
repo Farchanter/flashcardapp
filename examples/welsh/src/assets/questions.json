@@ -120,6 +120,26 @@
 			"category": "Vocabulary",
 			"question": "The Crows",
 			"answer": "Y Brain"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Storyteller",
+			"answer": "Storïwr"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Storytellers",
+			"answer": "Storïwyr"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "The Storyteller",
+			"answer": "Y Storïwr"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "The Storytellers",
+			"answer": "Y Storïwyr"
 		}
 	]
   }

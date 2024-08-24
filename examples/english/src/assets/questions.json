@@ -2084,6 +2084,21 @@
 		"category": "Noun",
 		"question": "The nest of a bird of prey",
 		"answer": "Eyrie"
+	  },
+	  {
+		"category": "Verb",
+		"question": "To clean (e.g. a ship's bottom of clinging shells, seaweed, etc.) by the application of fire and scraping",
+		"answer": "Bream"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A quill, feather",
+		"answer": "Remige"
+	  },
+	  {
+		"category": "Adverb",
+		"question": "Writing in a fashion such that the reading direction changes from right-to-left to left-to-right with each new line",
+		"answer": "Baustrophedon"
 	  }
 	]
   }

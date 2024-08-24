@@ -395,6 +395,16 @@
 		"category": "Vocabulary",
 		"question": "The Restaurants",
 		"answer": "Die Essbletz"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "The Farm",
+		"answer": "Die Bauerei"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "The Farms",
+		"answer": "Die Bauereie"
 	  }
 	]
   }

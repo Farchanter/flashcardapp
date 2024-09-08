@@ -2084,6 +2084,36 @@
 		"category": "Noun",
 		"question": "The nest of a bird of prey",
 		"answer": "Eyrie"
+	  },
+	  {
+		"category": "Verb",
+		"question": "To clean (e.g. a ship's bottom of clinging shells, seaweed, etc.) by the application of fire and scraping",
+		"answer": "Bream"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A quill, feather",
+		"answer": "Remige"
+	  },
+	  {
+		"category": "Adverb",
+		"question": "Writing in a fashion such that the reading direction changes from right-to-left to left-to-right with each new line",
+		"answer": "Baustrophedon"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A written variant of a language, analgous to to a spoken dialect of a language",
+		"answer": "Grapholect"
+	  },
+	  {
+		"category": "Noun",
+		"question": "Sweet potato",
+		"answer": "Comote"
+	  },
+	  {
+		"category": "Noun",
+		"question": "An Asian vine (several species in the genus Pueraria, but mostly Pueraria montans var. lobata, syn. Pueraria lobata in the US), grown as a root starch, and which is a notorious invasive weed in the United States",
+		"answer": "Kudzu"
 	  }
 	]
   }

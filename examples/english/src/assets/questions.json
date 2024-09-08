@@ -2099,6 +2099,31 @@
 		"category": "Adverb",
 		"question": "Writing in a fashion such that the reading direction changes from right-to-left to left-to-right with each new line",
 		"answer": "Baustrophedon"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A written variant of a language, analgous to to a spoken dialect of a language",
+		"answer": "Grapholect"
+	  },
+	  {
+		"category": "Noun",
+		"question": "Sweet potato",
+		"answer": "Comote"
+	  },
+	  {
+		"category": "Noun",
+		"question": "An Asian vine (several species in the genus Pueraria, but mostly Pueraria montans var. lobata, syn. Pueraria lobata in the US), grown as a root starch, and which is a notorious invasive weed in the United States",
+		"answer": "Kudzu"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Gloomy, mournful, or dismal, especially to an exaggerated degree",
+		"answer": "Lugubrious"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Pale, sickly-looking",
+		"answer": "Wan"
 	  }
 	]
   }

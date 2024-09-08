@@ -22789,6 +22789,166 @@
 				"category": "Vocabulary",
 				"question": "Milk (genitive, definite)",
 				"answer": "Mjólkarinnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beverage (nominative, indefinite)",
+				"answer": "Drykkur"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beverage (nominative, definite)",
+				"answer": "Drykkurinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beverage (accusative, indefinite)",
+				"answer": "Drykk"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beverage (accusative, definite)",
+				"answer": "Drykkinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beverage (dative, indefinite)",
+				"answer": "Drykk"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beverage (dative, definite)",
+				"answer": "Drykknum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beverage (genitive, indefinite)",
+				"answer": "Drykkjar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beverage (genitive, definite)",
+				"answer": "Drykkjarins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beverages (nominative, indefinite)",
+				"answer": "Drykkir"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beverages (nominative, definite)",
+				"answer": "Drykkirnir"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beverages (accusative, indefinite)",
+				"answer": "Drykki"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beverages (accusative, definite)",
+				"answer": "Drykkina"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beverages (dative, indefinite)",
+				"answer": "Drykkjum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beverages (dative, definite)",
+				"answer": "Drykkjunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beverages (genitive, indefinite)",
+				"answer": "Drykkja"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beverages (genitive, definite)",
+				"answer": "Drykkjanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Egg (nominative, indefinite)",
+				"answer": "Egg"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Egg (nominative, definite)",
+				"answer": "Eggið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Egg (accusative, indefinite)",
+				"answer": "Egg"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Egg (accusative, definite)",
+				"answer": "Eggið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Egg (dative, indefinite)",
+				"answer": "Eggi"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Egg (dative, definite)",
+				"answer": "Egginu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Egg (genitive, indefinite)",
+				"answer": "Eggs"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Egg (genitive, definite)",
+				"answer": "Eggsins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Eggs (nominative, indefinite)",
+				"answer": "Egg"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Eggs (nominative, definite)",
+				"answer": "Eggin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Eggs (accusative, indefinite)",
+				"answer": "Egg"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Eggs (accusative, definite)",
+				"answer": "Eggin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Eggs (dative, indefinite)",
+				"answer": "Eggjum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Eggs (dative, definite)",
+				"answer": "Eggjunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Eggs (genitive, indefinite)",
+				"answer": "Eggja"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Eggs (genitive, definite)",
+				"answer": "Eggja"
 			}
 	]
 }

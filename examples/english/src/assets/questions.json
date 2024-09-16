@@ -2124,6 +2124,16 @@
 		"category": "Adjective",
 		"question": "Pale, sickly-looking",
 		"answer": "Wan"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Able to be forgiven; worthy of forgiveness",
+		"answer": "Venial"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A situation in which a player is forced to make a disadvantageous move",
+		"answer": "Zugzwang"
 	  }
 	]
   }

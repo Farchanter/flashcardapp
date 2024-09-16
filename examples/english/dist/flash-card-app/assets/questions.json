@@ -2114,6 +2114,26 @@
 		"category": "Noun",
 		"question": "An Asian vine (several species in the genus Pueraria, but mostly Pueraria montans var. lobata, syn. Pueraria lobata in the US), grown as a root starch, and which is a notorious invasive weed in the United States",
 		"answer": "Kudzu"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Gloomy, mournful, or dismal, especially to an exaggerated degree",
+		"answer": "Lugubrious"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Pale, sickly-looking",
+		"answer": "Wan"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Able to be forgiven; worthy of forgiveness",
+		"answer": "Venial"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A situation in which a player is forced to make a disadvantageous move",
+		"answer": "Zugzwang"
 	  }
 	]
   }

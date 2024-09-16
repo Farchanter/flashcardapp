@@ -22949,6 +22949,86 @@
 				"category": "Vocabulary",
 				"question": "Eggs (genitive, definite)",
 				"answer": "Eggja"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cheese (nominative, indefinite)",
+				"answer": "Ostur"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cheese (nominative, definite)",
+				"answer": "Osturinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cheese (accusative, definite)",
+				"answer": "Ostinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cheese (accusative, indefinite)",
+				"answer": "Ost"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cheese (dative, definite)",
+				"answer": "Ostinum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cheese (dative, indefinite)",
+				"answer": "Osti"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cheese (genitive, definite)",
+				"answer": "Ostsins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cheese (genitive, indefinite)",
+				"answer": "Osts"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cheeses (nominative, definite)",
+				"answer": "Ostarnir"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cheeses (nominative, indefinite)",
+				"answer": "Ostar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cheeses (accusative, definite)",
+				"answer": "Ostana"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cheeses (accusative, indefinite)",
+				"answer": "Osta"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cheeses (dative, definite)",
+				"answer": "Ostunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cheeses (dative, indefinite)",
+				"answer": "Ostum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cheeses (genitive, definite)",
+				"answer": "Ostanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cheeses (genitive, indefinite)",
+				"answer": "Osta"
 			}
 	]
 }

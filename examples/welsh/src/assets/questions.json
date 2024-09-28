@@ -140,7 +140,27 @@
 			"category": "Vocabulary",
 			"question": "The Storytellers",
 			"answer": "Y Storïwyr"
-		}
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Dog",
+			"answer": "Ci"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "The Dog",
+			"answer": "Y Ci"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Dogs",
+			"answer": "Cŵn"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "The Dogs",
+			"answer": "Y Cŵn"
+		},
 	]
   }
   

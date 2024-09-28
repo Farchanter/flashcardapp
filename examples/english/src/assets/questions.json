@@ -2134,6 +2134,21 @@
 		"category": "Noun",
 		"question": "A situation in which a player is forced to make a disadvantageous move",
 		"answer": "Zugzwang"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A storyteller, especially a person noted for telling stories with skill and wit",
+		"answer": "Raconteur"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A Christian who philosophically defends Christianity",
+		"answer": "Apologist"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A monk or nun of the Order of Cistercians of the Strict Observance (a branch of the Cistercians Roman Catholic religious brotherhood that use a particularly strict interpretation of the Role of St. Benedict)",
+		"answer": "Trappist"
 	  }
 	]
   }

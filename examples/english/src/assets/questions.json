@@ -2147,8 +2147,18 @@
 	  },
 	  {
 		"category": "Noun",
-		"question": "A monk or nun of the Order of Cistercians of the Strict Observance (a branch of the Cistercians Roman Catholic religious brotherhood that use a particularly strict interpretation of the Role of St. Benedict)",
+		"question": "A monk or nun of the Order of Cistercians of the Strict Observance (a branch of the Cistercians Roman Catholic religious brotherhood that use a particularly strict interpretation of the Rule of St. Benedict)",
 		"answer": "Trappist"
+	  },
+	  {
+		"category": "Noun",
+		"question": "In Ireland, a pencil sharpener",
+		"answer": "Parer"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Of or resembling twilight; dim",
+		"answer": "Crepuscular"
 	  }
 	]
   }

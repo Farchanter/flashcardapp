@@ -23029,6 +23029,126 @@
 				"category": "Vocabulary",
 				"question": "Cheeses (genitive, indefinite)",
 				"answer": "Osta"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Chicken (nominative, indefinite)",
+				"answer": "Kjúklingur"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Chicken (nominative, definite)",
+				"answer": "Kjúklingurinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Chicken (accusative, definite)",
+				"answer": "Kjúklinginn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Chicken (accusative, indefinite)",
+				"answer": "Kjúkling"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Chicken (dative, definite)",
+				"answer": "Kjúklinginum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Chicken (dative, indefinite)",
+				"answer": "Kjúklingi"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Chicken (genitive, definite)",
+				"answer": "Kjúklingsins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Chicken (genitive, indefinite)",
+				"answer": "Kjúklings"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Chickens (nominative, definite)",
+				"answer": "Kjúklingarnir"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Chickens (nominative, indefinite)",
+				"answer": "Kjúklingar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Chickens (accusative, definite)",
+				"answer": "Kjúklingana"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Chickens (accusative, indefinite)",
+				"answer": "Kjúklinga"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Chickens (dative, definite)",
+				"answer": "Kjúklingunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Chickens (dative, indefinite)",
+				"answer": "Kjúklingum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Chickens (genitive, definite)",
+				"answer": "Kjúklinganna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Chickens (genitive, indefinite)",
+				"answer": "Kjúklinga"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Pork (nominative, indefinite)",
+				"answer": "Svínakjöt"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Pork (nominative, definite)",
+				"answer": "Svínakjötið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Pork (accusative, indefinite)",
+				"answer": "Svínakjöt"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Pork (accusative, definite)",
+				"answer": "Svínakjötið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Pork (dative, indefinite)",
+				"answer": "Svínakjöti"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Pork (dative, definite)",
+				"answer": "Svínakjötinu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Pork (genitive, indefinite)",
+				"answer": "Svínakjöts"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Pork (genitive, definite)",
+				"answer": "Svínakjötsins"
 			}
 	]
 }

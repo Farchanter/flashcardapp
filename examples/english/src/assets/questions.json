@@ -2159,6 +2159,41 @@
 		"category": "Adjective",
 		"question": "Of or resembling twilight; dim",
 		"answer": "Crepuscular"
+	  },
+	  {
+		"category": "Verb",
+		"question": "To pull, to pull out or away, to pull sharply",
+		"answer": "Trice"
+	  },
+	  {
+		"category": "Verb",
+		"question": "To destroy completely; to annihilate",
+		"answer": "Extirpate"
+	  },
+	  {
+		"category": "Noun",
+		"question": "Loose stony debris on a slope",
+		"answer": "Scree"
+	  },
+	  {
+		"category": "Noun",
+		"question": "An old person with impaired intellect",
+		"answer": "Dotard"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A branch of pharmacology that studies medical substances that are derived from natural sources, and their recognition",
+		"answer": "Pharmacognosy"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A brownish yellow color, as undyed leather",
+		"answer": "Buff"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A human language consciously devised by an individual or small group, as opposed to having naturally evolved as a natural language",
+		"answer": "Conlang"
 	  }
 	]
   }

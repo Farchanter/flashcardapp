@@ -23149,6 +23149,46 @@
 				"category": "Vocabulary",
 				"question": "Pork (genitive, definite)",
 				"answer": "Svínakjötsins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beef (nominative, indefinite)",
+				"answer": "Nautakjöt"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beef (nominative, definite)",
+				"answer": "Nautakjötið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beef (accusative, indefinite)",
+				"answer": "Nautakjöt"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beef (accusative, definite)",
+				"answer": "Nautakjötið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beef (dative, indefinite)",
+				"answer": "Nautakjöti"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beef (dative, definite)",
+				"answer": "Nautakjötinu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beef (genitive, indefinite)",
+				"answer": "Nautakjöts"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beef (genitive, definite)",
+				"answer": "Nautakjötsins"
 			}
 	]
 }

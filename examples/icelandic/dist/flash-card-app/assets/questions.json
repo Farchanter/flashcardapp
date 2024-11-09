@@ -23029,6 +23029,326 @@
 				"category": "Vocabulary",
 				"question": "Cheeses (genitive, indefinite)",
 				"answer": "Osta"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Chicken (nominative, indefinite)",
+				"answer": "Kjúklingur"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Chicken (nominative, definite)",
+				"answer": "Kjúklingurinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Chicken (accusative, definite)",
+				"answer": "Kjúklinginn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Chicken (accusative, indefinite)",
+				"answer": "Kjúkling"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Chicken (dative, definite)",
+				"answer": "Kjúklinginum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Chicken (dative, indefinite)",
+				"answer": "Kjúklingi"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Chicken (genitive, definite)",
+				"answer": "Kjúklingsins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Chicken (genitive, indefinite)",
+				"answer": "Kjúklings"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Chickens (nominative, definite)",
+				"answer": "Kjúklingarnir"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Chickens (nominative, indefinite)",
+				"answer": "Kjúklingar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Chickens (accusative, definite)",
+				"answer": "Kjúklingana"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Chickens (accusative, indefinite)",
+				"answer": "Kjúklinga"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Chickens (dative, definite)",
+				"answer": "Kjúklingunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Chickens (dative, indefinite)",
+				"answer": "Kjúklingum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Chickens (genitive, definite)",
+				"answer": "Kjúklinganna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Chickens (genitive, indefinite)",
+				"answer": "Kjúklinga"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Pork (nominative, indefinite)",
+				"answer": "Svínakjöt"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Pork (nominative, definite)",
+				"answer": "Svínakjötið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Pork (accusative, indefinite)",
+				"answer": "Svínakjöt"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Pork (accusative, definite)",
+				"answer": "Svínakjötið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Pork (dative, indefinite)",
+				"answer": "Svínakjöti"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Pork (dative, definite)",
+				"answer": "Svínakjötinu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Pork (genitive, indefinite)",
+				"answer": "Svínakjöts"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Pork (genitive, definite)",
+				"answer": "Svínakjötsins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beef (nominative, indefinite)",
+				"answer": "Nautakjöt"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beef (nominative, definite)",
+				"answer": "Nautakjötið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beef (accusative, indefinite)",
+				"answer": "Nautakjöt"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beef (accusative, definite)",
+				"answer": "Nautakjötið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beef (dative, indefinite)",
+				"answer": "Nautakjöti"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beef (dative, definite)",
+				"answer": "Nautakjötinu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beef (genitive, indefinite)",
+				"answer": "Nautakjöts"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beef (genitive, definite)",
+				"answer": "Nautakjötsins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Apple (nominative, indefinite)",
+				"answer": "Epli"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Apple (nominative, definite)",
+				"answer": "Eplið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Apple (accusative, indefinite)",
+				"answer": "Epli"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Apple (accusative, definite)",
+				"answer": "Eplið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Apple (dative, indefinite)",
+				"answer": "Epli"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Apple (dative, definite)",
+				"answer": "Eplinu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Apple (genitive, indefinite)",
+				"answer": "Eplis"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Apple (genitive, definite)",
+				"answer": "Eplisins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Apples (nominative, indefinite)",
+				"answer": "Epli"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Apples (nominative, definite)",
+				"answer": "Eplin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Apples (accusative, indefinite)",
+				"answer": "Epli"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Apples (accusative, definite)",
+				"answer": "Eplin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Apples (dative, indefinite)",
+				"answer": "Eplum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Apples (dative, definite)",
+				"answer": "Eplunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Apples (genitive, indefinite)",
+				"answer": "Epla"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Apples (genitive, definite)",
+				"answer": "Eplanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Banana (nominative, indefinite)",
+				"answer": "Banani"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Banana (nominative, definite)",
+				"answer": "Bananinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Banana (accusative, indefinite)",
+				"answer": "Banana"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Banana (accusative, definite)",
+				"answer": "Bananann"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Banana (dative, indefinite)",
+				"answer": "Banana"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Banana (dative, definite)",
+				"answer": "Banananum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Banana (genitive, indefinite)",
+				"answer": "Banana"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Banana (genitive, definite)",
+				"answer": "Bananans"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bananas (nominative, indefinite)",
+				"answer": "Bananar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bananas (nominative, definite)",
+				"answer": "Bananarnir"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bananas (accusative, indefinite)",
+				"answer": "Banana"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bananas (accusative, definite)",
+				"answer": "Bananana"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bananas (dative, indefinite)",
+				"answer": "Banönum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bananas (dative, definite)",
+				"answer": "Banönunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bananas (genitive, indefinite)",
+				"answer": "Banana"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bananas (genitive, definite)",
+				"answer": "Banananna"
 			}
 	]
 }

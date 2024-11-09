@@ -1712,7 +1712,7 @@
 	  },
 	  {
 		"category": "Adjective",
-		"question": "Sloppy, hasty. shoddy, or inelegant",
+		"question": "Sloppy, hasty, shoddy, or inelegant",
 		"answer": "Kludgy"
 	  },
 	  {
@@ -2194,6 +2194,16 @@
 		"category": "Noun",
 		"question": "A human language consciously devised by an individual or small group, as opposed to having naturally evolved as a natural language",
 		"answer": "Conlang"
+	  },
+	  {
+		"category": "Noun",
+		"question": "Someone who acts in a disreputable, unethical, or unscrupulous way, especially in the practice of law and politics",
+		"answer": "Shyster"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Of or relating to the state of being married",
+		"answer": "Connubial"
 	  }
 	]
   }

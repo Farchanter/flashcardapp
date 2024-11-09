@@ -23189,6 +23189,166 @@
 				"category": "Vocabulary",
 				"question": "Beef (genitive, definite)",
 				"answer": "Nautakjötsins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Apple (nominative, indefinite)",
+				"answer": "Epli"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Apple (nominative, definite)",
+				"answer": "Eplið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Apple (accusative, indefinite)",
+				"answer": "Epli"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Apple (accusative, definite)",
+				"answer": "Eplið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Apple (dative, indefinite)",
+				"answer": "Epli"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Apple (dative, definite)",
+				"answer": "Eplinu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Apple (genitive, indefinite)",
+				"answer": "Eplis"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Apple (genitive, definite)",
+				"answer": "Eplisins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Apples (nominative, indefinite)",
+				"answer": "Epli"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Apples (nominative, definite)",
+				"answer": "Eplin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Apples (accusative, indefinite)",
+				"answer": "Epli"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Apples (accusative, definite)",
+				"answer": "Eplin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Apples (dative, indefinite)",
+				"answer": "Eplum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Apples (dative, definite)",
+				"answer": "Eplunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Apples (genitive, indefinite)",
+				"answer": "Epla"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Apples (genitive, definite)",
+				"answer": "Eplanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Banana (nominative, indefinite)",
+				"answer": "Banani"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Banana (nominative, definite)",
+				"answer": "Bananinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Banana (accusative, indefinite)",
+				"answer": "Banana"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Banana (accusative, definite)",
+				"answer": "Bananann"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Banana (dative, indefinite)",
+				"answer": "Banana"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Banana (dative, definite)",
+				"answer": "Banananum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Banana (genitive, indefinite)",
+				"answer": "Banana"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Banana (genitive, definite)",
+				"answer": "Bananans"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bananas (nominative, indefinite)",
+				"answer": "Bananar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bananas (nominative, definite)",
+				"answer": "Bananarnir"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bananas (accusative, indefinite)",
+				"answer": "Banana"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bananas (accusative, definite)",
+				"answer": "Bananana"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bananas (dative, indefinite)",
+				"answer": "Banönum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bananas (dative, definite)",
+				"answer": "Banönunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bananas (genitive, indefinite)",
+				"answer": "Banana"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bananas (genitive, definite)",
+				"answer": "Banananna"
 			}
 	]
 }

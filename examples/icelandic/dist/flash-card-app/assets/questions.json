@@ -23349,6 +23349,86 @@
 				"category": "Vocabulary",
 				"question": "Bananas (genitive, definite)",
 				"answer": "Banananna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Orange (fruit) (nominative, indefinite)",
+				"answer": "Appelsína"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Orange (fruit) (nominative, definite)",
+				"answer": "Appelsínan"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Orange (fruit) (accusative, indefinite)",
+				"answer": "Appelsínu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Orange (fruit) (accusative, definite)",
+				"answer": "Appelsínuna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Orange (fruit) (dative, indefinite)",
+				"answer": "Appelsínu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Orange (fruit) (dative, definite)",
+				"answer": "Appelsínunni"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Orange (fruit) (genitive, indefinite)",
+				"answer": "Appelsínu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Orange (fruit) (genitive, definite)",
+				"answer": "Appelsínunnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oranges (fruit) (nominative, indefinite)",
+				"answer": "Appelsínur"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oranges (fruit) (nominative, definite)",
+				"answer": "Appelsínurnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oranges (fruit) (accusative, indefinite)",
+				"answer": "Appelsínur"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oranges (fruit) (accusative, definite)",
+				"answer": "Appelsínurnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oranges (fruit) (dative, indefinite)",
+				"answer": "Appelsínum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oranges (fruit) (dative, definite)",
+				"answer": "Appelsínunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oranges (fruit) (genitive, indefinite)",
+				"answer": "Appelsína"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oranges (fruit) (genitive, definite)",
+				"answer": "Appelsínanna"
 			}
 	]
 }

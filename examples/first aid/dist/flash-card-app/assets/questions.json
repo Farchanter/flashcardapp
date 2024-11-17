@@ -30,6 +30,11 @@
 			"category": "Rescue Assist",
 			"question": "Carry a person who does not weigh much and you do not suspect has a nervous injury by placing one arm under their knees and one around their upper back",
 			"answer": "One-person lift"
+		},
+		{
+			"category": "Rescue Assist",
+			"question": "If you do not suspect a nervous injury and need to travel a longer distance, carry a person over your shoulder",
+			"answer": "Firefighter carry"
 		}
 	]
   }

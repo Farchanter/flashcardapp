@@ -120,6 +120,66 @@
 			"category": "Vocabulary",
 			"question": "The Crows",
 			"answer": "Y Brain"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Storyteller",
+			"answer": "Storïwr"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Storytellers",
+			"answer": "Storïwyr"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "The Storyteller",
+			"answer": "Y Storïwr"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "The Storytellers",
+			"answer": "Y Storïwyr"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Dog",
+			"answer": "Ci"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "The Dog",
+			"answer": "Y Ci"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Dogs",
+			"answer": "Cŵn"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "The Dogs",
+			"answer": "Y Cŵn"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Cat",
+			"answer": "Cath"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "The Cat",
+			"answer": "Y Cath"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Cats",
+			"answer": "Cathod"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "The Cats",
+			"answer": "Y Cathod"
 		}
 	]
   }

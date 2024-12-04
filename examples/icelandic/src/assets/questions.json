@@ -23429,6 +23429,126 @@
 				"category": "Vocabulary",
 				"question": "Oranges (fruit) (genitive, definite)",
 				"answer": "Appelsínanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lemon (nominative, indefinite)",
+				"answer": "Sítróna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lemon (nominative, definite)",
+				"answer": "Sítrónan"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lemon (accusative, indefinite)",
+				"answer": "Sítrónu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lemon (accusative, definite)",
+				"answer": "Sítrónuna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lemon (dative, indefinite)",
+				"answer": "Sítrónu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lemon (dative, definite)",
+				"answer": "Sítrónunni"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lemon (genitive, indefinite)",
+				"answer": "Sítrónu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lemon (genitive, definite)",
+				"answer": "Sítrónunnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lemons (nominative, indefinite)",
+				"answer": "Sítrónur"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lemons (nominative, definite)",
+				"answer": "Sítrónurnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lemons (accusative, indefinite)",
+				"answer": "Sítrónur"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lemons (accusative, definite)",
+				"answer": "Sítrónurnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lemons (dative, indefinite)",
+				"answer": "Sítrónum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lemons (dative, definite)",
+				"answer": "Sítrónunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lemons (genitive, indefinite)",
+				"answer": "Sítróna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lemons (genitive, definite)",
+				"answer": "Sítrónanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Corn (nominative, indefinite)",
+				"answer": "Maís"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Corn (nominative, definite)",
+				"answer": "Maísinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Corn (accusative, definite)",
+				"answer": "Maísinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Corn (accusative, indefinite)",
+				"answer": "Maís"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Corn (dative, definite)",
+				"answer": "Maísinum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Corn (dative, indefinite)",
+				"answer": "Maísi"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Corn (genitive, definite)",
+				"answer": "Maíssins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Corn (genitive, indefinite)",
+				"answer": "Maíss"
 			}
 	]
 }

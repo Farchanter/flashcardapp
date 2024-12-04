@@ -8,7 +8,7 @@
 		},
 		{
 			"category": "Rescue Assist",
-			"question": "Place one victim's arm around your neck and hold that hand. Place other arm around victim's waist to support their weight.",
+			"question": "Place one victim's arm around your neck and hold that hand. Place other arm around victim's waist to support their weight",
 			"answer": "Walking assist"
 		},
 		{
@@ -35,6 +35,11 @@
 			"category": "Rescue Assist",
 			"question": "If you do not suspect a nervous injury and need to travel a longer distance, carry a person over your shoulder",
 			"answer": "Firefighter carry"
+		},
+		{
+			"category": "Rescue Assist",
+			"question": "If you do not suspect a nervous injury, carry a person on your back and have them cross their arms in front of you. Suitable for long distances",
+			"answer": "Pack-strap carry"
 		}
 	]
   }

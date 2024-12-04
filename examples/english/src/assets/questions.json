@@ -2204,6 +2204,21 @@
 		"category": "Adjective",
 		"question": "Of or relating to the state of being married",
 		"answer": "Connubial"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A door or partition consisting of a wooden frame covered in rice paper, used in traditional Japanese architecture",
+		"answer": "Shoji"
+	  },
+	  {
+		"category": "Noun",
+		"question": "Enjoyment of living; happiness, abullience, zest for life",
+		"answer": "Joie de vivre"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A coastal water body where ocean tides and river water merge, resulting in a brackish water zone",
+		"answer": "Estuary"
 	  }
 	]
   }

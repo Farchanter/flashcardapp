@@ -268,8 +268,18 @@
 	  },
 	  {
 		"category": "Vocabulary",
-		"question": "The Houses",
+		"question": "The Apartments",
 		"answer": "Nel Wikhatuwikaona"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "The Road",
+		"answer": "Ne Temakan"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "The Roads",
+		"answer": "Nel Temakane"
 	  }
 	]
   }

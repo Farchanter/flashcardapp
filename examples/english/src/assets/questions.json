@@ -2219,6 +2219,21 @@
 		"category": "Noun",
 		"question": "A coastal water body where ocean tides and river water merge, resulting in a brackish water zone",
 		"answer": "Estuary"
+	  },
+	  {
+		"category": "Verb",
+		"question": "To lay out property lots and streets; to map",
+		"answer": "Plat"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Having a compatible temperament or pleasing qualities",
+		"answer": "Simpatico"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A weapon consisting of a pole with a large blade fixed on the end, the edge of which is on the outside curve",
+		"answer": "Glaive"
 	  }
 	]
   }

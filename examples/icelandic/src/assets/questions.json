@@ -23549,6 +23549,46 @@
 				"category": "Vocabulary",
 				"question": "Corn (genitive, indefinite)",
 				"answer": "Maíss"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Rice (nominative, indefinite)",
+				"answer": "Hrís"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Rice (nominative, definite)",
+				"answer": "Hrísinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Rice (accusative, definite)",
+				"answer": "Hrísinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Rice (accusative, indefinite)",
+				"answer": "Hrís"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Rice (dative, definite)",
+				"answer": "Hrísnum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Rice (dative, indefinite)",
+				"answer": "Hrís"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Rice (genitive, definite)",
+				"answer": "Hríssins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Rice (genitive, indefinite)",
+				"answer": "Hríss"
 			}
 	]
 }

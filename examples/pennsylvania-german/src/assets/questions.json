@@ -405,6 +405,16 @@
 		"category": "Vocabulary",
 		"question": "The Farms",
 		"answer": "Die Bauereie"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "The Court",
+		"answer": "Die Koort"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "The Courts",
+		"answer": "Die Koorts"
 	  }
 	]
   }

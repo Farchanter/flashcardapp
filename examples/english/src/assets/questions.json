@@ -2234,6 +2234,16 @@
 		"category": "Noun",
 		"question": "A weapon consisting of a pole with a large blade fixed on the end, the edge of which is on the outside curve",
 		"answer": "Glaive"
+	  },
+	  {
+		"category": "Verb",
+		"question": "To reward or repay (someone) for something done, given, etc.",
+		"answer": "Recompense"
+	  },
+	  {
+		"category": "Noun",
+		"question": "In medicine, a factor or symptom which makes a certain treatment inadvisable, generally or individually",
+		"answer": "Contraindication"
 	  }
 	]
   }

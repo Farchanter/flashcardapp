@@ -23589,6 +23589,86 @@
 				"category": "Vocabulary",
 				"question": "Rice (genitive, indefinite)",
 				"answer": "Hríss"
-			}
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oil (nominative, indefinite)",
+				"answer": "Olía"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oil (nominative, definite)",
+				"answer": "Olían"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oil (accusative, indefinite)",
+				"answer": "Olíu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oil (accusative, definite)",
+				"answer": "Olíuna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oil (dative, indefinite)",
+				"answer": "Olíu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oil (dative, definite)",
+				"answer": "Olíunni"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oil (genitive, indefinite)",
+				"answer": "Olíu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oil (genitive, definite)",
+				"answer": "Olíunnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oils (nominative, indefinite)",
+				"answer": "Olíur"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oils (nominative, definite)",
+				"answer": "Olíurnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oils (accusative, indefinite)",
+				"answer": "Olíur"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oils (accusative, definite)",
+				"answer": "Olíurnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oils (dative, indefinite)",
+				"answer": "Olíum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oils (dative, definite)",
+				"answer": "Olíunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oils (genitive, indefinite)",
+				"answer": "Olía"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oils (genitive, definite)",
+				"answer": "Olíanna"
+			},
 	]
 }

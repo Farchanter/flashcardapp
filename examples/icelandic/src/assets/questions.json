@@ -23670,5 +23670,85 @@
 				"question": "Oils (genitive, definite)",
 				"answer": "Olíanna"
 			},
+			{
+				"category": "Vocabulary",
+				"question": "Knife (nominative, indefinite)",
+				"answer": "Hnífur"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Knife (nominative, definite)",
+				"answer": "Hnífurinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Knife (accusative, definite)",
+				"answer": "Hnífinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Knife (accusative, indefinite)",
+				"answer": "Hníf"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Knife (dative, definite)",
+				"answer": "Hnífinum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Knife (dative, indefinite)",
+				"answer": "Hnífi"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Knife (genitive, definite)",
+				"answer": "Hnífsins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Knife (genitive, indefinite)",
+				"answer": "Hnífs"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Knives (nominative, definite)",
+				"answer": "Hnífarnir"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Knives (nominative, indefinite)",
+				"answer": "Hnífar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Knives (accusative, definite)",
+				"answer": "Hnífana"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Knives (accusative, indefinite)",
+				"answer": "Hnífa"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Knives (dative, definite)",
+				"answer": "Hnífunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Knives (dative, indefinite)",
+				"answer": "Hnífum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Knives (genitive, definite)",
+				"answer": "Hnífanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Knives (genitive, indefinite)",
+				"answer": "Hnífa"
+			}
 	]
 }

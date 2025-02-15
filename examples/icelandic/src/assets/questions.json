@@ -23749,6 +23749,166 @@
 				"category": "Vocabulary",
 				"question": "Knives (genitive, indefinite)",
 				"answer": "Hnífa"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Spoon (nominative, indefinite)",
+				"answer": "Skeið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Spoon (nominative, definite)",
+				"answer": "Skeiðin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Spoon (accusative, indefinite)",
+				"answer": "Skeið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Spoon (accusative, definite)",
+				"answer": "Skeiðina"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Spoon (dative, indefinite)",
+				"answer": "Skeið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Spoon (dative, definite)",
+				"answer": "Skeiðinni"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Spoon (genitive, indefinite)",
+				"answer": "Skeiðar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Spoon (genitive, definite)",
+				"answer": "Skeiðarinnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Spoons (nominative, indefinite)",
+				"answer": "Skeiðar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Spoons (nominative, definite)",
+				"answer": "Skeiðarnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Spoons (accusative, indefinite)",
+				"answer": "Skeiðar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Spoons (accusative, definite)",
+				"answer": "Skeiðarnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Spoons (dative, indefinite)",
+				"answer": "Skeiðum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Spoons (dative, definite)",
+				"answer": "Skeiðunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Spoons (genitive, indefinite)",
+				"answer": "Skeiða"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Spoons (genitive, definite)",
+				"answer": "Skeiðanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Fork (nominative, indefinite)",
+				"answer": "Gaffall"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Fork (nominative, definite)",
+				"answer": "Gaffallinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Fork (accusative, indefinite)",
+				"answer": "Gaffal"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Fork (accusative, definite)",
+				"answer": "Gaffalinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Fork (dative, indefinite)",
+				"answer": "Gaffli"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Fork (dative, definite)",
+				"answer": "Gafflinum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Fork (genitive, indefinite)",
+				"answer": "Gaffals"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Fork (genitive, definite)",
+				"answer": "Gaffalsins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Forks (nominative, indefinite)",
+				"answer": "Gafflar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Forks (nominative, definite)",
+				"answer": "Gafflarnir"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Forks (accusative, indefinite)",
+				"answer": "Gaffla"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Forks (accusative, definite)",
+				"answer": "Gafflana"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Forks (dative, indefinite)",
+				"answer": "Göfflum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Forks (dative, definite)",
+				"answer": "Göfflunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Forks (genitive, indefinite)",
+				"answer": "Gaffla"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Forks (genitive, definite)",
+				"answer": "Gafflanna"
 			}
 	]
 }

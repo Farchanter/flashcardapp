@@ -23429,6 +23429,726 @@
 				"category": "Vocabulary",
 				"question": "Oranges (fruit) (genitive, definite)",
 				"answer": "Appelsínanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lemon (nominative, indefinite)",
+				"answer": "Sítróna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lemon (nominative, definite)",
+				"answer": "Sítrónan"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lemon (accusative, indefinite)",
+				"answer": "Sítrónu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lemon (accusative, definite)",
+				"answer": "Sítrónuna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lemon (dative, indefinite)",
+				"answer": "Sítrónu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lemon (dative, definite)",
+				"answer": "Sítrónunni"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lemon (genitive, indefinite)",
+				"answer": "Sítrónu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lemon (genitive, definite)",
+				"answer": "Sítrónunnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lemons (nominative, indefinite)",
+				"answer": "Sítrónur"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lemons (nominative, definite)",
+				"answer": "Sítrónurnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lemons (accusative, indefinite)",
+				"answer": "Sítrónur"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lemons (accusative, definite)",
+				"answer": "Sítrónurnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lemons (dative, indefinite)",
+				"answer": "Sítrónum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lemons (dative, definite)",
+				"answer": "Sítrónunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lemons (genitive, indefinite)",
+				"answer": "Sítróna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lemons (genitive, definite)",
+				"answer": "Sítrónanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Corn (nominative, indefinite)",
+				"answer": "Maís"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Corn (nominative, definite)",
+				"answer": "Maísinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Corn (accusative, definite)",
+				"answer": "Maísinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Corn (accusative, indefinite)",
+				"answer": "Maís"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Corn (dative, definite)",
+				"answer": "Maísinum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Corn (dative, indefinite)",
+				"answer": "Maísi"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Corn (genitive, definite)",
+				"answer": "Maíssins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Corn (genitive, indefinite)",
+				"answer": "Maíss"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Rice (nominative, indefinite)",
+				"answer": "Hrís"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Rice (nominative, definite)",
+				"answer": "Hrísinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Rice (accusative, definite)",
+				"answer": "Hrísinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Rice (accusative, indefinite)",
+				"answer": "Hrís"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Rice (dative, definite)",
+				"answer": "Hrísnum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Rice (dative, indefinite)",
+				"answer": "Hrís"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Rice (genitive, definite)",
+				"answer": "Hríssins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Rice (genitive, indefinite)",
+				"answer": "Hríss"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oil (nominative, indefinite)",
+				"answer": "Olía"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oil (nominative, definite)",
+				"answer": "Olían"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oil (accusative, indefinite)",
+				"answer": "Olíu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oil (accusative, definite)",
+				"answer": "Olíuna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oil (dative, indefinite)",
+				"answer": "Olíu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oil (dative, definite)",
+				"answer": "Olíunni"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oil (genitive, indefinite)",
+				"answer": "Olíu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oil (genitive, definite)",
+				"answer": "Olíunnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oils (nominative, indefinite)",
+				"answer": "Olíur"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oils (nominative, definite)",
+				"answer": "Olíurnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oils (accusative, indefinite)",
+				"answer": "Olíur"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oils (accusative, definite)",
+				"answer": "Olíurnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oils (dative, indefinite)",
+				"answer": "Olíum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oils (dative, definite)",
+				"answer": "Olíunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oils (genitive, indefinite)",
+				"answer": "Olía"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Oils (genitive, definite)",
+				"answer": "Olíanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Knife (nominative, indefinite)",
+				"answer": "Hnífur"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Knife (nominative, definite)",
+				"answer": "Hnífurinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Knife (accusative, definite)",
+				"answer": "Hnífinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Knife (accusative, indefinite)",
+				"answer": "Hníf"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Knife (dative, definite)",
+				"answer": "Hnífinum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Knife (dative, indefinite)",
+				"answer": "Hnífi"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Knife (genitive, definite)",
+				"answer": "Hnífsins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Knife (genitive, indefinite)",
+				"answer": "Hnífs"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Knives (nominative, definite)",
+				"answer": "Hnífarnir"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Knives (nominative, indefinite)",
+				"answer": "Hnífar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Knives (accusative, definite)",
+				"answer": "Hnífana"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Knives (accusative, indefinite)",
+				"answer": "Hnífa"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Knives (dative, definite)",
+				"answer": "Hnífunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Knives (dative, indefinite)",
+				"answer": "Hnífum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Knives (genitive, definite)",
+				"answer": "Hnífanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Knives (genitive, indefinite)",
+				"answer": "Hnífa"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Spoon (nominative, indefinite)",
+				"answer": "Skeið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Spoon (nominative, definite)",
+				"answer": "Skeiðin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Spoon (accusative, indefinite)",
+				"answer": "Skeið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Spoon (accusative, definite)",
+				"answer": "Skeiðina"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Spoon (dative, indefinite)",
+				"answer": "Skeið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Spoon (dative, definite)",
+				"answer": "Skeiðinni"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Spoon (genitive, indefinite)",
+				"answer": "Skeiðar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Spoon (genitive, definite)",
+				"answer": "Skeiðarinnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Spoons (nominative, indefinite)",
+				"answer": "Skeiðar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Spoons (nominative, definite)",
+				"answer": "Skeiðarnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Spoons (accusative, indefinite)",
+				"answer": "Skeiðar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Spoons (accusative, definite)",
+				"answer": "Skeiðarnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Spoons (dative, indefinite)",
+				"answer": "Skeiðum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Spoons (dative, definite)",
+				"answer": "Skeiðunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Spoons (genitive, indefinite)",
+				"answer": "Skeiða"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Spoons (genitive, definite)",
+				"answer": "Skeiðanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Fork (nominative, indefinite)",
+				"answer": "Gaffall"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Fork (nominative, definite)",
+				"answer": "Gaffallinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Fork (accusative, indefinite)",
+				"answer": "Gaffal"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Fork (accusative, definite)",
+				"answer": "Gaffalinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Fork (dative, indefinite)",
+				"answer": "Gaffli"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Fork (dative, definite)",
+				"answer": "Gafflinum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Fork (genitive, indefinite)",
+				"answer": "Gaffals"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Fork (genitive, definite)",
+				"answer": "Gaffalsins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Forks (nominative, indefinite)",
+				"answer": "Gafflar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Forks (nominative, definite)",
+				"answer": "Gafflarnir"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Forks (accusative, indefinite)",
+				"answer": "Gaffla"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Forks (accusative, definite)",
+				"answer": "Gafflana"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Forks (dative, indefinite)",
+				"answer": "Göfflum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Forks (dative, definite)",
+				"answer": "Göfflunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Forks (genitive, indefinite)",
+				"answer": "Gaffla"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Forks (genitive, definite)",
+				"answer": "Gafflanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Plate (nominative, indefinite)",
+				"answer": "Diskur"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Plate (nominative, definite)",
+				"answer": "Diskurinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Plate (accusative, definite)",
+				"answer": "Diskinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Plate (accusative, indefinite)",
+				"answer": "Disk"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Plate (dative, definite)",
+				"answer": "Diskinum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Plate (dative, indefinite)",
+				"answer": "Diski"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Plate (genitive, definite)",
+				"answer": "Disksins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Plate (genitive, indefinite)",
+				"answer": "Disks"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Plates (nominative, definite)",
+				"answer": "Diskarnir"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Plates (nominative, indefinite)",
+				"answer": "Diskar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Plates (accusative, definite)",
+				"answer": "Diskana"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Plates (accusative, indefinite)",
+				"answer": "Diska"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Plates (dative, definite)",
+				"answer": "Diskunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Plates (dative, indefinite)",
+				"answer": "Diskum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Plates (genitive, definite)",
+				"answer": "Diskanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Plates (genitive, indefinite)",
+				"answer": "Diska"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cup (nominative, indefinite)",
+				"answer": "Bolli"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cup (nominative, definite)",
+				"answer": "Bollinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cup (accusative, indefinite)",
+				"answer": "Bolla"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cup (accusative, definite)",
+				"answer": "Bollann"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cup (dative, indefinite)",
+				"answer": "Bolla"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cup (dative, definite)",
+				"answer": "Bollanum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cup (genitive, indefinite)",
+				"answer": "Bolla"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cup (genitive, definite)",
+				"answer": "Bollans"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cups (nominative, indefinite)",
+				"answer": "Bollar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cups (nominative, definite)",
+				"answer": "Bollarnir"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cups (accusative, indefinite)",
+				"answer": "Bolla"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cups (accusative, definite)",
+				"answer": "Bollana"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cups (dative, indefinite)",
+				"answer": "Bollum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cups (dative, definite)",
+				"answer": "Bollunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cups (genitive, indefinite)",
+				"answer": "Bolla"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cups (genitive, definite)",
+				"answer": "Bollanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Breakfast (nominative, indefinite)",
+				"answer": "Morgunmatur"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Breakfast (nominative, definite)",
+				"answer": "Morgunmaturinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Breakfast (accusative, indefinite)",
+				"answer": "Morgunmat"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Breakfast (accusative, definite)",
+				"answer": "Morgunmatinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Breakfast (dative, indefinite)",
+				"answer": "Morgunmat"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Breakfast (dative, definite)",
+				"answer": "Morgunmatnum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Breakfast (genitive, indefinite)",
+				"answer": "Morgunmatar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Breakfast (genitive, definite)",
+				"answer": "Morgunmatarins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lunch (nominative, indefinite)",
+				"answer": "Hádegismatur"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lunch (nominative, definite)",
+				"answer": "Hádegismaturinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lunch (accusative, indefinite)",
+				"answer": "Hádegismat"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lunch (accusative, definite)",
+				"answer": "Hádegismatinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lunch (dative, indefinite)",
+				"answer": "Hádegismat"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lunch (dative, definite)",
+				"answer": "Hádegismatnum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lunch (genitive, indefinite)",
+				"answer": "Hádegismatar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lunch (genitive, definite)",
+				"answer": "Hádegismatarins"
 			}
 	]
 }

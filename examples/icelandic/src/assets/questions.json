@@ -23909,6 +23909,246 @@
 				"category": "Vocabulary",
 				"question": "Forks (genitive, definite)",
 				"answer": "Gafflanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Plate (nominative, indefinite)",
+				"answer": "Diskur"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Plate (nominative, definite)",
+				"answer": "Diskurinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Plate (accusative, definite)",
+				"answer": "Diskinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Plate (accusative, indefinite)",
+				"answer": "Disk"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Plate (dative, definite)",
+				"answer": "Diskinum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Plate (dative, indefinite)",
+				"answer": "Diski"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Plate (genitive, definite)",
+				"answer": "Disksins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Plate (genitive, indefinite)",
+				"answer": "Disks"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Plates (nominative, definite)",
+				"answer": "Diskarnir"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Plates (nominative, indefinite)",
+				"answer": "Diskar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Plates (accusative, definite)",
+				"answer": "Diskana"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Plates (accusative, indefinite)",
+				"answer": "Diska"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Plates (dative, definite)",
+				"answer": "Diskunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Plates (dative, indefinite)",
+				"answer": "Diskum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Plates (genitive, definite)",
+				"answer": "Diskanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Plates (genitive, indefinite)",
+				"answer": "Diska"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cup (nominative, indefinite)",
+				"answer": "Bolli"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cup (nominative, definite)",
+				"answer": "Bollinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cup (accusative, indefinite)",
+				"answer": "Bolla"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cup (accusative, definite)",
+				"answer": "Bollann"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cup (dative, indefinite)",
+				"answer": "Bolla"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cup (dative, definite)",
+				"answer": "Bollanum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cup (genitive, indefinite)",
+				"answer": "Bolla"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cup (genitive, definite)",
+				"answer": "Bollans"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cups (nominative, indefinite)",
+				"answer": "Bollar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cups (nominative, definite)",
+				"answer": "Bollarnir"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cups (accusative, indefinite)",
+				"answer": "Bolla"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cups (accusative, definite)",
+				"answer": "Bollana"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cups (dative, indefinite)",
+				"answer": "Bollum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cups (dative, definite)",
+				"answer": "Bollunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cups (genitive, indefinite)",
+				"answer": "Bolla"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Cups (genitive, definite)",
+				"answer": "Bollanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Breakfast (nominative, indefinite)",
+				"answer": "Morgunmatur"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Breakfast (nominative, definite)",
+				"answer": "Morgunmaturinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Breakfast (accusative, indefinite)",
+				"answer": "Morgunmat"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Breakfast (accusative, definite)",
+				"answer": "Morgunmatinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Breakfast (dative, indefinite)",
+				"answer": "Morgunmat"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Breakfast (dative, definite)",
+				"answer": "Morgunmatnum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Breakfast (genitive, indefinite)",
+				"answer": "Morgunmatar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Breakfast (genitive, definite)",
+				"answer": "Morgunmatarins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lunch (nominative, indefinite)",
+				"answer": "Hádegismatur"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lunch (nominative, definite)",
+				"answer": "Hádegismaturinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lunch (accusative, indefinite)",
+				"answer": "Hádegismat"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lunch (accusative, definite)",
+				"answer": "Hádegismatinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lunch (dative, indefinite)",
+				"answer": "Hádegismat"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lunch (dative, definite)",
+				"answer": "Hádegismatnum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lunch (genitive, indefinite)",
+				"answer": "Hádegismatar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Lunch (genitive, definite)",
+				"answer": "Hádegismatarins"
 			}
 	]
 }

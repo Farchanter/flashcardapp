@@ -2284,6 +2284,26 @@
 		"category": "Noun",
 		"question": "A person who obstinately adheres to old ways in spite of clear evidence that they are wrong; an ignorant and bigoted opponent of reform",
 		"answer": "Mumpsimus"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Of or relating to oracles",
+		"answer": "Oracular"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A gate in the form of a grating which is lowered into place at the entrance to a castle, fort, etc.",
+		"answer": "Portcullis"
+	  },
+	  {
+		"category": "Noun",
+		"question": "Shapeshifting between human and animal forms",
+		"answer": "Therianthropy"
+	  },
+	  {
+		"category": "Verb",
+		"question": "To magically or supernaturally look into or predict the future using crystal balls or other objects",
+		"answer": "Scry"
 	  }
 	]
   }

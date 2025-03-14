@@ -1712,7 +1712,7 @@
 	  },
 	  {
 		"category": "Adjective",
-		"question": "Sloppy, hasty. shoddy, or inelegant",
+		"question": "Sloppy, hasty, shoddy, or inelegant",
 		"answer": "Kludgy"
 	  },
 	  {
@@ -2204,6 +2204,106 @@
 		"category": "Adjective",
 		"question": "Of or relating to the state of being married",
 		"answer": "Connubial"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A door or partition consisting of a wooden frame covered in rice paper, used in traditional Japanese architecture",
+		"answer": "Shoji"
+	  },
+	  {
+		"category": "Noun",
+		"question": "Enjoyment of living; happiness, abullience, zest for life",
+		"answer": "Joie de vivre"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A coastal water body where ocean tides and river water merge, resulting in a brackish water zone",
+		"answer": "Estuary"
+	  },
+	  {
+		"category": "Verb",
+		"question": "To lay out property lots and streets; to map",
+		"answer": "Plat"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Having a compatible temperament or pleasing qualities",
+		"answer": "Simpatico"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A weapon consisting of a pole with a large blade fixed on the end, the edge of which is on the outside curve",
+		"answer": "Glaive"
+	  },
+	  {
+		"category": "Verb",
+		"question": "To reward or repay (someone) for something done, given, etc.",
+		"answer": "Recompense"
+	  },
+	  {
+		"category": "Noun",
+		"question": "In medicine, a factor or symptom which makes a certain treatment inadvisable, generally or individually",
+		"answer": "Contraindication"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A kind of widemouthed pitcher or jug with a shape like a vase and a handle, originally used for carrying water",
+		"answer": "Ewer"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A relation on sets (X,Y) that associates each element of Y with at most one element of X",
+		"answer": "Injection"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A function for which every element of the codomain is mapped to by some element of the domain; any function f : X → Y for which for every y ∈ Y, there is at least one x ∈ X such that f(x) = y",
+		"answer": "Surjection"
+	  },
+	  {
+		"category": "Noun",
+		"question": "Excessive or inordinate desire of gain; greed for wealth",
+		"answer": "Avarice"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Wandering, traveling, migratory",
+		"answer": "Peregrine"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A stuffed jacket worn under the mail, or (later) a jacket plated with mail",
+		"answer": "Aketon"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A loose garment without sleeves worn over a suit of armor, sometimes colored or embroidered with the wearer's coat of arms",
+		"answer": "Surcoat"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A person who obstinately adheres to old ways in spite of clear evidence that they are wrong; an ignorant and bigoted opponent of reform",
+		"answer": "Mumpsimus"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Of or relating to oracles",
+		"answer": "Oracular"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A gate in the form of a grating which is lowered into place at the entrance to a castle, fort, etc.",
+		"answer": "Portcullis"
+	  },
+	  {
+		"category": "Noun",
+		"question": "Shapeshifting between human and animal forms",
+		"answer": "Therianthropy"
+	  },
+	  {
+		"category": "Verb",
+		"question": "To magically or supernaturally look into or predict the future using crystal balls or other objects",
+		"answer": "Scry"
 	  }
 	]
   }

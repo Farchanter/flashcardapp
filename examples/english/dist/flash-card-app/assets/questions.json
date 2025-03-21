@@ -2304,6 +2304,16 @@
 		"category": "Verb",
 		"question": "To magically or supernaturally look into or predict the future using crystal balls or other objects",
 		"answer": "Scry"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Intended to ward off evil",
+		"answer": "Apotropaic"
+	  },
+	  {
+		"category": "Verb",
+		"question": "To retreat and lie hidden; the hide in a corner",
+		"answer": "Latibulate"
 	  }
 	]
   }

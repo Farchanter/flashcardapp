@@ -40,6 +40,16 @@
 			"category": "Rescue Assist",
 			"question": "If you do not suspect a nervous injury, carry a person on your back and have them cross their arms in front of you. Suitable for long distances",
 			"answer": "Pack-strap carry"
+		},
+		{
+			"category": "Rescue Assist",
+			"question": "If victim is conscious, not in shock, and does not have a suspected nervous injury, have the victim place an arm around each of the two rescuers' necks and hold their far hands. Rescuers place their free hands around the victim's waist, and rescuers support victim's weight as they walk",
+			"answer": "Helping the person walk"
+		},
+		{
+			"category": "Rescue Assist",
+			"question": "If victim is conscious and can hold onto rescuers, have two rescuers form a square with their hands by grabbing onto their own and each other's wrists. Have the victim sit on the resulting square.",
+			"answer": "Four-handed seat"
 		}
 	]
   }

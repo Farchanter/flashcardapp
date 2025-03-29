@@ -24149,6 +24149,46 @@
 				"category": "Vocabulary",
 				"question": "Lunch (genitive, definite)",
 				"answer": "Hádegismatarins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Dinner (nominative, indefinite)",
+				"answer": "Kvöldmatur"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Dinner (nominative, definite)",
+				"answer": "Kvöldmaturinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Dinner (accusative, indefinite)",
+				"answer": "Kvöldmat"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Dinner (accusative, definite)",
+				"answer": "Kvöldmatinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Dinner (dative, indefinite)",
+				"answer": "Kvöldmat"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Dinner (dative, definite)",
+				"answer": "Kvöldmatnum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Dinner (genitive, indefinite)",
+				"answer": "Kvöldmatar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Dinner (genitive, definite)",
+				"answer": "Kvöldmatarins"
 			}
 	]
 }

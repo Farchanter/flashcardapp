@@ -2314,6 +2314,21 @@
 		"category": "Verb",
 		"question": "To retreat and lie hidden; the hide in a corner",
 		"answer": "Latibulate"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A literary quotation placed at the beginning of a book or other text",
+		"answer": "Epigraph"
+	  },
+	  {
+		"category": "Noun",
+		"question": "The state of existing outside absolutely everything",
+		"answer": "Omnilock"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A combination of events which have come together by chance to make a surprisingly good or wonderful outcome",
+		"answer": "Srendipity"
 	  }
 	]
   }

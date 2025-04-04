@@ -2328,7 +2328,22 @@
 	  {
 		"category": "Noun",
 		"question": "A combination of events which have come together by chance to make a surprisingly good or wonderful outcome",
-		"answer": "Srendipity"
+		"answer": "Serendipity"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A mind, as of a newborn, free of any impressions, notions, ideas, etc.; a \"blank slate\"",
+		"answer": "Tabula rasa"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Scornfully mocking or cynical",
+		"answer": "Sardonic"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Having had a habit (usually a bad habit) for a long time",
+		"answer": "Inveterate"
 	  }
 	]
   }

@@ -395,6 +395,36 @@
 		"category": "Vocabulary",
 		"question": "The Restaurants",
 		"answer": "Die Essbletz"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "The Farm",
+		"answer": "Die Bauerei"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "The Farms",
+		"answer": "Die Bauereie"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "The Court",
+		"answer": "Die Koort"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "The Courts",
+		"answer": "Die Koorts"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "The School",
+		"answer": "Die Schul"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "The Schools",
+		"answer": "Die Schule"
 	  }
 	]
   }

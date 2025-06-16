@@ -2344,6 +2344,16 @@
 		"category": "Adjective",
 		"question": "Having had a habit (usually a bad habit) for a long time",
 		"answer": "Inveterate"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A layer within a body of water or air where the temperature changes rapidly with depth",
+		"answer": "Thermocline"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Ill-tempered or annoyed",
+		"answer": "Shirty"
 	  }
 	]
   }

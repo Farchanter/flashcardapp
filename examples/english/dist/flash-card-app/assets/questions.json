@@ -2354,6 +2354,11 @@
 		"category": "Adjective",
 		"question": "Ill-tempered or annoyed",
 		"answer": "Shirty"
+	  },
+	  {
+		"category": "Noun",
+		"question": "An abnormal connection or passageway between organs or vessels",
+		"answer": "Fistula"
 	  }
 	]
   }

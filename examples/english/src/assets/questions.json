@@ -2354,6 +2354,21 @@
 		"category": "Adjective",
 		"question": "Ill-tempered or annoyed",
 		"answer": "Shirty"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A genre of Japanese fiction involving everyday people transported to alternative fantasy or virtual worlds",
+		"answer": "Isekai"
+	  },
+	  {
+		"category": "Verb",
+		"question": "To walk; to relocate oneself under the power of one's own legs",
+		"answer": "Ambulate"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A bacterial derivative of decahydronaphthelene that has a strong earthy smell and is the material responsible for petrichor and for the earthy taste of beetroot",
+		"answer": "Geosmin"
 	  }
 	]
   }

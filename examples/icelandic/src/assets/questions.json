@@ -22948,7 +22948,7 @@
 			{
 				"category": "Vocabulary",
 				"question": "Eggs (genitive, definite)",
-				"answer": "Eggja"
+				"answer": "Eggjanna"
 			},
 			{
 				"category": "Vocabulary",
@@ -24189,6 +24189,326 @@
 				"category": "Vocabulary",
 				"question": "Dinner (genitive, definite)",
 				"answer": "Kvöldmatarins"
-			}
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Room (nominative, indefinite)",
+				"answer": "Rúm"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Room (nominative, definite)",
+				"answer": "Rúmið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Room (accusative, indefinite)",
+				"answer": "Rúm"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Room (accusative, definite)",
+				"answer": "Rúmið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Room (dative, indefinite)",
+				"answer": "Rúmi"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Room (dative, definite)",
+				"answer": "Rúminu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Room (genitive, indefinite)",
+				"answer": "Rúms"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Room (genitive, definite)",
+				"answer": "Rúmsins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Rooms (nominative, indefinite)",
+				"answer": "Rúm"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Rooms (nominative, definite)",
+				"answer": "Rúmin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Rooms (accusative, indefinite)",
+				"answer": "Rúm"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Rooms (accusative, definite)",
+				"answer": "Rúmin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Rooms (dative, indefinite)",
+				"answer": "Rúmum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Rooms (dative, definite)",
+				"answer": "Rúmunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Rooms (genitive, indefinite)",
+				"answer": "Rúma"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Rooms (genitive, definite)",
+				"answer": "Rúmanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bottle (nominative, indefinite)",
+				"answer": "Flaska"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bottle (nominative, definite)",
+				"answer": "Flaskan"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bottle (accusative, indefinite)",
+				"answer": "Flösku"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bottle (accusative, definite)",
+				"answer": "Flöskuna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bottle (dative, indefinite)",
+				"answer": "Flösku"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bottle (dative, definite)",
+				"answer": "Flöskunni"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bottle (genitive, indefinite)",
+				"answer": "Flösku"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bottle (genitive, definite)",
+				"answer": "Flöskunnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bottles (nominative, indefinite)",
+				"answer": "Flöskur"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bottles (nominative, definite)",
+				"answer": "Flöskurnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bottles (accusative, indefinite)",
+				"answer": "Flöskur"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bottles (accusative, definite)",
+				"answer": "Flöskurnar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bottles (dative, indefinite)",
+				"answer": "Flöskum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bottles (dative, definite)",
+				"answer": "Flöskunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bottles (genitive, indefinite)",
+				"answer": "Flaska"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bottles (genitive, definite)",
+				"answer": "Flaskanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Food (nominative, indefinite)",
+				"answer": "Matur"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Food (nominative, definite)",
+				"answer": "Maturinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Food (accusative, definite)",
+				"answer": "Matinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Food (accusative, indefinite)",
+				"answer": "Mat"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Food (dative, definite)",
+				"answer": "Matnum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Food (dative, indefinite)",
+				"answer": "Mat"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Food (genitive, definite)",
+				"answer": "Matsins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Food (genitive, indefinite)",
+				"answer": "Mats"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Foods (nominative, definite)",
+				"answer": "Matarnir"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Foods (nominative, indefinite)",
+				"answer": "Matar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Foods (accusative, definite)",
+				"answer": "Matana"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Foods (accusative, indefinite)",
+				"answer": "Mata"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Foods (dative, definite)",
+				"answer": "Mötunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Foods (dative, indefinite)",
+				"answer": "Mötum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Foods (genitive, definite)",
+				"answer": "Matanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Foods (genitive, indefinite)",
+				"answer": "Mata"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Table (nominative, indefinite)",
+				"answer": "Borð"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Table (nominative, definite)",
+				"answer": "Borðið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Table (accusative, indefinite)",
+				"answer": "Borð"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Table (accusative, definite)",
+				"answer": "Borðið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Table (dative, indefinite)",
+				"answer": "Borði"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Table (dative, definite)",
+				"answer": "Borðinu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Table (genitive, indefinite)",
+				"answer": "Borðs"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Table (genitive, definite)",
+				"answer": "Borðsins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Tables (nominative, indefinite)",
+				"answer": "Borð"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Tables (nominative, definite)",
+				"answer": "Borðin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Tables (accusative, indefinite)",
+				"answer": "Borð"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Tables (accusative, definite)",
+				"answer": "Borðin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Tables (dative, indefinite)",
+				"answer": "Borðum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Tables (dative, definite)",
+				"answer": "Borðunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Tables (genitive, indefinite)",
+				"answer": "Borða"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Tables (genitive, definite)",
+				"answer": "Borðanna"
+			},
 	]
 }

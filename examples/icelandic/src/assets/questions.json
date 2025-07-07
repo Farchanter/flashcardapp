@@ -24510,5 +24510,125 @@
 				"question": "Tables (genitive, definite)",
 				"answer": "Borðanna"
 			},
+			{
+				"category": "Vocabulary",
+				"question": "Sugar (nominative, indefinite)",
+				"answer": "Sykur"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Sugar (nominative, definite)",
+				"answer": "Sykurinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Sugar (accusative, definite)",
+				"answer": "Sykurinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Sugar (accusative, indefinite)",
+				"answer": "Sykur"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Sugar (dative, definite)",
+				"answer": "Sykrinum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Sugar (dative, indefinite)",
+				"answer": "Sykri"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Sugar (genitive, definite)",
+				"answer": "Sykursins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Sugar (genitive, indefinite)",
+				"answer": "Sykurs"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Salt (nominative, indefinite)",
+				"answer": "Salt"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Salt (nominative, definite)",
+				"answer": "Saltið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Salt (accusative, indefinite)",
+				"answer": "Salt"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Salt (accusative, definite)",
+				"answer": "Saltið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Salt (dative, indefinite)",
+				"answer": "Salti"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Salt (dative, definite)",
+				"answer": "Saltinu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Salt (genitive, indefinite)",
+				"answer": "Salts"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Salt (genitive, definite)",
+				"answer": "Saltsins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Salts (nominative, indefinite)",
+				"answer": "Sölt"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Salts (nominative, definite)",
+				"answer": "Söltin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Salts (accusative, indefinite)",
+				"answer": "Sölt"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Salts (accusative, definite)",
+				"answer": "Söltin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Salts (dative, indefinite)",
+				"answer": "Söltum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Salts (dative, definite)",
+				"answer": "Söltunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Salts (genitive, indefinite)",
+				"answer": "Salta"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Salts (genitive, definite)",
+				"answer": "Saltanna"
+			}
 	]
 }

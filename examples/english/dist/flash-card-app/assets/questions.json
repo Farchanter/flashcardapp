@@ -2357,8 +2357,33 @@
 	  },
 	  {
 		"category": "Noun",
+		"question": "A genre of Japanese fiction involving everyday people transported to alternative fantasy or virtual worlds",
+		"answer": "Isekai"
+	  },
+	  {
+		"category": "Verb",
+		"question": "To walk; to relocate oneself under the power of one's own legs",
+		"answer": "Ambulate"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A bacterial derivative of decahydronaphthelene that has a strong earthy smell and is the material responsible for petrichor and for the earthy taste of beetroot",
+		"answer": "Geosmin"
+	  },
+	  {
+		"category": "Noun",
 		"question": "An abnormal connection or passageway between organs or vessels",
 		"answer": "Fistula"
+	  },
+	  {
+		"category": "Verb",
+		"question": "To cobble together, to extemporize, to improvise",
+		"answer": "Vamp"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A rotating component of a device that accelerates fluid, increasing its pressure or flowrate",
+		"answer": "Impeller"
 	  }
 	]
   }

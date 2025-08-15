@@ -2374,6 +2374,16 @@
 		"category": "Noun",
 		"question": "An abnormal connection or passageway between organs or vessels",
 		"answer": "Fistula"
+	  },
+	  {
+		"category": "Verb",
+		"question": "To cobble together, to extemporize, to improvise",
+		"answer": "Vamp"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A rotating component of a device that accelerates fluid, increasing its pressure or flowrate",
+		"answer": "Impeller"
 	  }
 	]
   }

@@ -24629,6 +24629,166 @@
 				"category": "Vocabulary",
 				"question": "Salts (genitive, definite)",
 				"answer": "Saltanna"
-			}
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bed (nominative, indefinite)",
+				"answer": "Rúm"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bed (nominative, definite)",
+				"answer": "Rúmið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bed (accusative, indefinite)",
+				"answer": "Rúm"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bed (accusative, definite)",
+				"answer": "Rúmið"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bed (dative, indefinite)",
+				"answer": "Rúmi"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bed (dative, definite)",
+				"answer": "Rúminu"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bed (genitive, indefinite)",
+				"answer": "Rúms"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Bed (genitive, definite)",
+				"answer": "Rúmsins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beds (nominative, indefinite)",
+				"answer": "Rúm"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beds (nominative, definite)",
+				"answer": "Rúmin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beds (accusative, indefinite)",
+				"answer": "Rúm"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beds (accusative, definite)",
+				"answer": "Rúmin"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beds (dative, indefinite)",
+				"answer": "Rúmum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beds (dative, definite)",
+				"answer": "Rúmunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beds (genitive, indefinite)",
+				"answer": "Rúma"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Beds (genitive, definite)",
+				"answer": "Rúmanna"
+			},
+			{
+			"category": "Vocabulary",
+			"question": "Dream (nominative, indefinite)",
+			"answer": "Draumur"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Dream (nominative, definite)",
+			"answer": "Draumurinn"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Dream (accusative, definite)",
+			"answer": "Drauminn"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Dream (accusative, indefinite)",
+			"answer": "Draum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Dream (dative, definite)",
+			"answer": "Drauminum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Dream (dative, indefinite)",
+			"answer": "Draumi"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Dream (genitive, definite)",
+			"answer": "Draumsins"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Dream (genitive, indefinite)",
+			"answer": "Draums"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Dreams (nominative, definite)",
+			"answer": "Draumarnir"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Dreams (nominative, indefinite)",
+			"answer": "Draumar"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Dreams (accusative, definite)",
+			"answer": "Draumana"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Dreams (accusative, indefinite)",
+			"answer": "Drauma"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Dreams (dative, definite)",
+			"answer": "Draumunum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Dreams (dative, indefinite)",
+			"answer": "Draumum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Dreams (genitive, definite)",
+			"answer": "Draumanna"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Dreams (genitive, indefinite)",
+			"answer": "Drauma"
+		}
 	]
 }

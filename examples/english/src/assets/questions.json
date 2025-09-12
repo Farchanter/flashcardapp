@@ -2384,6 +2384,16 @@
 		"category": "Noun",
 		"question": "A rotating component of a device that accelerates fluid, increasing its pressure or flowrate",
 		"answer": "Impeller"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Covered with scales or scabs; hence, very coarse or rough",
+		"answer": "Shirty"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Lying down",
+		"answer": "Recumbent"
 	  }
 	]
   }

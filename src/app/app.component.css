@@ -1,20 +1,26 @@
+* {
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 100%;
+}
+
 .flash
 {
 	color: #FFFFFF;
 	background-color: #C8102E;
 	font-size: 24px;
-    position: absolute;
-    left: 0px;
-    right: 0px;
-    top: 0px;
-    height: 100vh;
 	font-family: sans-serif;
+	padding-bottom: 3rem;
 }
 
 h1
 {
-	font-size: 2em;
-	margin-bottom: 50px;
+	margin-block: 1em;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: center;
 }
 
 #answerAndSubmit
@@ -32,6 +38,7 @@ h1
 #ui button
 {
 	height: 51px;
+	font-size: 16px;
 }
 
 #textBoxDiv
@@ -43,7 +50,35 @@ h1
 
 #textBoxDiv input
 {
+	box-sizing: border-box;
 	width: 100%;
+	margin-block: 0.25em;
+	padding: 0.25em;
+	font: inherit;
+}
+
+.cardHeader {
+	display: flex;
+	align-items: center;
+	gap: 1rem;
+	margin-bottom: 36px;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 1.1;
+
+	h2 {
+		flex: 1 1 0%;
+		margin: 0;
+		font: inherit;
+	}
+}
+
+#cardBody {
+	padding: 0;
+
+	hr {
+		margin-block: 36px;
+	}
 }
 
 #submitDiv
@@ -59,24 +94,24 @@ h1
 
 #grade
 {
-	font-size: 18px;
-	margin-top: 3px;
+	margin-block: 0;
 	text-align: right;
 	width: 100%;
 }
 
 #gradeContainer
 {
-	width: 100%;
-	color: #C8102E;
-	margin-left: auto; 
+	flex: none;
+	margin-block: 0;
+	margin-left: auto;
 	margin-right: 0;
 }
 
 #letterGrade
 {
-	margin-bottom: 0px;
-	font-size: 36px;
+	margin-block: 0;
+	font: inherit;
+	color: #C8102E;
 }
 
 #game
@@ -86,19 +121,19 @@ h1
 	margin-top: 1em;
 }
 
-#blankString
+#blankString,
+#fullAnswer
 {
 	padding-top: 15px;
 	letter-spacing: .2rem;
 	line-height: 40px;
 }
 
-#fullAnswer
-{
-	padding-top: 15px;
-	line-height: 40px;
+.hintText {
+	margin: 0;
+	color: #555;
+	font-size: 1rem;
 }
-
 #answerHint
 {
 	letter-spacing: 0;
@@ -107,7 +142,7 @@ h1
 
 #buttonSection
 {
-	margin-left: auto; 
+	margin-left: auto;
 	margin-right: 0;
 }
 
@@ -115,11 +150,6 @@ h1
 {
 	height: 51px;
 	width: 100%;
-}
-
-button
-{
-	margin-left: 3px;
 }
 
 hr.solidDivider
@@ -136,7 +166,7 @@ hr.solidDivider
 
 div
 {
-	padding-bottom: 10px;
+	margin-block: 10px;
 }
 
 #wrongAnswerExplainer
@@ -147,13 +177,24 @@ div
 
 #cookieDisclaimer
 {
-	font-size: 10px;
-	padding-top: 40px;
+	position: fixed;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-color: black;
 }
-
-#cookieDisclaimer button
-{
-	font-size: 10px;
+.cookieContainer {
+	display: flex;
+	align-items: center;
+	gap: 1rem;
+	width: fit-content;
+	margin-inline: auto;
+	margin-block: 0;
+	padding-block: 10px;
+	font-size: 10pt;
+}
+#cookieDisclaimer button {
+	padding-block: 5px;
 }
 
 p
@@ -169,11 +210,5 @@ mat-card
 
 #flashcard
 {
-	box-shadow: 12px 12px rgb(128, 128, 128, .2);
-}
-
-#cardBody
-{
-	margin-left: 10px;
-	margin-right: 10px;
+	box-shadow: 12px 24px 0 rgb(255 255 255 / 0.2);
 }

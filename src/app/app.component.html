@@ -1,38 +1,46 @@
 <div class="flash" [ngClass]="{'correctBackground' : showCorrect}">
+	<h1>English Flash Cards</h1>
 	<div id="game">
 		<mat-card id="flashcard">
-			<div id="cardBody">
+			<div class="cardHeader">
+				<h2>{{category}}</h2>
 				<div id="gradeContainer">
 					<div id="grade">
 						<h3 id="letterGrade">{{questionCount}}</h3>
 					</div>
 				</div>
-				<h1>{{category}}</h1>
+			</div>
+			<div id="cardBody">
 				<p *ngIf="!isPicture">{{currentQuestion}}<span *ngIf="isPreviousWrongQuestion === true">*</span></p>
 				<img *ngIf="isPicture" src="{{imageSource}}" width="100" height="100"/>
-				<div>
-					<span></span>
-					<span></span>
-				</div>
+
 				<hr>
-				<span><span id="blankString" *ngIf="!showAnswer; else fullAnswer">{{blankString}} <div id="answerHint">({{answerToCurrentQuestion.length}} characters)</div></span></span>
-				<ng-template #fullAnswer><span id="fullAnswer">{{answerToCurrentQuestion.toUpperCase()}} <div id="answerHint">({{answerToCurrentQuestion.length}} characters)</div></span></ng-template>
-				<div id="wrongAnswerExplainer" *ngIf="isPreviousWrongQuestion">*You are being shown this question because you made a mistake on it previously</div>
+
+				<form id="userAnswer" #userAnswer = "ngForm" (ngSubmit) = "onClickSubmit()" [(ngModel)]="guess" name="guess" ngDefaultControl>
+					<div id="textBoxDiv">
+						<label>Your Answer:
+							<input type="text" name="text" autocomplete="off" ngModel/>
+						</label>
+					</div>
+				</form>
+
+				<p class="hintText">Hint:
+					<span id="blankString" *ngIf="!showAnswer; else fullAnswer">{{blankString}}</span>
+
+					<ng-template #fullAnswer><span id="fullAnswer">{{answerToCurrentQuestion.toUpperCase()}}</span></ng-template>
+
+					<span id="answerHint"> ({{answerToCurrentQuestion.length}} characters)</span>
+				<p>
+
+				<p id="wrongAnswerExplainer" *ngIf="isPreviousWrongQuestion">*You are being shown this question because you made a mistake on it previously</p>
 			</div>
 		</mat-card>
+
 		<div id="ui">
-			<hr class="solid">
-			<div>Your Answer:</div>
-			<form #userAnswer = "ngForm" (ngSubmit) = "onClickSubmit()" [(ngModel)]="guess" name="guess" ngDefaultControl>
-					<div id="textBoxDiv">
-						<input type="text" name="text" autocomplete="off" ngModel/>
-					</div>
-					<hr class="solid">
-					<div id="submitDiv">
-						<button mat-flat-button type="submit">Submit</button>
-					</div>
-			</form>
 			<span id="buttonSection">
+				<div id="submitDiv">
+					<button mat-flat-button type="submit" form="userAnswer">Submit</button>
+				</div>
 				<div>
 					<button mat-flat-button (click)="showAnswer = !showAnswer" *ngIf="showShowAnswerButton">Show answer</button>
 				</div>
@@ -42,14 +50,14 @@
 			</span>
 			<span></span>
 		</div>
-		
-		
+
+
 
 		<div id="cookieDisclaimer" *ngIf="!acceptedCookies && cookieDisclaimer">
-			<div>This application uses cookies only to deliver its functionality. No cookies are used for tracking or advertising.</div>
-			<button (click)="acceptedCookies = true">OK</button>
+			<div class="cookieContainer">
+				<div>🍪 This application uses cookies only to deliver its functionality. No cookies are used for tracking or advertising.</div>
+				<button (click)="acceptCookies()">OK</button>
+			</div>
 		</div>
-
     </div>
 </div>
-

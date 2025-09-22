@@ -39,6 +39,7 @@ export class AppComponent
 	imageSource = '';
 	cookieDisclaimer = config.showCookieDisclaimer
 	questionCount = 0;
+	appTitle = config.appTitle;
 
 	constructor(public cookieService: CookieService, public titleService:Title)
 	{

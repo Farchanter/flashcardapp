@@ -2394,6 +2394,16 @@
 		"category": "Adjective",
 		"question": "Lying down",
 		"answer": "Recumbent"
+	  },
+	  {
+		"category": "Verb",
+		"question": "To soften something or separate it into pieces by soaking it in a heated or unheated liquid",
+		"answer": "Macerate"
+	  },
+	  {
+		"category": "Noun",
+		"question": "One who fights with their fists, especially a professional prize fighter; a boxer",
+		"answer": "Pugilist"
 	  }
 	]
   }

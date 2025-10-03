@@ -24714,81 +24714,641 @@
 			"category": "Vocabulary",
 			"question": "Dream (nominative, indefinite)",
 			"answer": "Draumur"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Dream (nominative, definite)",
+				"answer": "Draumurinn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Dream (accusative, definite)",
+				"answer": "Drauminn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Dream (accusative, indefinite)",
+				"answer": "Draum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Dream (dative, definite)",
+				"answer": "Drauminum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Dream (dative, indefinite)",
+				"answer": "Draumi"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Dream (genitive, definite)",
+				"answer": "Draumsins"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Dream (genitive, indefinite)",
+				"answer": "Draums"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Dreams (nominative, definite)",
+				"answer": "Draumarnir"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Dreams (nominative, indefinite)",
+				"answer": "Draumar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Dreams (accusative, definite)",
+				"answer": "Draumana"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Dreams (accusative, indefinite)",
+				"answer": "Drauma"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Dreams (dative, definite)",
+				"answer": "Draumunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Dreams (dative, indefinite)",
+				"answer": "Draumum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Dreams (genitive, definite)",
+				"answer": "Draumanna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Dreams (genitive, indefinite)",
+				"answer": "Drauma"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Window (nominative, indefinite)",
+				"answer": "Gluggi"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Window (nominative, definite)",
+				"answer": "Glugginn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Window (accusative, indefinite)",
+				"answer": "Glugga"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Window (accusative, definite)",
+				"answer": "Gluggann"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Window (dative, indefinite)",
+				"answer": "Glugga"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Window (dative, definite)",
+				"answer": "Glugganum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Window (genitive, indefinite)",
+				"answer": "Glugga"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Window (genitive, definite)",
+				"answer": "Gluggans"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Windows (nominative, indefinite)",
+				"answer": "Gluggar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Windows (nominative, definite)",
+				"answer": "Gluggarnir"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Windows (accusative, indefinite)",
+				"answer": "Glugga"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Windows (accusative, definite)",
+				"answer": "Gluggana"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Windows (dative, indefinite)",
+				"answer": "Gluggum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Windows (dative, definite)",
+				"answer": "Gluggunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Windows (genitive, indefinite)",
+				"answer": "Glugga"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Windows (genitive, definite)",
+				"answer": "Glugganna"
+			},
+			{
+			"category": "Vocabulary",
+			"question": "Door (nominative, indefinite)",
+			"answer": "hurð"
 		},
 		{
 			"category": "Vocabulary",
-			"question": "Dream (nominative, definite)",
-			"answer": "Draumurinn"
+			"question": "Door (nominative, definite)",
+			"answer": "hurðin"
 		},
 		{
 			"category": "Vocabulary",
-			"question": "Dream (accusative, definite)",
-			"answer": "Drauminn"
+			"question": "Door (accusative, indefinite)",
+			"answer": "hurð"
 		},
 		{
 			"category": "Vocabulary",
-			"question": "Dream (accusative, indefinite)",
-			"answer": "Draum"
+			"question": "Door (accusative, definite)",
+			"answer": "hurðina"
 		},
 		{
 			"category": "Vocabulary",
-			"question": "Dream (dative, definite)",
-			"answer": "Drauminum"
+			"question": "Door (dative, indefinite)",
+			"answer": "hurð"
 		},
 		{
 			"category": "Vocabulary",
-			"question": "Dream (dative, indefinite)",
-			"answer": "Draumi"
+			"question": "Door (dative, definite)",
+			"answer": "hurðinni"
 		},
 		{
 			"category": "Vocabulary",
-			"question": "Dream (genitive, definite)",
-			"answer": "Draumsins"
+			"question": "Door (genitive, indefinite)",
+			"answer": "hurðar"
 		},
 		{
 			"category": "Vocabulary",
-			"question": "Dream (genitive, indefinite)",
-			"answer": "Draums"
+			"question": "Door (genitive, definite)",
+			"answer": "hurðarinnar"
 		},
 		{
 			"category": "Vocabulary",
-			"question": "Dreams (nominative, definite)",
-			"answer": "Draumarnir"
+			"question": "Doors (nominative, indefinite)",
+			"answer": "hurðir"
 		},
 		{
 			"category": "Vocabulary",
-			"question": "Dreams (nominative, indefinite)",
-			"answer": "Draumar"
+			"question": "Doors (nominative, definite)",
+			"answer": "hurðirnar"
 		},
 		{
 			"category": "Vocabulary",
-			"question": "Dreams (accusative, definite)",
-			"answer": "Draumana"
+			"question": "Doors (accusative, indefinite)",
+			"answer": "hurðir"
 		},
 		{
 			"category": "Vocabulary",
-			"question": "Dreams (accusative, indefinite)",
-			"answer": "Drauma"
+			"question": "Doors (accusative, definite)",
+			"answer": "hurðirnar"
 		},
 		{
 			"category": "Vocabulary",
-			"question": "Dreams (dative, definite)",
-			"answer": "Draumunum"
+			"question": "Doors (dative, indefinite)",
+			"answer": "hurðum"
 		},
 		{
 			"category": "Vocabulary",
-			"question": "Dreams (dative, indefinite)",
-			"answer": "Draumum"
+			"question": "Doors (dative, definite)",
+			"answer": "hurðunum"
 		},
 		{
 			"category": "Vocabulary",
-			"question": "Dreams (genitive, definite)",
-			"answer": "Draumanna"
+			"question": "Doors (genitive, indefinite)",
+			"answer": "hurða"
 		},
 		{
 			"category": "Vocabulary",
-			"question": "Dreams (genitive, indefinite)",
-			"answer": "Drauma"
+			"question": "Doors (genitive, definite)",
+			"answer": "hurðanna"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Bedroom (nominative, indefinite)",
+			"answer": "svefnherbergi"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Bedroom (nominative, definite)",
+			"answer": "svefnherbergið"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Bedroom (accusative, indefinite)",
+			"answer": "svefnherbergi"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Bedroom (accusative, definite)",
+			"answer": "svefnherbergið"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Bedroom (dative, indefinite)",
+			"answer": "svefnherbergi"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Bedroom (dative, definite)",
+			"answer": "svefnherberginu"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Bedroom (genitive, indefinite)",
+			"answer": "svefnherbergis"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Bedroom (genitive, definite)",
+			"answer": "svefnherbergisins"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Bedrooms (nominative, indefinite)",
+			"answer": "svefnherbergi"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Bedrooms (nominative, definite)",
+			"answer": "svefnherbergin"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Bedrooms (accusative, indefinite)",
+			"answer": "svefnherbergi"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Bedrooms (accusative, definite)",
+			"answer": "svefnherbergin"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Bedrooms (dative, indefinite)",
+			"answer": "svefnherbergjum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Bedrooms (dative, definite)",
+			"answer": "svefnherbergjunum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Bedrooms (genitive, indefinite)",
+			"answer": "svefnherbergja"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Bedrooms (genitive, definite)",
+			"answer": "svefnherbergjanna"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Kitchen (nominative, indefinite)",
+			"answer": "Eldhús"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Kitchen (nominative, definite)",
+			"answer": "Eldhúsið"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Kitchen (accusative, indefinite)",
+			"answer": "Eldhús"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Kitchen (accusative, definite)",
+			"answer": "Eldhúsið"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Kitchen (dative, indefinite)",
+			"answer": "Eldhúsi"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Kitchen (dative, definite)",
+			"answer": "Eldhúsinu"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Kitchen (genitive, indefinite)",
+			"answer": "Eldhúss"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Kitchen (genitive, definite)",
+			"answer": "Eldhúsins"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Kitchens (nominative, indefinite)",
+			"answer": "Eldhús"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Kitchens (nominative, definite)",
+			"answer": "Eldhúsin"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Kitchens (accusative, indefinite)",
+			"answer": "Eldhús"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Kitchens (accusative, definite)",
+			"answer": "Eldhúsin"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Kitchens (dative, indefinite)",
+			"answer": "Eldhúsum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Kitchens (dative, definite)",
+			"answer": "Eldhúsunum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Kitchens (genitive, indefinite)",
+			"answer": "Eldhúsa"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Kitchens (genitive, definite)",
+			"answer": "Eldhúsanna"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Bathroom (nominative, indefinite)",
+			"answer": "Baðherbergi"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Bathroom (nominative, definite)",
+			"answer": "Baðherbergið"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Bathroom (accusative, indefinite)",
+			"answer": "Baðherbergi"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Bathroom (accusative, definite)",
+			"answer": "Baðherbergið"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Bathroom (dative, indefinite)",
+			"answer": "Baðherbergi"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Bathroom (dative, definite)",
+			"answer": "Baðherberginu"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Bathroom (genitive, indefinite)",
+			"answer": "Baðherbergis"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Bathroom (genitive, definite)",
+			"answer": "Baðherbergisins"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Bathrooms (nominative, indefinite)",
+			"answer": "Baðherbergi"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Bathrooms (nominative, definite)",
+			"answer": "Baðherbergin"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Bathrooms (accusative, indefinite)",
+			"answer": "Baðherbergi"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Bathrooms (accusative, definite)",
+			"answer": "Baðherbergin"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Bathrooms (dative, indefinite)",
+			"answer": "Baðherbergjum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Bathrooms (dative, definite)",
+			"answer": "Baðherbergjunum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Bathrooms (genitive, indefinite)",
+			"answer": "Baðherbergja"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Bathrooms (genitive, definite)",
+			"answer": "Baðherbergjanna"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Water Closet (nominative, indefinite)",
+			"answer": "Klósett"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Water Closet (nominative, definite)",
+			"answer": "Klósettið"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Water Closet (accusative, indefinite)",
+			"answer": "Klósett"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Water Closet (accusative, definite)",
+			"answer": "Klósettið"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Water Closet (dative, indefinite)",
+			"answer": "Klósetti"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Water Closet (dative, definite)",
+			"answer": "Klósettinu"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Water Closet (genitive, indefinite)",
+			"answer": "Klósetts"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Water Closet (genitive, definite)",
+			"answer": "Klósettins"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Water Closets (nominative, indefinite)",
+			"answer": "Klósett"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Water Closets (nominative, definite)",
+			"answer": "Klósettin"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Water Closets (accusative, indefinite)",
+			"answer": "Klósett"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Water Closets (accusative, definite)",
+			"answer": "Klósettin"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Water Closets (dative, indefinite)",
+			"answer": "Klósettum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Water Closets (dative, definite)",
+			"answer": "Klósettunum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Water Closets (genitive, indefinite)",
+			"answer": "Klósetta"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Water Closets (genitive, definite)",
+			"answer": "Klósettanna"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pencil (nominative, indefinite)",
+			"answer": "Blýantur"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pencil (nominative, definite)",
+			"answer": "Blýanturinn"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pencil (accusative, definite)",
+			"answer": "Blýantinn"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pencil (accusative, indefinite)",
+			"answer": "Blýant"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pencil (dative, definite)",
+			"answer": "Blýantinum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pencil (dative, indefinite)",
+			"answer": "Blýanti"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pencil (genitive, definite)",
+			"answer": "Blýantsins"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pencil (genitive, indefinite)",
+			"answer": "Blýants"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pencils (nominative, definite)",
+			"answer": "Blýantarnir"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pencils (nominative, indefinite)",
+			"answer": "Blýantar"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pencils (accusative, definite)",
+			"answer": "Blýantana"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pencils (accusative, indefinite)",
+			"answer": "Blýanta"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pencils (dative, definite)",
+			"answer": "Blýöntunum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pencils (dative, indefinite)",
+			"answer": "Blýöntum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pencils (genitive, definite)",
+			"answer": "Blýantanna"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pencils (genitive, indefinite)",
+			"answer": "Blýanta"
 		}
 	]
 }

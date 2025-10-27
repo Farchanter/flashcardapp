@@ -2404,6 +2404,21 @@
 		"category": "Noun",
 		"question": "One who fights with their fists, especially a professional prize fighter; a boxer",
 		"answer": "Pugilist"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A delicate and intricate ornamentation made from platinum, gold, silver, or sometimes other metal twisted wire",
+		"answer": "Filigree"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A song or poem of lamentation or mourning for a dead person; a dirge; an elegy",
+		"answer": "Threnody"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Rudely abupt; curt, unfriendly",
+		"answer": "Brusque"
 	  }
 	]
   }

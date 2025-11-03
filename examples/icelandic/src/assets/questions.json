@@ -24711,9 +24711,9 @@
 				"answer": "Rúmanna"
 			},
 			{
-			"category": "Vocabulary",
-			"question": "Dream (nominative, indefinite)",
-			"answer": "Draumur"
+				"category": "Vocabulary",
+				"question": "Dream (nominative, indefinite)",
+				"answer": "Draumur"
 			},
 			{
 				"category": "Vocabulary",
@@ -25349,6 +25349,246 @@
 			"category": "Vocabulary",
 			"question": "Pencils (genitive, indefinite)",
 			"answer": "Blýanta"
+		},
+		{
+				"category": "Vocabulary",
+				"question": "Pen (nominative, indefinite)",
+				"answer": "Penni"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Pen (nominative, definite)",
+				"answer": "Penninn"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Pen (accusative, indefinite)",
+				"answer": "Penna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Pen (accusative, definite)",
+				"answer": "Pennann"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Pen (dative, indefinite)",
+				"answer": "Penna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Pen (dative, definite)",
+				"answer": "Pennanum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Pen (genitive, indefinite)",
+				"answer": "Penna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Pen (genitive, definite)",
+				"answer": "Pennans"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Pens (nominative, indefinite)",
+				"answer": "Pennar"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Pens (nominative, definite)",
+				"answer": "Pennarnir"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Pens (accusative, indefinite)",
+				"answer": "Penna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Pens (accusative, definite)",
+				"answer": "Pennana"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Pens (dative, indefinite)",
+				"answer": "Pennum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Pens (dative, definite)",
+				"answer": "Pennunum"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Pens (genitive, indefinite)",
+				"answer": "Penna"
+			},
+			{
+				"category": "Vocabulary",
+				"question": "Pens (genitive, definite)",
+				"answer": "Pennanna"
+			},
+			{
+			"category": "Vocabulary",
+			"question": "Mouse (nominative, indefinite)",
+			"answer": "mús"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Mouse (nominative, definite)",
+			"answer": "músin"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Mouse (accusative, indefinite)",
+			"answer": "mús"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Mouse (accusative, definite)",
+			"answer": "músina"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Mouse (dative, indefinite)",
+			"answer": "mús"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Mouse (dative, definite)",
+			"answer": "músinni"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Mouse (genitive, indefinite)",
+			"answer": "músar"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Mouse (genitive, definite)",
+			"answer": "músarinnar"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Mice (nominative, indefinite)",
+			"answer": "mýs"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Mice (nominative, definite)",
+			"answer": "mýsnar"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Mice (accusative, indefinite)",
+			"answer": "mýs"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Mice (accusative, definite)",
+			"answer": "mýsnar"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Mice (dative, indefinite)",
+			"answer": "músum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Mice (dative, definite)",
+			"answer": "músunum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Mice (genitive, indefinite)",
+			"answer": "músa"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Mice (genitive, definite)",
+			"answer": "músanna"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Soap (nominative, indefinite)",
+			"answer": "sápa"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Soap (nominative, definite)",
+			"answer": "sápan"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Soap (accusative, indefinite)",
+			"answer": "sápu"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Soap (accusative, definite)",
+			"answer": "sápuna"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Soap (dative, indefinite)",
+			"answer": "sápu"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Soap (dative, definite)",
+			"answer": "sápunni"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Soap (genitive, indefinite)",
+			"answer": "sápu"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Soap (genitive, definite)",
+			"answer": "sápunnar"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Soaps (nominative, indefinite)",
+			"answer": "sápur"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Soaps (nominative, definite)",
+			"answer": "sápurnar"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Soaps (accusative, indefinite)",
+			"answer": "sápur"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Soaps (accusative, definite)",
+			"answer": "sápurnar"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Soaps (dative, indefinite)",
+			"answer": "sápum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Soaps (dative, definite)",
+			"answer": "sápunum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Soaps (genitive, indefinite)",
+			"answer": "sápa"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Soaps (genitive, definite)",
+			"answer": "sápanna"
 		}
 	]
 }

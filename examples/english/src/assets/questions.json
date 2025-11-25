@@ -2419,6 +2419,21 @@
 		"category": "Adjective",
 		"question": "Rudely abupt; curt, unfriendly",
 		"answer": "Brusque"
+	  },
+	  {
+		"category": "Verb",
+		"question": "To leave out or omit something",
+		"answer": "Elide"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A form of parosmia involving olfactory hallucinations in which the perceived smell is triggered apparently without cause rather than by another smell",
+		"answer": "Phantosmia"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A place to retreat to, alone, when ill-humored",
+		"answer": "Growlery"
 	  }
 	]
   }

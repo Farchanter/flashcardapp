@@ -25589,6 +25589,86 @@
 			"category": "Vocabulary",
 			"question": "Soaps (genitive, definite)",
 			"answer": "sápanna"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Book (nominative, indefinite)",
+			"answer": "Bók"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Book (nominative, definite)",
+			"answer": "Bókin"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Book (accusative, indefinite)",
+			"answer": "Bók"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Book (accusative, definite)",
+			"answer": "Bókina"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Book (dative, indefinite)",
+			"answer": "Bók"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Book (dative, definite)",
+			"answer": "Bókinni"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Book (genitive, indefinite)",
+			"answer": "Bókar"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Book (genitive, definite)",
+			"answer": "Bókarinnar"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Books (nominative, indefinite)",
+			"answer": "Bókir"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Books (nominative, definite)",
+			"answer": "Bókirnar"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Books (accusative, indefinite)",
+			"answer": "Bókir"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Books (accusative, definite)",
+			"answer": "Bókirnar"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Books (dative, indefinite)",
+			"answer": "Bókum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Books (dative, definite)",
+			"answer": "Bókunum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Books (genitive, indefinite)",
+			"answer": "Bóka"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Books (genitive, definite)",
+			"answer": "Bókanna"
 		}
 	]
 }

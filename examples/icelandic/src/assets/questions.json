@@ -25669,6 +25669,166 @@
 			"category": "Vocabulary",
 			"question": "Books (genitive, definite)",
 			"answer": "Bókanna"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Page (nominative, indefinite)",
+			"answer": "Síða"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Page (nominative, definite)",
+			"answer": "Síðan"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Page (accusative, indefinite)",
+			"answer": "Síðu"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Page (accusative, definite)",
+			"answer": "Síðuna"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Page (dative, indefinite)",
+			"answer": "Síðu"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Page (dative, definite)",
+			"answer": "Síðunni"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Page (genitive, indefinite)",
+			"answer": "Síðu"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Page (genitive, definite)",
+			"answer": "Síðunnar"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pages (nominative, indefinite)",
+			"answer": "Síður"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pages (nominative, definite)",
+			"answer": "Síðurnar"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pages (accusative, indefinite)",
+			"answer": "Síður"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pages (accusative, definite)",
+			"answer": "Síðurnar"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pages (dative, indefinite)",
+			"answer": "Síðum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pages (dative, definite)",
+			"answer": "Síðunum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pages (genitive, indefinite)",
+			"answer": "Síða"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pages (genitive, definite)",
+			"answer": "Síðanna"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Key (nominative, indefinite)",
+			"answer": "Lykill"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Key (nominative, definite)",
+			"answer": "Lykillinn"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Key (accusative, indefinite)",
+			"answer": "Lykil"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Key (accusative, definite)",
+			"answer": "Lykilinn"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Key (dative, indefinite)",
+			"answer": "Lykli"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Key (dative, definite)",
+			"answer": "Lyklinum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Key (genitive, indefinite)",
+			"answer": "Lykils"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Key (genitive, definite)",
+			"answer": "Lykilsins"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Keys (nominative, indefinite)",
+			"answer": "Lyklar"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Keys (nominative, definite)",
+			"answer": "Lyklarnir"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Keys (accusative, indefinite)",
+			"answer": "Lykla"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Keys (accusative, definite)",
+			"answer": "Lyklana"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Keys (dative, indefinite)",
+			"answer": "Lyklum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Keys (dative, definite)",
+			"answer": "Lyklunum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Keys (genitive, indefinite)",
+			"answer": "Lykla"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Keys (genitive, definite)",
+			"answer": "Lyklanna"
 		}
 	]
 }

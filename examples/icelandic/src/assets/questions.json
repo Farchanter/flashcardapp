@@ -25430,86 +25430,6 @@
 				"question": "Pens (genitive, definite)",
 				"answer": "Pennanna"
 			},
-			{
-			"category": "Vocabulary",
-			"question": "Mouse (nominative, indefinite)",
-			"answer": "mús"
-		},
-		{
-			"category": "Vocabulary",
-			"question": "Mouse (nominative, definite)",
-			"answer": "músin"
-		},
-		{
-			"category": "Vocabulary",
-			"question": "Mouse (accusative, indefinite)",
-			"answer": "mús"
-		},
-		{
-			"category": "Vocabulary",
-			"question": "Mouse (accusative, definite)",
-			"answer": "músina"
-		},
-		{
-			"category": "Vocabulary",
-			"question": "Mouse (dative, indefinite)",
-			"answer": "mús"
-		},
-		{
-			"category": "Vocabulary",
-			"question": "Mouse (dative, definite)",
-			"answer": "músinni"
-		},
-		{
-			"category": "Vocabulary",
-			"question": "Mouse (genitive, indefinite)",
-			"answer": "músar"
-		},
-		{
-			"category": "Vocabulary",
-			"question": "Mouse (genitive, definite)",
-			"answer": "músarinnar"
-		},
-		{
-			"category": "Vocabulary",
-			"question": "Mice (nominative, indefinite)",
-			"answer": "mýs"
-		},
-		{
-			"category": "Vocabulary",
-			"question": "Mice (nominative, definite)",
-			"answer": "mýsnar"
-		},
-		{
-			"category": "Vocabulary",
-			"question": "Mice (accusative, indefinite)",
-			"answer": "mýs"
-		},
-		{
-			"category": "Vocabulary",
-			"question": "Mice (accusative, definite)",
-			"answer": "mýsnar"
-		},
-		{
-			"category": "Vocabulary",
-			"question": "Mice (dative, indefinite)",
-			"answer": "músum"
-		},
-		{
-			"category": "Vocabulary",
-			"question": "Mice (dative, definite)",
-			"answer": "músunum"
-		},
-		{
-			"category": "Vocabulary",
-			"question": "Mice (genitive, indefinite)",
-			"answer": "músa"
-		},
-		{
-			"category": "Vocabulary",
-			"question": "Mice (genitive, definite)",
-			"answer": "músanna"
-		},
 		{
 			"category": "Vocabulary",
 			"question": "Soap (nominative, indefinite)",
@@ -25829,6 +25749,206 @@
 			"category": "Vocabulary",
 			"question": "Keys (genitive, definite)",
 			"answer": "Lyklanna"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Paint (nominative, indefinite)",
+			"answer": "Málning"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Paint (nominative, definite)",
+			"answer": "Málningin"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Paint (accusative, indefinite)",
+			"answer": "Málningu"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Paint (accusative, definite)",
+			"answer": "Málninguna"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Paint (dative, indefinite)",
+			"answer": "Málningu"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Paint (dative, definite)",
+			"answer": "Málningunni"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Paint (genitive, indefinite)",
+			"answer": "Málningar"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Paint (genitive, definite)",
+			"answer": "Málningarinnar"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Letter (nominative, indefinite)",
+			"answer": "Bréf"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Letter (accusative, indefinite)",
+			"answer": "Bréf"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Letter (dative, indefinite)",
+			"answer": "Bréfi"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Letter (genitive, indefinite)",
+			"answer": "Bréfs"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Letters (nominative, indefinite)",
+			"answer": "Bréf"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Letters (accusative, indefinite)",
+			"answer": "Bréf"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Letters (dative, indefinite)",
+			"answer": "Bréfum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Letters (genitive, indefinite)",
+			"answer": "Bréfa"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Letter (nominative, definite)",
+			"answer": "Bréfið"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Letter (accusative, definite)",
+			"answer": "Bréfið"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Letter (dative, definite)",
+			"answer": "Bréfinu"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Letter (genitive, definite)",
+			"answer": "Bréfsins"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Letters (nominative, definite)",
+			"answer": "Bréfin"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Letters (accusative, definite)",
+			"answer": "Bréfin"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Letters (dative, definite)",
+			"answer": "Bréfunum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Letters (genitive, definite)",
+			"answer": "Bréfanna"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Note (nominative, indefinite)",
+			"answer": "Miði"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Note (nominative, definite)",
+			"answer": "Miðinn"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Note (accusative, indefinite)",
+			"answer": "Miða"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Note (accusative, definite)",
+			"answer": "Miðann"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Note (dative, indefinite)",
+			"answer": "Miða"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Note (dative, definite)",
+			"answer": "Miðanum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Note (genitive, indefinite)",
+			"answer": "Miða"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Note (genitive, definite)",
+			"answer": "Miðans"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Notes (nominative, indefinite)",
+			"answer": "Miðar"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Notes (nominative, definite)",
+			"answer": "Miðarnir"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Notes (accusative, indefinite)",
+			"answer": "Miða"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Notes (accusative, definite)",
+			"answer": "Miðana"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Notes (dative, indefinite)",
+			"answer": "Miðum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Notes (dative, definite)",
+			"answer": "Miðunum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Notes (genitive, indefinite)",
+			"answer": "Miða"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Notes (genitive, definite)",
+			"answer": "Miðanna"
 		}
 	]
 }

@@ -2444,6 +2444,11 @@
 		"category": "Adjective",
 		"question": "Feverish, or having a high temperature",
 		"answer": "Febrile"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A division into two branches",
+		"answer": "Bifurcation"
 	  }
 	]
   }

@@ -34,11 +34,12 @@ export class AppComponent
 	previousWrongAnswers = config.useCookies ? this.getPreviousWrongAnswerArray() : [];
 	gotQuestionWrong = false;
 	showShowAnswerButton = config.showShowAnswerButton;
-	acceptedCookies = false;
+	acceptedCookies = Boolean(this.cookieService.get(config.appTitle.toLowerCase() + "AcceptedCookies") ?? false);
 	isPicture = false;
 	imageSource = '';
 	cookieDisclaimer = config.showCookieDisclaimer
 	questionCount = 0;
+	appTitle = config.appTitle;
 
 	constructor(public cookieService: CookieService, public titleService:Title)
 	{
@@ -46,7 +47,7 @@ export class AppComponent
 		this.blankString = this.assembleBlankString();
 		this.titleService.setTitle(config.appTitle);
 	}
-    
+
 	onClickSubmit()
 	{
 		this.numberGuesses++;
@@ -98,7 +99,7 @@ export class AppComponent
 					}
 				}
 			}
-    	}	
+    	}
 	}
 
   	replaceLetter(char:string)
@@ -118,10 +119,10 @@ export class AppComponent
 				}
 			}
 		}
-		
+
 		return hasReplacedLetter;
 	}
-	
+
 	setCharAt(string:string, index:number, char:string)
 	{
 		return string.substring(0,index) + char + string.substring(index+1);
@@ -185,21 +186,21 @@ export class AppComponent
 			}
 		}
 	}
-	
+
 	getAnyQuestionIndex()
 	{
 		let questionIndex = Math.floor(Math.random() * this.questions.questions.length);
 		this.isPreviousWrongQuestion = this.previousWrongAnswers.includes(questionIndex+'');
 		return questionIndex;
 	}
-	
+
 	getWrongQuestionIndex()
 	{
 		this.isPreviousWrongQuestion = true;
 		console.log("Previous incorrect answer");
 		return parseInt(this.previousWrongAnswers[Math.floor(Math.random() * this.previousWrongAnswers.length)]);
 	}
-	
+
 	assembleBlankString()
 	{
 		let resultString = '';
@@ -216,5 +217,11 @@ export class AppComponent
 		}
 
 		return resultString;
+	}
+
+	acceptCookies()
+	{
+		this.acceptedCookies = true;
+		this.cookieService.set(config.appTitle.toLowerCase() + "AcceptedCookies", "true");
 	}
 }

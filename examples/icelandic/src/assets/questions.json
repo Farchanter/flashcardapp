@@ -25949,6 +25949,326 @@
 			"category": "Vocabulary",
 			"question": "Notes (genitive, definite)",
 			"answer": "Miðanna"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Wall (nominative, indefinite)",
+			"answer": "Veggur"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Wall (nominative, definite)",
+			"answer": "Veggurinn"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Wall (accusative, definite)",
+			"answer": "Vegginn"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Wall (accusative, indefinite)",
+			"answer": "Vegg"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Wall (dative, definite)",
+			"answer": "Veggnum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Wall (dative, indefinite)",
+			"answer": "Vegg"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Wall (genitive, definite)",
+			"answer": "Veggsins"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Wall (genitive, indefinite)",
+			"answer": "Veggs"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Walls (nominative, definite)",
+			"answer": "Veggirnir"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Walls (nominative, indefinite)",
+			"answer": "Veggir"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Walls (accusative, definite)",
+			"answer": "Veggina"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Walls (accusative, indefinite)",
+			"answer": "Veggi"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Walls (dative, definite)",
+			"answer": "Veggjunum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Walls (dative, indefinite)",
+			"answer": "Veggjum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Walls (genitive, definite)",
+			"answer": "Veggjanna"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Walls (genitive, indefinite)",
+			"answer": "Veggja"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Paper (nominative, indefinite)",
+			"answer": "Pappír"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Paper (nominative, definite)",
+			"answer": "Pappírinn"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Paper (accusative, definite)",
+			"answer": "Pappírinn"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Paper (accusative, indefinite)",
+			"answer": "Pappír"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Paper (dative, definite)",
+			"answer": "Pappírinum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Paper (dative, indefinite)",
+			"answer": "Pappíri"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Paper (genitive, definite)",
+			"answer": "Pappírsins"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Paper (genitive, indefinite)",
+			"answer": "Pappírs"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Papers (nominative, definite)",
+			"answer": "Pappírarnir"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Papers (nominative, indefinite)",
+			"answer": "Pappírar"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Papers (accusative, definite)",
+			"answer": "Pappírana"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Papers (accusative, indefinite)",
+			"answer": "Pappíra"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Papers (dative, definite)",
+			"answer": "Pappírunum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Papers (dative, indefinite)",
+			"answer": "Pappírum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Papers (genitive, definite)",
+			"answer": "Pappíranna"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Papers (genitive, indefinite)",
+			"answer": "Pappíra"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Floor (nominative, indefinite)",
+			"answer": "Gólf"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Floor (accusative, indefinite)",
+			"answer": "Gólf"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Floor (dative, indefinite)",
+			"answer": "Gólfi"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Floor (genitive, indefinite)",
+			"answer": "Gólfs"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Floors (nominative, indefinite)",
+			"answer": "Gólf"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Floors (accusative, indefinite)",
+			"answer": "Gólf"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Floors (dative, indefinite)",
+			"answer": "Gólfum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Floors (genitive, indefinite)",
+			"answer": "Gólfa"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Floor (nominative, definite)",
+			"answer": "Gólfið"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Floor (accusative, definite)",
+			"answer": "Gólfið"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Floor (dative, definite)",
+			"answer": "Gólfinu"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Floor (genitive, definite)",
+			"answer": "Gólfsins"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Floors (nominative, definite)",
+			"answer": "Gólfin"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Floors (accusative, definite)",
+			"answer": "Gólfin"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Floors (dative, definite)",
+			"answer": "Gólfunum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Floors (genitive, definite)",
+			"answer": "Gólfanna"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Ceiling (nominative, indefinite)",
+			"answer": "Loft"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Ceiling (accusative, indefinite)",
+			"answer": "Loft"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Ceiling (dative, indefinite)",
+			"answer": "Lofti"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Ceiling (genitive, indefinite)",
+			"answer": "Lofts"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Ceilings (nominative, indefinite)",
+			"answer": "Loft"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Ceilings (accusative, indefinite)",
+			"answer": "Loft"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Ceilings (dative, indefinite)",
+			"answer": "Loftum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Ceilings (genitive, indefinite)",
+			"answer": "Lofta"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Ceiling (nominative, definite)",
+			"answer": "Loftið"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Ceiling (accusative, definite)",
+			"answer": "Loftið"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Ceiling (dative, definite)",
+			"answer": "Loftinu"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Ceiling (genitive, definite)",
+			"answer": "Loftsins"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Ceilings (nominative, definite)",
+			"answer": "Loftin"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Ceilings (accusative, definite)",
+			"answer": "Loftin"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Ceilings (dative, definite)",
+			"answer": "Loftunum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Ceilings (genitive, definite)",
+			"answer": "Loftanna"
 		}
 	]
 }

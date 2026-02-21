@@ -2449,6 +2449,41 @@
 		"category": "Noun",
 		"question": "A division into two branches",
 		"answer": "Bifurcation"
+	  },
+	  {
+		"category": "Noun",
+		"question": "Anything that is old or of inferior quality",
+		"answer": "Cruft"
+	  },
+	  {
+		"category": "Noun",
+		"question": "The intersection in a game of ludic elements and narrative elements",
+		"answer": "Ludonarrative"
+	  },
+	  {
+		"category": "Noun",
+		"question": "The district within which a bailie or bailiff has jurisdiction",
+		"answer": "Bailiwick"
+	  },
+	  {
+		"category": "Noun",
+		"question": "Someone who is possessed by a demon",
+		"answer": "Demoniac"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A government of seven people",
+		"answer": "Heptarchy"
+	  },
+	  {
+		"category": "Noun",
+		"question": "The sheltered tranquility of being indoors during a thunderstorm",
+		"answer": "Chrysalism"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A small flaw or sin",
+		"answer": "Peccadillo"
 	  }
 	]
   }

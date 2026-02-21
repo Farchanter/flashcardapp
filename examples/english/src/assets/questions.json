@@ -2469,6 +2469,21 @@
 		"category": "Noun",
 		"question": "Someone who is possessed by a demon",
 		"answer": "Demoniac"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A government of seven people",
+		"answer": "Heptarchy"
+	  },
+	  {
+		"category": "Noun",
+		"question": "The sheltered tranquility of being indoors during a thunderstorm",
+		"answer": "Chrysalism"
+	  },
+	  {
+		"category": "Noun",
+		"question": "A small flaw or sin",
+		"answer": "Peccadillo"
 	  }
 	]
   }

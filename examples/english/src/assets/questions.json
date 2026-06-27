@@ -2484,6 +2484,26 @@
 		"category": "Noun",
 		"question": "A small flaw or sin",
 		"answer": "Peccadillo"
+	  },
+	  {
+		"category": "Noun",
+		"question": "The second coming of Christ",
+		"answer": "Parousia"
+	  },
+	  {
+		"category": "Noun",
+		"question": "Charge taken on bets",
+		"answer": "Vig"
+	  },
+	  {
+		"category": "Verb",
+		"question": "To urge a person; to press on; to incite to action or motion via intrinsic motivation",
+		"answer": "Impel"
+	  },
+	  {
+		"category": "Adjective",
+		"question": "Preparatory or introductory",
+		"answer": "Propadeutic"
 	  }
 	]
   }

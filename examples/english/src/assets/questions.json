@@ -2504,6 +2504,11 @@
 		"category": "Adjective",
 		"question": "Preparatory or introductory",
 		"answer": "Propadeutic"
-	  }
+	  },
+    {
+      "category": "Noun",
+      "question": "Place or source of origin",
+      "answer": "Provenance"
+    }
 	]
   }

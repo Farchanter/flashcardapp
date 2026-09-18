@@ -2509,6 +2509,11 @@
       "category": "Noun",
       "question": "Place or source of origin",
       "answer": "Provenance"
-    }
+    },
+	{
+		"category": "Noun",
+		"question": "A drainage hole on the deck of a ship",
+		"answer": "Scupper"
+	}
 	]
   }

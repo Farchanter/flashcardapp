@@ -2514,6 +2514,11 @@
 		"category": "Noun",
 		"question": "A drainage hole on the deck of a ship",
 		"answer": "Scupper"
-	}
+	},
+    {
+"category": "Noun",
+      "question": "A blindly loyal bureaucrat",
+      "answer": "Apparatchik"
+    }
 	]
   }

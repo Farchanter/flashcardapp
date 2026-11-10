@@ -26269,6 +26269,86 @@
 			"category": "Vocabulary",
 			"question": "Ceilings (genitive, definite)",
 			"answer": "Loftanna"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Roof (nominative, indefinite)",
+			"answer": "þak"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Roof (nominative, definite)",
+			"answer": "þakið"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Roof (accusative, indefinite)",
+			"answer": "þak"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Roof (accusative, definite)",
+			"answer": "þakið"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Roof (dative, indefinite)",
+			"answer": "þaki"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Roof (dative, definite)",
+			"answer": "þakinu"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Roof (genitive, indefinite)",
+			"answer": "þaks"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Roof (genitive, definite)",
+			"answer": "þaksins"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Roofs (nominative, indefinite)",
+			"answer": "þök"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Roofs (nominative, definite)",
+			"answer": "þökin"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Roofs (accusative, indefinite)",
+			"answer": "þök"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Roofs (accusative, definite)",
+			"answer": "þökin"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Roofs (dative, indefinite)",
+			"answer": "þökum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Roofs (dative, definite)",
+			"answer": "þökunum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Roofs (genitive, indefinite)",
+			"answer": "þaka"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Roofs (genitive, definite)",
+			"answer": "þakanna"
 		}
 	]
 }

@@ -268,8 +268,38 @@
 	  },
 	  {
 		"category": "Vocabulary",
-		"question": "The Houses",
+		"question": "The Apartments",
 		"answer": "Nel Wikhatuwikaona"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "The Road",
+		"answer": "Ne Temakan"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "The Roads",
+		"answer": "Nel Temakane"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "The Bridge",
+		"answer": "Ne Tayaxkun"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "The Bridges",
+		"answer": "Nel Tayaxkuna"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "The Hotel",
+		"answer": "Ne Mehemaikenk"
+	  },
+	  {
+		"category": "Vocabulary",
+		"question": "The Hotels",
+		"answer": "Nel Mehemaikenkwe"
 	  }
 	]
   }

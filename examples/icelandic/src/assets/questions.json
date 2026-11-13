@@ -26349,6 +26349,166 @@
 			"category": "Vocabulary",
 			"question": "Roofs (genitive, definite)",
 			"answer": "þakanna"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pool (nominative, indefinite)",
+			"answer": "Laug"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pool (nominative, definite)",
+			"answer": "Laugin"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pool (accusative, indefinite)",
+			"answer": "Laug"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pool (accusative, definite)",
+			"answer": "Laugina"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pool (dative, indefinite)",
+			"answer": "Laug"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pool (dative, definite)",
+			"answer": "Lauginni"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pool (genitive, indefinite)",
+			"answer": "Laugar"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pool (genitive, definite)",
+			"answer": "Laugarinnar"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pools (nominative, indefinite)",
+			"answer": "Laugir"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pools (nominative, definite)",
+			"answer": "Laugirnar"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pools (accusative, indefinite)",
+			"answer": "Laugir"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pools (accusative, definite)",
+			"answer": "Laugirnar"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pools (dative, indefinite)",
+			"answer": "Laugum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pools (dative, definite)",
+			"answer": "Laugunum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pools (genitive, indefinite)",
+			"answer": "Lauga"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pools (genitive, definite)",
+			"answer": "Lauganna"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pool (nominative, indefinite)",
+			"answer": "Laug"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pool (nominative, definite)",
+			"answer": "Laugin"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pool (accusative, indefinite)",
+			"answer": "Laug"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pool (accusative, definite)",
+			"answer": "Laugina"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pool (dative, indefinite)",
+			"answer": "Laug"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pool (dative, definite)",
+			"answer": "Lauginni"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pool (genitive, indefinite)",
+			"answer": "Laugar"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pool (genitive, definite)",
+			"answer": "Laugarinnar"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pools (nominative, indefinite)",
+			"answer": "Laugir"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pools (nominative, definite)",
+			"answer": "Laugirnar"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pools (accusative, indefinite)",
+			"answer": "Laugir"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pools (accusative, definite)",
+			"answer": "Laugirnar"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pools (dative, indefinite)",
+			"answer": "Laugum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pools (dative, definite)",
+			"answer": "Laugunum"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pools (genitive, indefinite)",
+			"answer": "Lauga"
+		},
+		{
+			"category": "Vocabulary",
+			"question": "Pools (genitive, definite)",
+			"answer": "Lauganna"
 		}
 	]
 }

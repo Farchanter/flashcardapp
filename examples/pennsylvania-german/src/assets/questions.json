@@ -425,6 +425,16 @@
 		"category": "Vocabulary",
 		"question": "The Schools",
 		"answer": "Die Schule"
+	  },
+    {
+		"category": "Vocabulary",
+		"question": "The Office",
+		"answer": "Die Affis"
+	  },
+    {
+		"category": "Vocabulary",
+		"question": "The Offices",
+		"answer": "Die Affisse"
 	  }
 	]
   }
